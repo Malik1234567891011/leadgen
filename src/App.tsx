@@ -48,7 +48,9 @@ export default function App() {
     booked: scored.filter(s => s.lead.status === 'meeting').length,
     due: scored.filter(s => s.lead.followUp && s.lead.followUp <= today && callable(s.lead)).length,
     callFirst: scored.filter(s => s.score.priority === 'call-first' && callable(s.lead)).length,
-    calledToday: scored.filter(s => s.lead.activity.some(a => a.at.slice(0, 10) === today && a.outcome !== 'note')).length,
+    // Daily funnel (research §10): track dials and real conversations, not just meetings.
+    dialsToday: scored.reduce((n, s) => n + s.lead.activity.filter(a => isoDate(new Date(a.at)) === today && a.outcome !== 'note').length, 0),
+    talksToday: scored.reduce((n, s) => n + s.lead.activity.filter(a => isoDate(new Date(a.at)) === today && ['conversation', 'meeting', 'not-interested', 'callback'].includes(a.outcome)).length, 0),
   }), [scored, today])
 
   const rows = useMemo(() => {
@@ -161,7 +163,8 @@ export default function App() {
                   <div className="flex gap-2">
                     <Stat label="Call first" value={counts.callFirst} tone="text-hot" />
                     <Stat label="Due today" value={counts.due} tone="text-warn" />
-                    <Stat label="Dialed today" value={counts.calledToday} />
+                    <Stat label="Dials today" value={counts.dialsToday} />
+                    <Stat label="Talked today" value={counts.talksToday} tone="text-accent" />
                     <Stat label="Meetings" value={counts.booked} tone="text-good" />
                   </div>
                 </div>
