@@ -9745,5 +9745,1255 @@
     "canadaCallReady": false,
     "notes": "",
     "activity": []
+  },
+  {
+    "id": "oklahoma-disaster-restoration-oklahoma-disaster-restoration-and-cleaning-specialists-inc",
+    "company": "Oklahoma Disaster Restoration (Oklahoma Disaster Restoration and Cleaning Specialists, Inc.)",
+    "website": "https://okdisaster.com",
+    "vertical": "restoration",
+    "city": "Tulsa",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "General office Mon–Fri 8am–5pm; advertises 'Open 24/7 - 365' for emergencies (website). Google profile shows Open 24 hours",
+    "hoursSource": "Official website contact page; Google Maps business profile",
+    "phone": "(918) 622-7641",
+    "phoneSource": "Official website header and contact page ('Call 24/7: (918) 622-7641'); matches Google Maps business profile",
+    "googleRating": 4.7,
+    "googleReviews": 146,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain okdisaster.com): 16 ads, advertiser 'Oklahoma Disaster Restoration and Cleaning Specialists, Inc.' (verified). Recency of the ads not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'Family-owned and locally operated' since 1988; About page names Tammy Stokes (Owner & General Manager) and Jay Stokes (Owner). Footer says 'Proud member of Restoration Affiliates' (a network of independent restorers, not an owner).",
+    "employeesEstimate": "unknown; About page shows a leadership team with several division managers (likely 20+), no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with 'Request Callback' form; no chat, booking, Podium/Birdeye or similar widget in page source. Site nav has a 'Financing' page. Owner (Tammy) replies personally to Google reviews.",
+    "dmName": "Tammy Stokes",
+    "dmTitle": "Owner & General Manager",
+    "dmSource": "https://okdisaster.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is staffed Mon–Fri 8–5 but the site promises 'Open 24/7 - 365'; who answers (918) 622-7641 when a Tulsa basement floods at 2am on a Saturday?",
+    "hooks": [
+      "Family owned in Tulsa since 1988; Tammy and Jay Stokes are the owners",
+      "Contact page: open 24/7-365, but general office hours are Mon–Fri 8am–5pm",
+      "4.7 stars on 146 Google reviews; Tammy replies to reviews by name",
+      "Runs Google Ads (16 ads in the Transparency Center)",
+      "Does residential and commercial water, fire, mold, storm and reconstruction"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://okdisaster.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://okdisaster.com/about-us/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://okdisaster.com/contact-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Oklahoma+Disaster+Restoration+Tulsa+OK"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=okdisaster.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.208Z",
+    "researchNotes": "recentReviews null: only default-sorted reviews checked (several 2 months old, owner replies a month ago). Free estimates not stated. Employee count not published. Also does a lot of commercial work (emergency response plans), but residential is a listed service line. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "hard-knox-plumbing",
+    "company": "Hard Knox Plumbing",
+    "website": "https://www.hardknoxplumbing.com",
+    "vertical": "plumbing",
+    "city": "Knoxville",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours, 7 days a week (website and Google); site notes 'Technicians are on the road most of the day'",
+    "hoursSource": "Official website contact/about pages; Google Maps business profile",
+    "phone": "(865) 765-8946",
+    "phoneSource": "Official website header/CTA ('865.765.8946', call or text); matches Google Maps business profile",
+    "googleRating": 5,
+    "googleReviews": 396,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain hardknoxplumbing.com): 8 ads, advertiser 'Hard Knox Plumbing' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: founded in Knoxville in 2023 by Danny Ferris and Jarrett Mohn (co-owners and licensed plumbers); 'No franchise, no call center, no out-of-state corporate owner.'",
+    "employeesEstimate": "7 (About page: 'Team size 7 employees')",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Housecall Pro online booking embedded ('Book online'); phone line advertised as call or text. No Podium/Birdeye/chat widget found in page source. Owners reply to Google reviews.",
+    "dmName": "Danny Ferris / Jarrett Mohn",
+    "dmTitle": "Co-Owners & Licensed Plumbers",
+    "dmSource": "https://www.hardknoxplumbing.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises a real person answers 865.765.8946 24/7, and the two owners are also working plumbers; who picks up when both are under a house at 11pm?",
+    "hooks": [
+      "Founded in 2023 by Danny Ferris and Jarrett Mohn; seven people on the team",
+      "Promises 'a real person answers 24 hours a day' with no call center",
+      "5.0 stars on 396 Google reviews in about three years",
+      "Runs Google Ads and takes Housecall Pro online bookings",
+      "Site says 'Technicians are on the road most of the day, call ahead'"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.hardknoxplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.hardknoxplumbing.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.hardknoxplumbing.com/contact/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Hard+Knox+Plumbing+Knoxville+TN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=hardknoxplumbing.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": true,
+      "chatOrText": true,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.208Z",
+    "researchNotes": "afterHoursGap false: the site claims live 24/7 answering, so no stated gap; how it is staffed is unknown. Free estimates not stated. Two co-owners; which one handles vendors is unknown. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "royle-plumbing",
+    "company": "Royle Plumbing",
+    "website": "https://royleplumbing.com",
+    "vertical": "plumbing",
+    "city": "Memphis",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Office Mon–Fri 8am–5pm; emergency service advertised 24/7 (website contact page). Google profile shows Open 24 hours",
+    "hoursSource": "Official website contact page; Google Maps business profile",
+    "phone": "(901) 446-2052",
+    "phoneSource": "Official website header/CTA ('Call Now: (901) 446-2052'); matches Google Maps business profile",
+    "googleRating": 5,
+    "googleReviews": 170,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain royleplumbing.com): 13 ads, advertiser 'Daniel Royle' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: 'Royle Plumbing isn't a franchise'; founded by Danny Royle, a Memphis homeowner who became a Master Plumber. Site: 'A local Memphis family serving Memphis families.' Ads account is in the name Daniel Royle.",
+    "employeesEstimate": "unknown; small (reviews name Danny personally), no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "'Book Online' goes to a client portal (portal.royleplumbing.com; platform not identified). Web form promises reply 'within 1 business hour'. No chat/Podium/Birdeye widget in page scripts. Owner replies to nearly every Google review.",
+    "dmName": "Danny (Daniel) Royle",
+    "dmTitle": "Founder, Master Plumber",
+    "dmSource": "https://royleplumbing.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office runs Mon–Fri 8–5 but the site says 'We're available 24/7 for Memphis families'; when Danny is on a job or it's after 5, who answers a burst-pipe call?",
+    "hooks": [
+      "Founded by Danny Royle, Master Plumber; 'isn't a franchise'",
+      "Office Mon–Fri 8–5, yet 24/7 emergency service advertised on every page",
+      "5.0 stars on 170 Google reviews, owner replies to nearly all",
+      "Runs Google Ads under Daniel Royle's name (13 ads)",
+      "Serves Memphis and North Mississippi (25-mile radius); CastleCare membership plan"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://royleplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://royleplumbing.com/about"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://royleplumbing.com/contact"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Royle+Plumbing+Memphis+TN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=royleplumbing.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": true,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "Site is JavaScript-rendered, so it was read in the browser. Financing and free estimates not mentioned. Google profile is a service-area listing (no public address). Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "patriot-restoration",
+    "company": "Patriot Restoration",
+    "website": "https://patriotrestorationtn.com",
+    "vertical": "restoration",
+    "city": "Knoxville",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google); website: 'Available 24/7 for emergencies. One call connects you to a live technician'. No separate office hours published",
+    "hoursSource": "Google Maps business profile; official website contact page",
+    "phone": "(865) 346-5934",
+    "phoneSource": "Official website header, contact and about pages ('Call Us 24/7 (865) 346-5934'). Google Maps profile shows a DIFFERENT number, (865) 813-8072 (likely a call-tracking number)",
+    "googleRating": 5,
+    "googleReviews": 317,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain patriotrestorationtn.com): 29 ads including video, advertiser 'Patriot Restoration' (verified). Site also loads the Google Ads conversion tag. Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: 'locally owned', 'Local Family Owned'; T.J. Wiberley is 'the founder and President', born and raised in Knoxville, UT graduate. Kevin Karl is Vice President.",
+    "employeesEstimate": "~10–20 (About page lists leadership, an office director, a coordinator and several named field technicians)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Custom site with forms and 'FREE ESTIMATE' CTA; no chat, booking, Podium/Birdeye or similar widget in page scripts (only Facebook pixel, Google Tag Manager, Google Ads). Reviewers mention a dispatcher (Tammy). Owner replies to Google reviews.",
+    "dmName": "T.J. Wiberley",
+    "dmTitle": "Founder & President",
+    "dmSource": "https://patriotrestorationtn.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Your Google listing rings (865) 813-8072 while the site promises one call to (865) 346-5934 reaches a live technician 24/7; do both lines land with the same person at 2am?",
+    "hooks": [
+      "Founded by Knoxville native T.J. Wiberley, locally and family owned",
+      "5.0 stars on 317 Google reviews; reviewers name the dispatcher and techs",
+      "Site promises 'one call connects you to a live technician — not a machine'",
+      "Google profile number differs from the website number",
+      "Heavy Google Ads presence (29 ads incl. video)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://patriotrestorationtn.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://patriotrestorationtn.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://patriotrestorationtn.com/contact/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Patriot+Restoration+Knoxville+TN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=patriotrestorationtn.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "Not to be confused with other 'Patriot Restoration' companies elsewhere; this is the Knoxville one (2804 Sutherland Ave). afterHoursGap null: no limited office hours published, and the site claims live 24/7 answering. Financing not mentioned. Also does commercial losses. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "aspen-electrical-services-llc",
+    "company": "Aspen Electrical Services, LLC",
+    "website": "https://www.aspenelectricalservices.com",
+    "vertical": "electrical",
+    "city": "Tulsa",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google); website advertises 24/7 emergency services. No office hours published",
+    "hoursSource": "Google Maps business profile; official website",
+    "phone": "(918) 277-9119",
+    "phoneSource": "Official website header ('Call Us NOW - 918-277-9119'); matches Google Maps business profile",
+    "googleRating": 4.8,
+    "googleReviews": 427,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain aspenelectricalservices.com): 19 ads, advertiser 'ASPEN ELECTRICAL SERVICES, L.L.C.' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: 'Family Owned & Operated'; Jeremy Parchman, a licensed electrician, founded Aspen in 2007 'with little more than a pickup truck' and oversees the team. Home page: 'Each call is answered by someone who appreciates you choosing a locally owned business.'",
+    "employeesEstimate": "20+ (About page: 'a team of over 20 full-time electricians')",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Simple site with contact form and call CTA; no chat, booking, Podium/Birdeye or similar widget found in page source. No owner replies seen on the most recent Google reviews.",
+    "dmName": "Jeremy Parchman",
+    "dmTitle": "Founder (licensed electrician)",
+    "dmSource": "https://www.aspenelectricalservices.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 20+ electricians in the field and a promise of 24/7 emergency service, who answers (918) 277-9119 when a panel sparks on a Sunday night?",
+    "hooks": [
+      "Founded in 2007 by Jeremy Parchman with 'little more than a pickup truck'",
+      "Now 20+ full-time electricians; family owned and operated",
+      "4.8 stars on 427 Google reviews",
+      "Runs Google Ads (19 ads) and advertises 24/7 emergency service",
+      "2026 promo: 10% off for seniors, first responders, teachers and others"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.aspenelectricalservices.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.aspenelectricalservices.com/about"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Aspen+Electrical+Services+LLC+Tulsa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=aspenelectricalservices.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "Does commercial, residential and solar work. Financing not mentioned. afterHoursGap null: no office hours published to compare against the 24/7 claim. freeEstimate based on 'free project consultation' and 'free estimates' on the contact page. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "redland-electric-llc",
+    "company": "Redland Electric LLC",
+    "website": "https://www.redlandelectric.com",
+    "vertical": "electrical",
+    "city": "Duncan (Greenville–Spartanburg, Upstate SC)",
+    "region": "SC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google Business Profile); website publishes no hours",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(864) 909-4441",
+    "phoneSource": "Official website (header/footer); matches Google Maps business profile",
+    "googleRating": 5,
+    "googleReviews": 253,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain redlandelectric.com): 1 ad, advertiser 'Redland Electric LLC' (verified). Light spend; recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'locally owned and operated'; 'A message from the owner' signed David Tkach, Founder, Owner and Master Electrician; he completed a 5-year union apprenticeship before founding Redland.",
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Squarespace site with 'Schedule Appointment' form; Google profile shows a 'Book online' button. No chat, Podium/Birdeye or similar widget in page scripts. Owner replies to nearly every Google review.",
+    "dmName": "David Tkach",
+    "dmTitle": "Founder, Owner and Master Electrician",
+    "dmSource": "https://www.redlandelectric.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google lists Redland as open 24 hours and the site has an emergency electrician page; when David is on a job, who answers (864) 909-4441?",
+    "hooks": [
+      "Founded by master electrician David Tkach after a 5-year union apprenticeship",
+      "5.0 stars on 253 Google reviews; owner replies to nearly all",
+      "Serves Greenville, Spartanburg, Greer, Simpsonville and Anderson",
+      "Google profile shows Open 24 hours and a Book online button",
+      "Has an Emergency Electrician service page"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.redlandelectric.com/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Redland+Electric+LLC+Greenville+SC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=redlandelectric.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": null,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": true,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "Address is 199 Thackston Rd, Duncan SC (between Greenville and Spartanburg). emergency247 null: site lists emergency electrician service but does not say 24/7; Google shows Open 24 hours. Financing not mentioned. Employee count unknown. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "sc-heating-and-air",
+    "company": "SC Heating And Air",
+    "website": "https://scheatingandair.com",
+    "vertical": "hvac",
+    "city": "Columbia",
+    "region": "SC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google Business Profile); website offers emergency HVAC repair but publishes no hours",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(803) 309-8475",
+    "phoneSource": "Official website header ('Call For Heating And Air Service! (803) 309-8475'); matches Google Maps business profile",
+    "googleRating": 4.8,
+    "googleReviews": 123,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain scheatingandair.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website header and copy brand the business around Sam Cassell ('Sam Cassell Heating & Air In The Midlands'; 'Sam Cassell can install a new AC unit or fix and repair your current one'). The site does not state an ownership title or founding year.",
+    "employeesEstimate": "unknown; appears small (single named technician-proprietor), no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Simple brochure site with a contact form and 'FREE Estimate' CTA; no chat, booking, Podium/Birdeye or similar widget in page source. Owner replies to recent Google reviews by name.",
+    "dmName": "Sam Cassell",
+    "dmTitle": "Named proprietor/technician on website (title not stated)",
+    "dmSource": "https://scheatingandair.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google shows you open 24 hours and the site promises emergency AC and heat repair; when Sam is on a job in Irmo or Chapin, who answers (803) 309-8475?",
+    "hooks": [
+      "Site is built around Sam Cassell personally: 'Sam Cassell can install a new AC unit'",
+      "4.8 stars on 123 Google reviews; owner thanks reviewers by name",
+      "Serves Columbia, Irmo and Chapin; also installs home generators",
+      "No Google Ads running and no online booking or chat",
+      "Google profile lists Open 24 hours"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://scheatingandair.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://scheatingandair.com/contact"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/SC+Heating+And+Air+Columbia+SC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=scheatingandair.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": null,
+      "emergency247": null,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": null,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "locallyOwned null: very likely local (single named proprietor, 713 Tower Ln, Columbia) but the site does not say 'locally owned'. Sam Cassell's title is not stated anywhere checked; BBB and SC license lookup not done. emergency247 null: site offers emergency repair but does not say 24/7. Financing mentioned once in passing only. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "shifflett-roofing-inc-shifflett-roofing-and-exteriors",
+    "company": "Shifflett Roofing, Inc. (Shifflett Roofing and Exteriors)",
+    "website": "https://www.shifflettroofing.com",
+    "vertical": "roofing",
+    "city": "New Orleans",
+    "region": "LA",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Sat 8:30am–7pm, Sun closed (Google); website header says '24-Hours: (504) 329-5665' and 'on-call 24-hours a day'",
+    "hoursSource": "Google Maps business profile; official website",
+    "phone": "(504) 329-5665",
+    "phoneSource": "Official website header ('24-Hours: (504) 329-5665'); matches Google Maps business profile",
+    "googleRating": 4.9,
+    "googleReviews": 259,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain shifflettroofing.com): 9 ads, advertiser 'Timothy Shifflett' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'Locally Owned and Operated' roofing, siding and gutter experts 'Since 1999'. The About page title reads 'Tim Shifflett' and the Google Ads account is verified as 'Timothy Shifflett'.",
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with 'Free Quote' form; no chat, booking, Podium/Birdeye or similar widget found in page source. No owner replies seen on the latest Google reviews.",
+    "dmName": "Tim (Timothy) Shifflett",
+    "dmTitle": "Principal; likely owner (name on About page title and verified Google Ads account)",
+    "dmSource": "https://www.shifflettroofing.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site advertises a 24-hour line and 24-hour emergency support, while Google shows you closed Sundays and after 7pm; who picks up (504) 329-5665 when a storm opens a roof on a Saturday night?",
+    "hooks": [
+      "Locally owned New Orleans roofer since 1999",
+      "Website header: '24-Hours: (504) 329-5665'; Google hours Mon–Sat 8:30–7",
+      "4.9 stars on 259 Google reviews",
+      "Runs Google Ads under Timothy Shifflett's name (9 ads)",
+      "Does FORTIFIED roofs, insurance claims, financing and free quotes"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.shifflettroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.shifflettroofing.com/about-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Shifflett+Roofing+New+Orleans"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=shifflettroofing.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "Tim Shifflett's exact title is not stated on the site; ownership inferred from the About page title and the ads account name, so confirm on the call. Google address is 201 St Charles Ave (downtown office building), possibly a mailing/office address. Employee count unknown. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "bulldog-overhead-doors-llc",
+    "company": "Bulldog Overhead Doors LLC",
+    "website": "https://www.bulldogoverheaddoor.com",
+    "vertical": "garage-doors",
+    "city": "North Little Rock (Little Rock metro)",
+    "region": "AR",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Google: Mon–Fri 6am–5pm, Sat–Sun 8am–2pm. Website: Mon–Fri 6am–7pm, Sat–Sun 8am–4pm, while also advertising '24/7 Emergency Service'",
+    "hoursSource": "Google Maps business profile; official website footer",
+    "phone": "(501) 541-6072",
+    "phoneSource": "Official website header ('CLICK TO CALL: 501-541-6072'); matches Google Maps business profile",
+    "googleRating": 4.8,
+    "googleReviews": 115,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain bulldogoverheaddoor.com): 6 ads, advertiser 'BULLDOG OVERHEAD DOORS L.L.C.' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'Family-owned and operated', 'We're not a franchise. We're your neighbours', 'Our founder, Matt, is involved in every project.' Surname not published. Contact email is a Gmail address.",
+    "employeesEstimate": "unknown; small (founder involved in every project, one 'experienced technician' with 20+ years cited)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Simple site, only Google Tag Manager scripts; no chat, Podium/Birdeye or booking widget found in page source (copy mentions 'online booking and phone support' but no booking tool was found). Owner replies briefly to Google reviews.",
+    "dmName": "Matt (surname not published)",
+    "dmTitle": "Founder",
+    "dmSource": "https://www.bulldogoverheaddoor.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 24/7 emergency garage door service, yet posted hours end at 5pm on Google and 2pm on weekends; when Matt is on a job, who answers a stuck-door call at night?",
+    "hooks": [
+      "Founder Matt 'is involved in every project'; family owned, not a franchise",
+      "Advertises '24/7 Emergency Service'; a reviewer chose them because they were 'open 24 hours a day'",
+      "Google hours Mon–Fri 6–5, weekends 8–2 (website shows different hours)",
+      "4.8 stars on 115 Google reviews",
+      "Runs Google Ads (6 ads); serves NLR, Sherwood, Cabot, Conway, Maumelle"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.bulldogoverheaddoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.bulldogoverheaddoor.com/about-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Bulldog+Overhead+Doors+LLC+North+Little+Rock"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=bulldogoverheaddoor.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": null,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.209Z",
+    "researchNotes": "Founder's surname not found on site or Google; BBB and AR license not checked. Google profile is a service-area listing (no public address). Website and Google hours disagree. onlineBooking null: copy mentions online booking but no tool found. Financing not mentioned. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "ontime-garage-doors",
+    "company": "OnTime Garage Doors",
+    "website": "https://ontimegaragesc.com",
+    "vertical": "garage-doors",
+    "city": "Greenville",
+    "region": "SC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 7am–6pm, Sat–Sun closed (Google); website FAQ says same-day and emergency repairs offered throughout the Upstate",
+    "hoursSource": "Google Maps business profile; official website FAQ",
+    "phone": "(864) 900-0724",
+    "phoneSource": "Official website header/CTA ('Free Estimate 864-900-0724'); matches Google Maps business profile",
+    "googleRating": 5,
+    "googleReviews": 71,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain ontimegaragesc.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'a family-owned business that is located in Greenville on Wade Hampton Blvd'; About page: 'Kathy Manor is the Owner and Operator of OnTime Garage Doors' and oversees daily operations. FAQ indicates about 7 years in business.",
+    "employeesEstimate": "unknown; small, no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Workiz online booking ('Book online directly into our Technician's schedule — no phone call needed'); Google profile also shows Book online. No chat, Podium/Birdeye widget in page source. No owner replies seen on the latest reviews.",
+    "dmName": "Kathy Manor",
+    "dmTitle": "Owner and Operator",
+    "dmSource": "https://ontimegaragesc.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You offer same-day and emergency garage door repair but are closed Saturday and Sunday on Google; what happens to a broken-spring call on a weekend when the office is shut?",
+    "hooks": [
+      "Kathy Manor is Owner and Operator; family owned, on Wade Hampton Blvd",
+      "5.0 stars on 71 Google reviews, newest 3 weeks ago",
+      "Closed weekends on Google, yet offers emergency repair across the Upstate",
+      "Pushes Workiz online booking with 'no phone call needed'",
+      "Not running Google Ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://ontimegaragesc.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://ontimegaragesc.com/about"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/OnTime+Garage+Doors+Greenville+SC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=ontimegaragesc.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": true,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": false,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.210Z",
+    "researchNotes": "Review count (71) is in the acceptable 40–74 band. emergency247 false: offers emergency/same-day repair but does not claim 24/7; afterHoursGap null for the same reason, though the weekend closure is a real gap. phonePrimaryCta false: site leans on online booking and free-quote forms as much as the phone. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "two-brothers-foundation-repair-llc",
+    "company": "Two Brothers Foundation Repair LLC",
+    "website": "https://twobrosfoundationrepair.com",
+    "vertical": "foundation",
+    "city": "Houston",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm, Sat–Sun closed",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(832) 710-6957",
+    "phoneSource": "Official website header and About page ('Call us 832-710-6957'). Google Maps profile shows a DIFFERENT number, (832) 981-1643 (likely a call-tracking number; site loads CallRail)",
+    "googleRating": 4.9,
+    "googleReviews": 291,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain twobrosfoundationrepair.com): 3 ads, advertiser 'Two Brothers Foundation Repair' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "BBB lists Mr. Aaron Lipman (Owner) and Mr. Jacob Lipman (Co-Owner); BBB business started 11/2014. Website says it offers 'the customer service of a small f[amily business]' and 20+ years of Houston/Pearland experience. A BBB reviewer names 'Aaron and his team'.",
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Site with contact form and 'Free Consult' CTA; CallRail call tracking installed. No chat, booking, Podium/Birdeye widget found in page source. Owner writes long personal replies to Google reviews.",
+    "dmName": "Aaron Lipman",
+    "dmTitle": "Owner (BBB); Jacob Lipman is Co-Owner",
+    "dmSource": "https://www.bbb.org/us/tx/houston/profile/foundation-contractors/two-brothers-foundation-repair-llc-0915-90038446/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Homeowners who spot a new slab crack on a Saturday find you closed until Monday on Google, and Google and the site show two different numbers; where do those weekend inspection calls go?",
+    "hooks": [
+      "Owned by brothers Aaron and Jacob Lipman (BBB)",
+      "4.9 stars on 291 Google reviews; owner writes personal replies",
+      "Free structural assessments and a lifetime transferable warranty",
+      "Google number (832) 981-1643 differs from the website's (832) 710-6957",
+      "Office hours Mon–Fri 8–5; serves Houston, Pearland, Katy, Kingwood, Baytown"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://twobrosfoundationrepair.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://twobrosfoundationrepair.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/tx/houston/profile/foundation-contractors/two-brothers-foundation-repair-llc-0915-90038446/details"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Two+Brothers+Foundation+Repair+Houston"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=twobrosfoundationrepair.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T01:53:43.210Z",
+    "researchNotes": "Address 3730 Kirby Dr 12th Floor is an office tower (possibly a shared/virtual office). BBB says business started 2014 while the site claims 20+ years of experience (likely the owners' experience). Also does some commercial work. Not 24/7 and makes no emergency claim, so afterHoursGap false. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "weber-windows-d-l-weber-company-inc",
+    "company": "Weber Windows (D. L. Weber Company, Inc.)",
+    "website": "https://weberwindows.com",
+    "vertical": "windows-doors",
+    "city": "Louisville",
+    "region": "KY",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 9am–5pm, Sat 10am–12pm, Sun closed",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(502) 499-9399",
+    "phoneSource": "Official website header; matches Google Maps business profile. BBB also lists (888) 499-7899",
+    "googleRating": 4.9,
+    "googleReviews": 80,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain weberwindows.com): 30 ads, advertiser 'Weber Windows' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'Proudly family-owned and operated since 1974' in Jefferson County. BBB (D. L. Weber Company, Inc., S Corp, started 12/1/1974) lists Mr. Dan McReynolds and Mr. Sam Sanders as Owners and Mrs. Carole Weber as Manager.",
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with 'Schedule an Appointment' form and financing page; no chat, booking, Podium/Birdeye widget in page source. Owner replies to nearly every Google review.",
+    "dmName": "Sam Sanders",
+    "dmTitle": "Owner (BBB principal contact); Dan McReynolds also listed as Owner",
+    "dmSource": "https://www.bbb.org/us/ky/louisville/profile/window-installation/weber-windows-0402-2019144/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 30 Google ads driving calls but the showroom open only 9–5 weekdays and two hours on Saturday, how many evening and weekend window-quote calls reach a person?",
+    "hooks": [
+      "Family owned in Louisville since 1974 (over 50 years)",
+      "Installs Infinity from Marvin and ProVia windows and doors",
+      "4.9 stars on 80 Google reviews; replies to nearly all",
+      "Heavy Google Ads (30 ads) against short hours: Sat only 10–12",
+      "Financing available; Weber Care Protection Plan"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://weberwindows.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://weberwindows.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ky/louisville/profile/window-installation/weber-windows-0402-2019144/details"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Weber+Windows+Louisville+KY"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=weberwindows.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": false,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.210Z",
+    "researchNotes": "Review count 80 is at the low end. Not an emergency trade; the pitch is missed sales calls outside short showroom hours. Two owners on BBB; which one to ask for is unknown (Sam Sanders is listed as principal contact). Free estimates not explicitly stated (site offers consultations). Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "raintech-roofing-sheet-metal-gutters-raintech-inc",
+    "company": "RainTech Roofing, Sheet Metal & Gutters (RainTech, Inc.)",
+    "website": "https://raintechoklahoma.com",
+    "vertical": "roofing",
+    "city": "Tulsa",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google Business Profile); website publishes no hours",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(918) 449-1474",
+    "phoneSource": "Official website header/CTA ('918-449-1474'); matches Google Maps business profile",
+    "googleRating": 4.9,
+    "googleReviews": 499,
+    "latestReviewAge": "3 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain raintechoklahoma.com): 63 ads, advertiser 'RainTech, Inc.' (verified). Heavy spend; recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: Tulsa roofing contractor 'Since 2003'; 'Message from the founder' signed Freddie Watkins, Founder & CEO. No parent company or franchise mentioned.",
+    "employeesEstimate": "unknown; site claims 'Trusted by 30,000+ customers', so likely toward the upper end of the band",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Framer-built site with a 'Book Online' page (raintechoklahoma.com/book-now; platform not identified) and free roof inspection CTA; no chat, Podium/Birdeye widget found in page source. Replies to most Google reviews.",
+    "dmName": "Freddie Watkins",
+    "dmTitle": "Founder & CEO",
+    "dmSource": "https://raintechoklahoma.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 63 Google ads and a 24-hour Google listing, how are hail-storm call spikes and after-hours inspection requests handled when the crews are all on roofs?",
+    "hooks": [
+      "Founded in 2003 by Freddie Watkins, still Founder & CEO",
+      "4.9 stars on 499 Google reviews; 'Trusted by 30,000+ customers'",
+      "Very active on Google Ads (63 ads)",
+      "Free roof inspections, insurance-claim help, online booking",
+      "Does roofing, sheet metal and gutters for Tulsa homeowners"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://raintechoklahoma.com/"
+      },
+      {
+        "label": "Book online page",
+        "url": "https://raintechoklahoma.com/book-now"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/RainTech+Roofing+Tulsa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=raintechoklahoma.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": null,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": true,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.210Z",
+    "researchNotes": "Possibly larger than the ideal 5–50 staff given the 30,000-customer claim and ad volume; size not verified. Site does not say 24/7 or emergency explicitly (Google says Open 24 hours), so emergency247 and afterHoursGap are null. Financing not confirmed on the pages checked. About page is JavaScript-rendered and was not fully read. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "curry-s-termite-pest-animal-control-llc",
+    "company": "Curry's Termite, Pest & Animal Control, LLC",
+    "website": "https://www.curryspestcontrol.com",
+    "vertical": "pest",
+    "city": "Little Rock",
+    "region": "AR",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm, Sat–Sun closed (Google; hours confirmed by the business 11 weeks ago)",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(501) 372-2847",
+    "phoneSource": "Official website (Little Rock office line '(501) 372-BUGS (2847)'); matches Google Maps business profile. Separate lines for Pine Bluff, Monticello, Benton and Conway",
+    "googleRating": 4.9,
+    "googleReviews": 554,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain curryspestcontrol.com): 89 ads, advertiser 'Curry's Termite & Pest Control Co of Little Rock Inc' (verified). Recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'a family owned and operated exterminating company located in Little Rock', serving Arkansas since 1926 ('Arkansas' Oldest Exterminating Company'). BBB lists Mr. Scott Pinney as Owner, Mr. Tyler Pinney as Manager of Sales and Service, Mr. David Foster as Location Manager.",
+    "employeesEstimate": "unknown; three offices suggest roughly 15–40, not published",
+    "employeeBand": "unknown",
+    "locations": 3,
+    "existingTools": "Scorpion-built site with Broadly web chat (chat.broadly.com script) and online bill pay; Google profile shows a Book online button. No owner replies seen on the latest Google reviews.",
+    "dmName": "Scott Pinney",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ar/little-rock/profile/pest-control/currys-termite-pest-animal-control-llc-0935-4000376/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You run 89 Google ads across five area lines but the phones are staffed Mon–Fri 8–5; what happens to a Saturday wildlife or termite-swarm call?",
+    "hooks": [
+      "Arkansas' oldest exterminating company, serving since 1926",
+      "Owned by Scott Pinney (BBB); Tyler Pinney runs sales and service",
+      "Offices in Little Rock, Pine Bluff and Monticello, plus Benton and Conway lines",
+      "4.9 stars on 554 Google reviews",
+      "Heavy Google Ads (89 ads); does animal control as well as termites and pests"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.curryspestcontrol.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ar/little-rock/profile/pest-control/currys-termite-pest-animal-control-llc-0935-4000376/details"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Curry's+Termite+Pest+%26+Animal+Control+Little+Rock"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=curryspestcontrol.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": true,
+      "chatOrText": true,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.210Z",
+    "researchNotes": "Already has Broadly web chat, so the pitch is phone coverage outside weekday hours, not chat. The Pinney family are the current owners per BBB; the 'Curry's' name dates to 1926, so ask about ownership history rather than assume. Not an emergency trade, so afterHoursGap false. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "aqua-king-pool-services-aqua-king-pool-spa-inc",
+    "company": "Aqua King Pool Services (Aqua King Pool & Spa, Inc.)",
+    "website": "https://aquakingpoolservices.com",
+    "vertical": "pool",
+    "city": "Fort Lauderdale",
+    "region": "FL",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Wed and Fri 8am–5pm, Thu 8am–8pm, Sat–Sun closed",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(954) 547-7300",
+    "phoneSource": "Official website (listed four times); matches Google Maps business profile. Site also lists (305) 529-0445 once (likely a Miami-Dade line; not verified)",
+    "googleRating": 4.7,
+    "googleReviews": 221,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "paidAdsNote": "Google Ads Transparency Center (US, domain aquakingpoolservices.com): 1 ad, advertiser 'Aqua King Pool & Spa, Inc.' (verified). Light spend; recency not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "No ownership statement on the site. Site says 20+ years in the pool and spa industry serving Miami-Dade, Broward and Palm Beach. Reviews repeatedly name 'Mike'/'Michael' as the person they deal with; his title is not stated.",
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Brochure site with a contact form; no chat, booking, Podium/Birdeye or similar widget found in page source. Few owner replies on Google reviews.",
+    "dmName": null,
+    "dmTitle": null,
+    "dmSource": null,
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "When a pump or heater dies on a Saturday in Fort Lauderdale, your office is closed until Monday; who takes that repair call?",
+    "hooks": [
+      "20+ years in pool and spa service across Miami-Dade, Broward and Palm Beach",
+      "4.7 stars on 221 Google reviews; reviewers praise Mike by name",
+      "Repairs pumps, heaters, filters, leak detection and automation",
+      "Closed weekends; open late only on Thursdays",
+      "Minimal Google Ads (1 ad)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://aquakingpoolservices.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://aquakingpoolservices.com/contact-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Aqua+King+Pool+Services+Fort+Lauderdale"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=aquakingpoolservices.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": null,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": null,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:53:43.210Z",
+    "researchNotes": "Decision maker not verified: no owner on the site, no BBB profile found, and FL DBPR license lookup not done; 'Mike' from reviews is a lead only. locallyOwned null for the same reason (no franchise signs, local address). Google address is inside a mail center (1126 S Federal Hwy Suite 101), so it may not be a staffed office. Mostly a maintenance/route business with repair as a line. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
   }
 ]

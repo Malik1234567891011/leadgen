@@ -870,5 +870,218 @@
       }
     ],
     "notes": "Review count 80 is at the low end. Not an emergency trade; the pitch is missed sales calls outside short showroom hours. Two owners on BBB; which one to ask for is unknown (Sam Sanders is listed as principal contact). Free estimates not explicitly stated (site offers consultations). Verified 2026-09-25."
+  },
+  {
+    "company": "RainTech Roofing, Sheet Metal & Gutters (RainTech, Inc.)",
+    "website": "https://raintechoklahoma.com",
+    "vertical": "roofing",
+    "city": "Tulsa",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google Business Profile); website publishes no hours",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(918) 449-1474",
+    "phoneSource": "Official website header/CTA ('918-449-1474'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 499,
+    "latestReviewAge": "3 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain raintechoklahoma.com): 63 ads, advertiser 'RainTech, Inc.' (verified). Heavy spend; recency not checked.",
+    "emergency247": null,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: Tulsa roofing contractor 'Since 2003'; 'Message from the founder' signed Freddie Watkins, Founder & CEO. No parent company or franchise mentioned.",
+    "franchise": false,
+    "employeesEstimate": "unknown; site claims 'Trusted by 30,000+ customers', so likely toward the upper end of the band",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Framer-built site with a 'Book Online' page (raintechoklahoma.com/book-now; platform not identified) and free roof inspection CTA; no chat, Podium/Birdeye widget found in page source. Replies to most Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Freddie Watkins",
+    "dmTitle": "Founder & CEO",
+    "dmSource": "https://raintechoklahoma.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 63 Google ads and a 24-hour Google listing, how are hail-storm call spikes and after-hours inspection requests handled when the crews are all on roofs?",
+    "hooks": [
+      "Founded in 2003 by Freddie Watkins, still Founder & CEO",
+      "4.9 stars on 499 Google reviews; 'Trusted by 30,000+ customers'",
+      "Very active on Google Ads (63 ads)",
+      "Free roof inspections, insurance-claim help, online booking",
+      "Does roofing, sheet metal and gutters for Tulsa homeowners"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://raintechoklahoma.com/"
+      },
+      {
+        "label": "Book online page",
+        "url": "https://raintechoklahoma.com/book-now"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/RainTech+Roofing+Tulsa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=raintechoklahoma.com"
+      }
+    ],
+    "notes": "Possibly larger than the ideal 5–50 staff given the 30,000-customer claim and ad volume; size not verified. Site does not say 24/7 or emergency explicitly (Google says Open 24 hours), so emergency247 and afterHoursGap are null. Financing not confirmed on the pages checked. About page is JavaScript-rendered and was not fully read. Verified 2026-09-25."
+  },
+  {
+    "company": "Curry's Termite, Pest & Animal Control, LLC",
+    "website": "https://www.curryspestcontrol.com",
+    "vertical": "pest",
+    "city": "Little Rock",
+    "region": "AR",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm, Sat–Sun closed (Google; hours confirmed by the business 11 weeks ago)",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(501) 372-2847",
+    "phoneSource": "Official website (Little Rock office line '(501) 372-BUGS (2847)'); matches Google Maps business profile. Separate lines for Pine Bluff, Monticello, Benton and Conway",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 554,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain curryspestcontrol.com): 89 ads, advertiser 'Curry's Termite & Pest Control Co of Little Rock Inc' (verified). Recency not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a family owned and operated exterminating company located in Little Rock', serving Arkansas since 1926 ('Arkansas' Oldest Exterminating Company'). BBB lists Mr. Scott Pinney as Owner, Mr. Tyler Pinney as Manager of Sales and Service, Mr. David Foster as Location Manager.",
+    "franchise": false,
+    "employeesEstimate": "unknown; three offices suggest roughly 15–40, not published",
+    "employeeBand": "unknown",
+    "locations": 3,
+    "existingTools": "Scorpion-built site with Broadly web chat (chat.broadly.com script) and online bill pay; Google profile shows a Book online button. No owner replies seen on the latest Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Scott Pinney",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ar/little-rock/profile/pest-control/currys-termite-pest-animal-control-llc-0935-4000376/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You run 89 Google ads across five area lines but the phones are staffed Mon–Fri 8–5; what happens to a Saturday wildlife or termite-swarm call?",
+    "hooks": [
+      "Arkansas' oldest exterminating company, serving since 1926",
+      "Owned by Scott Pinney (BBB); Tyler Pinney runs sales and service",
+      "Offices in Little Rock, Pine Bluff and Monticello, plus Benton and Conway lines",
+      "4.9 stars on 554 Google reviews",
+      "Heavy Google Ads (89 ads); does animal control as well as termites and pests"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.curryspestcontrol.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ar/little-rock/profile/pest-control/currys-termite-pest-animal-control-llc-0935-4000376/details"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Curry's+Termite+Pest+%26+Animal+Control+Little+Rock"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=curryspestcontrol.com"
+      }
+    ],
+    "notes": "Already has Broadly web chat, so the pitch is phone coverage outside weekday hours, not chat. The Pinney family are the current owners per BBB; the 'Curry's' name dates to 1926, so ask about ownership history rather than assume. Not an emergency trade, so afterHoursGap false. Verified 2026-09-25."
+  },
+  {
+    "company": "Aqua King Pool Services (Aqua King Pool & Spa, Inc.)",
+    "website": "https://aquakingpoolservices.com",
+    "vertical": "pool",
+    "city": "Fort Lauderdale",
+    "region": "FL",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Wed and Fri 8am–5pm, Thu 8am–8pm, Sat–Sun closed",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(954) 547-7300",
+    "phoneSource": "Official website (listed four times); matches Google Maps business profile. Site also lists (305) 529-0445 once (likely a Miami-Dade line; not verified)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 221,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain aquakingpoolservices.com): 1 ad, advertiser 'Aqua King Pool & Spa, Inc.' (verified). Light spend; recency not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": null,
+    "ownershipNote": "No ownership statement on the site. Site says 20+ years in the pool and spa industry serving Miami-Dade, Broward and Palm Beach. Reviews repeatedly name 'Mike'/'Michael' as the person they deal with; his title is not stated.",
+    "franchise": false,
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Brochure site with a contact form; no chat, booking, Podium/Birdeye or similar widget found in page source. Few owner replies on Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": null,
+    "dmTitle": null,
+    "dmSource": null,
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "When a pump or heater dies on a Saturday in Fort Lauderdale, your office is closed until Monday; who takes that repair call?",
+    "hooks": [
+      "20+ years in pool and spa service across Miami-Dade, Broward and Palm Beach",
+      "4.7 stars on 221 Google reviews; reviewers praise Mike by name",
+      "Repairs pumps, heaters, filters, leak detection and automation",
+      "Closed weekends; open late only on Thursdays",
+      "Minimal Google Ads (1 ad)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://aquakingpoolservices.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://aquakingpoolservices.com/contact-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Aqua+King+Pool+Services+Fort+Lauderdale"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=aquakingpoolservices.com"
+      }
+    ],
+    "notes": "Decision maker not verified: no owner on the site, no BBB profile found, and FL DBPR license lookup not done; 'Mike' from reviews is a lead only. locallyOwned null for the same reason (no franchise signs, local address). Google address is inside a mail center (1126 S Federal Hwy Suite 101), so it may not be a staffed office. Mostly a maintenance/route business with repair as a line. Verified 2026-09-25."
   }
 ]
