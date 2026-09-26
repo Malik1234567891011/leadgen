@@ -142,73 +142,6 @@
     "notes": "afterHoursGap set false: they advertise 24/7 live answering and a reviewer says they 'always gotten a live person on the phone', so an after-hours gap is not evident (they may already use an answering arrangement; unknown). Also serves commercial and educational facilities, but residential is prominent. Financing not mentioned. Employee count not published. Verified 2026-09-25."
   },
   {
-    "company": "Power and Performance Air",
-    "website": "https://www.itshotinbakersfield.com",
-    "vertical": "hvac",
-    "city": "Bakersfield",
-    "region": "CA",
-    "country": "US",
-    "timezone": "America/Los_Angeles",
-    "hours": "Open 24 hours (Google); website says '24-hour emergency service available'. No staffed office hours published",
-    "hoursSource": "Google Maps business profile; official website home page",
-    "phone": "(661) 631-1743",
-    "phoneSource": "Official website 'Call Now' tel link and footer; matches Google Maps business profile",
-    "phoneMatchesGoogle": true,
-    "googleRating": 4.8,
-    "googleReviews": 279,
-    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
-    "recentReviews": true,
-    "paidAds": true,
-    "paidAdsNote": "Google Ads Transparency Center: 18 ads for itshotinbakersfield.com, advertiser 'Power and Performance Air' (US).",
-    "emergency247": true,
-    "residential": true,
-    "freeEstimate": null,
-    "onlineBooking": false,
-    "chatOrText": false,
-    "financing": null,
-    "multipleServiceAreas": false,
-    "phonePrimaryCta": true,
-    "afterHoursGap": null,
-    "reviewResponseComplaints": false,
-    "reviewComplaintQuote": null,
-    "locallyOwned": true,
-    "ownershipNote": "Website: 'a locally owned and operated service and repair company'. Also sells HVAC parts over the counter and does appliance repair. No parent brand found. Owner not named on site, Google profile or BBB",
-    "franchise": false,
-    "employeesEstimate": "unknown; reviews name several techs (Christian, Pierce, Mathew, Justin, Edgar, Kameron); likely ~5–15",
-    "employeeBand": "5-15",
-    "locations": 1,
-    "existingTools": "Simple Webflow-style site with a basic contact form; no chat, booking, review or call-tracking widget found in raw HTML. Gmail address for email",
-    "sophisticatedContactCenter": false,
-    "dmName": null,
-    "dmTitle": null,
-    "dmSource": null,
-    "directLine": null,
-    "directLineSource": null,
-    "opportunity": "With 18 Google ads running and a site built around 'Call Now' and 24-hour emergency service, who picks up when a Bakersfield AC dies at 9pm in July and the techs are all out?",
-    "hooks": [
-      "4.8 stars on 279 Google reviews; reviewers praise honest second opinions",
-      "Running Google ads (18 in the Ads Transparency Center)",
-      "Site advertises 24-hour emergency service with 'Call Now' as the main action",
-      "Also sells HVAC parts over the counter, so the phone gets parts questions too",
-      "No chat or online booking on the site"
-    ],
-    "sources": [
-      {
-        "label": "Home page",
-        "url": "https://www.itshotinbakersfield.com/"
-      },
-      {
-        "label": "Google Maps",
-        "url": "https://www.google.com/maps/search/Power+%26+Performance+Air+1400+Easton+Dr+Bakersfield"
-      },
-      {
-        "label": "Ads Transparency Center",
-        "url": "https://adstransparency.google.com/?region=US&domain=itshotinbakersfield.com"
-      }
-    ],
-    "notes": "Decision maker not verified: no owner named on website, Google profile (no owner replies seen) or BBB (no BBB listing found). A Yelp listing shows a 'Mike M.' as Business Owner, and third-party aggregators name others; neither is an approved source, so dmName is null. Founding year not on site (a PitchBook snippet says 2005, unverified). Financing and free estimates not mentioned. Verified 2026-09-25."
-  },
-  {
     "company": "ACT Heating & Cooling Inc.",
     "website": "https://actheatingandcooling.com",
     "vertical": "hvac",
@@ -1063,5 +996,80 @@
       }
     ],
     "notes": "The '24/7 phone' claim may mean they already forward to a cell or answering service; unknown, so afterHoursGap and emergency247 are null. Which member is the primary decision maker is unclear; Camano Gahagan is also the verified Google Ads advertiser. Also does commercial/office moves. Verified 2026-09-25."
+  },
+  {
+    "company": "Nex-Gen Windows & Doors",
+    "website": "https://nexgenwindowsanddoors.com",
+    "vertical": "windows-doors",
+    "city": "Fort Collins",
+    "region": "CO",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Fort Collins showroom Mon–Fri 8am–5pm, Saturday by appointment only",
+    "hoursSource": "Official website Fort Collins location page; Google Maps business profile consistent (closed weekends, opens 8 AM Mon)",
+    "phone": "(970) 670-3667",
+    "phoneSource": "Official website Fort Collins location block ('5616 S. College Avenue ... (970) 670-3667'); matches Google Maps business profile. Site header also shows a general 'Speak to an Expert' line, (970) 593-1500, and a Colorado Springs number, (719) 309-3779",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 517,
+    "latestReviewAge": "a month ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 56 ads for nexgenwindowsanddoors.com, advertiser 'Nex-Gen Exteriors' (US). Site HTML also has Google Ads phone-conversion tracking.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "BBB lists Brent Rajewski as Owner and Carly Stephen as Office Manager (corporation, business started 1/1/2000). Website: 'Local Expert Service From Our Family To Yours'. A reviewer names Ted Rajewski as their salesperson, consistent with a family business. Marvin Infinity dealer (dealer, not a franchise). Showrooms in Fort Collins and Colorado Springs",
+    "franchise": false,
+    "employeesEstimate": "unknown; sales staff, office manager and several install crews (reviews name Ted, Sam, Carlos, Neil, John, Cody); likely ~15–30",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "Google Ads call-conversion tracking numbers; 'free design consult' form; no chat, booking or Podium found in raw homepage HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Brent Rajewski",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/co/fort-collins/profile/windows/nex-gen-windows-doors-0805-46016619/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 56 Google ads driving consult requests and the showroom open only weekdays 8–5 (Saturdays by appointment), how many evening and weekend callers never book a consult?",
+    "hooks": [
+      "Family business since 2000; Brent Rajewski is the owner, and Ted Rajewski appears in reviews as a salesperson",
+      "4.9 stars on 517 Google reviews",
+      "Running Google ads heavily (56 in the Ads Transparency Center)",
+      "Showroom hours are Mon–Fri 8–5 with Saturdays by appointment only",
+      "Marvin Infinity dealer covering Fort Collins to Colorado Springs and Cheyenne"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://nexgenwindowsanddoors.com/"
+      },
+      {
+        "label": "Fort Collins location page",
+        "url": "https://nexgenwindowsanddoors.com/locations/fort-collins-colorado/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/co/fort-collins/profile/windows/nex-gen-windows-doors-0805-46016619/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Nex-Gen+Windows+%26+Doors+5616+S+College+Ave+Fort+Collins"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=nexgenwindowsanddoors.com"
+      }
+    ],
+    "notes": "Windows-doors is non-urgent: no emergency or 24/7 claim, so the angle is missed consult calls after hours. The advertiser name 'Nex-Gen Exteriors' suggests they may also do siding. Ted Rajewski's relationship to Brent is assumed from the shared surname, not confirmed. phonePrimaryCta=false: the site leads with 'book your free design consult'. Financing not confirmed on the pages read. Verified 2026-09-25."
   }
 ]

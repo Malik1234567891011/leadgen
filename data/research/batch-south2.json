@@ -720,5 +720,155 @@
       }
     ],
     "notes": "Review count (71) is in the acceptable 40–74 band. emergency247 false: offers emergency/same-day repair but does not claim 24/7; afterHoursGap null for the same reason, though the weekend closure is a real gap. phonePrimaryCta false: site leans on online booking and free-quote forms as much as the phone. Verified 2026-09-25."
+  },
+  {
+    "company": "Two Brothers Foundation Repair LLC",
+    "website": "https://twobrosfoundationrepair.com",
+    "vertical": "foundation",
+    "city": "Houston",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm, Sat–Sun closed",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(832) 710-6957",
+    "phoneSource": "Official website header and About page ('Call us 832-710-6957'). Google Maps profile shows a DIFFERENT number, (832) 981-1643 (likely a call-tracking number; site loads CallRail)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 291,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain twobrosfoundationrepair.com): 3 ads, advertiser 'Two Brothers Foundation Repair' (verified). Recency not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "BBB lists Mr. Aaron Lipman (Owner) and Mr. Jacob Lipman (Co-Owner); BBB business started 11/2014. Website says it offers 'the customer service of a small f[amily business]' and 20+ years of Houston/Pearland experience. A BBB reviewer names 'Aaron and his team'.",
+    "franchise": false,
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Site with contact form and 'Free Consult' CTA; CallRail call tracking installed. No chat, booking, Podium/Birdeye widget found in page source. Owner writes long personal replies to Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Aaron Lipman",
+    "dmTitle": "Owner (BBB); Jacob Lipman is Co-Owner",
+    "dmSource": "https://www.bbb.org/us/tx/houston/profile/foundation-contractors/two-brothers-foundation-repair-llc-0915-90038446/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Homeowners who spot a new slab crack on a Saturday find you closed until Monday on Google, and Google and the site show two different numbers; where do those weekend inspection calls go?",
+    "hooks": [
+      "Owned by brothers Aaron and Jacob Lipman (BBB)",
+      "4.9 stars on 291 Google reviews; owner writes personal replies",
+      "Free structural assessments and a lifetime transferable warranty",
+      "Google number (832) 981-1643 differs from the website's (832) 710-6957",
+      "Office hours Mon–Fri 8–5; serves Houston, Pearland, Katy, Kingwood, Baytown"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://twobrosfoundationrepair.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://twobrosfoundationrepair.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/tx/houston/profile/foundation-contractors/two-brothers-foundation-repair-llc-0915-90038446/details"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Two+Brothers+Foundation+Repair+Houston"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=twobrosfoundationrepair.com"
+      }
+    ],
+    "notes": "Address 3730 Kirby Dr 12th Floor is an office tower (possibly a shared/virtual office). BBB says business started 2014 while the site claims 20+ years of experience (likely the owners' experience). Also does some commercial work. Not 24/7 and makes no emergency claim, so afterHoursGap false. Verified 2026-09-25."
+  },
+  {
+    "company": "Weber Windows (D. L. Weber Company, Inc.)",
+    "website": "https://weberwindows.com",
+    "vertical": "windows-doors",
+    "city": "Louisville",
+    "region": "KY",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 9am–5pm, Sat 10am–12pm, Sun closed",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(502) 499-9399",
+    "phoneSource": "Official website header; matches Google Maps business profile. BBB also lists (888) 499-7899",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 80,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain weberwindows.com): 30 ads, advertiser 'Weber Windows' (verified). Recency not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Proudly family-owned and operated since 1974' in Jefferson County. BBB (D. L. Weber Company, Inc., S Corp, started 12/1/1974) lists Mr. Dan McReynolds and Mr. Sam Sanders as Owners and Mrs. Carole Weber as Manager.",
+    "franchise": false,
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with 'Schedule an Appointment' form and financing page; no chat, booking, Podium/Birdeye widget in page source. Owner replies to nearly every Google review.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Sam Sanders",
+    "dmTitle": "Owner (BBB principal contact); Dan McReynolds also listed as Owner",
+    "dmSource": "https://www.bbb.org/us/ky/louisville/profile/window-installation/weber-windows-0402-2019144/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 30 Google ads driving calls but the showroom open only 9–5 weekdays and two hours on Saturday, how many evening and weekend window-quote calls reach a person?",
+    "hooks": [
+      "Family owned in Louisville since 1974 (over 50 years)",
+      "Installs Infinity from Marvin and ProVia windows and doors",
+      "4.9 stars on 80 Google reviews; replies to nearly all",
+      "Heavy Google Ads (30 ads) against short hours: Sat only 10–12",
+      "Financing available; Weber Care Protection Plan"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://weberwindows.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://weberwindows.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ky/louisville/profile/window-installation/weber-windows-0402-2019144/details"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Weber+Windows+Louisville+KY"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=weberwindows.com"
+      }
+    ],
+    "notes": "Review count 80 is at the low end. Not an emergency trade; the pitch is missed sales calls outside short showroom hours. Two owners on BBB; which one to ask for is unknown (Sam Sanders is listed as principal contact). Free estimates not explicitly stated (site offers consultations). Verified 2026-09-25."
   }
 ]
