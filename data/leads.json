@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "malco-electric",
+    "company": "Malco Electric",
+    "website": "https://www.malcoelectric.com",
+    "vertical": "electrical",
+    "city": "Austin",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 7am–3:30pm; Sat–Sun closed (website); Google Business Profile shows 'Open 24 hours'",
+    "hoursSource": "Official website (home/about); Google Business Profile lists Open 24 hours",
+    "phone": "(512) 301-9111",
+    "phoneSource": "Official website header and About page; also on Yelp/Facebook. Google Business Profile shows a DIFFERENT number, (512) 580-8179 (likely a call-tracking number)",
+    "googleRating": 4.9,
+    "googleReviews": 327,
+    "latestReviewAge": "3 days ago",
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for malcoelectric.com (US, any time). Local Services Ads not checked (not listed in Transparency Center).",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Family owned and operated since 1983; owner Randy Mallory works alongside multiple family members (About page)",
+    "employeesEstimate": "~15–25 (Google team photo shows roughly that many people; no stated count)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Podium webchat/text widget embedded on homepage (connect.podium.com widget.js); Squarespace site with quote request form; no online booking seen",
+    "dmName": "Randy Mallory",
+    "dmTitle": "Owner / Master Electrician (TX Lic. #6328)",
+    "dmSource": "https://www.malcoelectric.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With published office hours ending at 3:30pm on weekdays but 24/7 emergency service advertised, who answers the phone for an evening panel or outage call?",
+    "hooks": [
+      "Family owned since 1983; Randy Mallory is the master electrician (Lic. #6328)",
+      "Website hours are Mon–Fri 7am–3:30pm, yet the site advertises 24/7 emergency service",
+      "4.9 stars on 327 Google reviews, several in the last week",
+      "Serves Austin, Dripping Springs, Bee Cave, Lakeway, Wimberley",
+      "Google listing number (512) 580-8179 differs from the website's (512) 301-9111",
+      "Site runs a Podium web-chat/text widget"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.malcoelectric.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.malcoelectric.com/about"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=Malco+Electric+Austin+TX"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=malcoelectric.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": true,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T00:36:06.847Z",
+    "researchNotes": "Financing not mentioned on pages read (null). Complaint check covered only ~8 newest Google reviews (all within 4 weeks); none mentioned missed calls. Employee count is an estimate from a team photo. Verified 2026-09-25. Podium widget detected in page source (not visible in WebFetch text extraction).",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "the-door-doctor-desalvo-home-services-llc",
+    "company": "The Door Doctor (Desalvo Home Services, LLC)",
+    "website": "https://www.thedoordoctoraz.com",
+    "vertical": "garage-doors",
+    "city": "Phoenix",
+    "region": "AZ",
+    "country": "US",
+    "timezone": "America/Phoenix",
+    "hours": "Mon–Fri 7am–6pm; Sat 8am–4pm; Sun emergency calls only",
+    "hoursSource": "Official website contact page; Google Business Profile consistent (closes 6pm, opens 8am Sat)",
+    "phone": "(602) 971-0892",
+    "phoneSource": "Official website header and contact page; matches Google Business Profile and BBB",
+    "googleRating": 5,
+    "googleReviews": 133,
+    "latestReviewAge": "2 weeks ago",
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for thedoordoctoraz.com. Competitors (sponsored listings) appeared above them on the branded Google search.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Family owned & operated since 1987; site says not corporate or private-equity owned. Operates as Desalvo Home Services, LLC DBA Door Doctor (contact page)",
+    "employeesEstimate": "small crew; site/reviews name Ron, Ron Jr., Adam, Nate (~4–8)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Text-a-photo line (602) 550-7683 for quotes; contact form; no chat/booking widget seen",
+    "dmName": "Ron Dale DeSalvo",
+    "dmTitle": "Member (LLC principal)",
+    "dmSource": "https://www.bbb.org/us/az/phoenix/profile/door-repair/door-doctor-1126-32058",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With Sunday listed as 'emergency calls only' and a small technician crew, how are broken-spring calls handled when the techs are all on jobs or it's after 6pm?",
+    "hooks": [
+      "Serving Phoenix/Scottsdale since 1987, family owned (DeSalvo family)",
+      "5.0 stars on 133 Google reviews; reviews repeatedly name Ron and Adam",
+      "Sunday is 'emergency calls only'; office hours end 6pm weekdays, 4pm Saturday",
+      "Competitors run sponsored ads on their own branded Google search; they show no Google ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.thedoordoctoraz.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.thedoordoctoraz.com/about-us.html"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.thedoordoctoraz.com/contact-us.html"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/az/phoenix/profile/door-repair/door-doctor-1126-32058"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=The+Door+Doctor+3513+E+Saint+John+Rd+Phoenix"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": false,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": true,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "Google listing name is 'The Original Door Doctor Garage Door'; address suite #2048 suggests a mailbox rather than a shop. Review velocity is low (2 reviews in the last ~month, then gap to 2 months) so recentReviews=false. Not advertised as 24/7 (emergency after-hours only). Offers a text line, so chatOrText=true. BBB lists Ron Dale DeSalvo and Nicole Ann DeSalvo as members; a search snippet mentions son Anthony but I did not verify that on a primary source. Financing not mentioned. Below the ideal review band but within the acceptable ICP.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "holt-plumbing-company-llc",
+    "company": "Holt Plumbing Company, LLC",
+    "website": "https://www.holtplumbing.com",
+    "vertical": "plumbing",
+    "city": "Old Hickory (Nashville)",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google Business Profile). Website hours widget is misconfigured: shows Mon–Sat 'Closed', Sun '12:00 am – 12:00 am', with note 'Please Call for Service | 24/7 Emergency Service Available'",
+    "hoursSource": "Google Business Profile; official website",
+    "phone": "(615) 361-6001",
+    "phoneSource": "Official website header/About page; matches Google Business Profile (Old Hickory listing) and BBB",
+    "googleRating": 4.5,
+    "googleReviews": 682,
+    "latestReviewAge": "2 weeks ago",
+    "paidAdsNote": "Google Ads Transparency Center: 17 ads for holtplumbing.com (search text, image and map ads), advertiser verified as 'Erik S Holt Jr'",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Locally and family owned, serving Middle Tennessee since 1988 (About page); BBB lists Erik Holt as Managing Member",
+    "employeesEstimate": "unknown; About page shows a group photo only; services include backhoe/sewer line work suggesting a mid-size crew",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "Hibu-built website with Hibu reviews widgets and an SMS marketing opt-in ('Text START to receive offers'); no chat or online booking seen",
+    "dmName": "Erik Holt",
+    "dmTitle": "Managing Member",
+    "dmSource": "https://www.bbb.org/us/tn/old-hickory/profile/plumber/holt-plumbing-company-llc-0573-18000132",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They are paying for Google ads and advertise 24/7 emergency service across seven counties; who picks up those ad-driven calls at 2am or on a Sunday?",
+    "hooks": [
+      "Family owned in Middle Tennessee since 1988; Erik Holt is managing member",
+      "682 Google reviews at 4.5 stars on the Old Hickory listing, plus a second Nashville location (58 reviews)",
+      "Actively running Google ads (17 in the Ads Transparency Center)",
+      "Website hours box shows Mon–Sat 'Closed', which looks like a misconfigured widget",
+      "Covers Davidson, Wilson, Rutherford, Williamson, Sumner, Cheatham and Robertson counties"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.holtplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.holtplumbing.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/tn/old-hickory/profile/plumber/holt-plumbing-company-llc-0573-18000132"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=holtplumbing.com"
+      },
+      {
+        "label": "Google search local results",
+        "url": "https://www.google.com/search?q=Holt+Plumbing+Company+Nashville+TN"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "afterHoursGap is null: GBP says open 24 hours and no limited office hours are published, so no gap is proven. freeEstimate null: site says 'Same-Day Estimates Available' but does not say free. Complaint check covered only the ~15 newest Google reviews. Ads advertiser name suggests the full name is Erik S. Holt Jr. Employee count unverified.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "rainy-city-roofing-llc",
+    "company": "Rainy City Roofing, LLC",
+    "website": "https://rainycityroofing.com",
+    "vertical": "roofing",
+    "city": "Gresham (Portland metro)",
+    "region": "OR",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 7am–6pm; Sat 9am–5pm; Sun closed",
+    "hoursSource": "Official website; Google Business Profile consistent (closes 6pm, opens 9am Sat)",
+    "phone": "(503) 577-2176",
+    "phoneSource": "Official website header (Oregon line; separate Washington line (360) 954-0305); matches Google Business Profile and BBB",
+    "googleRating": 4.9,
+    "googleReviews": 61,
+    "latestReviewAge": "a month ago",
+    "paidAdsNote": "Google Ads Transparency Center: 38 ads for rainycityroofing.com (Maps/local and search formats), advertiser 'Rainy City Roofing LLC', verified. A competitor (AA Rite-Way Roofing) was also running a sponsored ad on their branded search.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website describes a family-run, second-generation roofing company serving Portland since 2004; BBB lists Jose Villa Garcia as owner (LLC registered 2017)",
+    "employeesEstimate": "unknown; site mentions a crew with 30+ years combined experience",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "CallRail call tracking script on site; site built by Direct Placement LLC (marketing agency); a 'Book Online' reference in site text, but no booking widget confirmed",
+    "dmName": "Jose Villa Garcia",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/or/gresham/profile/roofing-contractors/rainy-city-roofing-llc-1296-1000133157",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They are spending on 38+ Google ads that drive calls to (503) 577-2176; how many of those calls come in while the crew is on a roof or after 6pm, and does anyone pick up?",
+    "hooks": [
+      "Family-run, second-generation roofer serving Portland metro since 2004",
+      "4.9 stars on 61 Google reviews",
+      "Running Google ads (38 in the Ads Transparency Center), and a competitor bids on their brand name",
+      "Separate phone lines for Oregon and Washington, covering Gresham, Happy Valley, Vancouver, Camas and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://rainycityroofing.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/or/gresham/profile/roofing-contractors/rainy-city-roofing-llc-1296-1000133157"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=rainycityroofing.com"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=Rainy+City+Roofing+LLC+Gresham+OR"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": false,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": null,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "Several unrelated WA businesses have near-identical names (Rainy City Roofing in Burley/Port Orchard WA; Rain City Roofers Corp in Yacolt WA); this record is the Gresham OR LLC. Addresses differ: Google shows 2204-8 NW Birdsdale Ave, Gresham; BBB shows 3082 SW Royal Ave, Gresham. The owner name comes from BBB only, not the company's own site. Low review velocity (1 in the last month, then a gap to about a year). onlineBooking is null because 'Book Online' appears in the page text but I could not confirm a working booking widget. Not advertised as 24/7.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "24-7-flood-response-inc",
+    "company": "24/7 Flood Response, Inc.",
+    "website": "https://www.24-7floodresponse.com",
+    "vertical": "restoration",
+    "city": "Golden (Denver metro)",
+    "region": "CO",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Open 24 hours, 365 days",
+    "hoursSource": "Google Business Profile (Open 24 hours); official website says 24/7/365",
+    "phone": "(303) 239-1416",
+    "phoneSource": "Official website header and About page (shown as 303-239-1416); matches Google Business Profile",
+    "googleRating": 4.7,
+    "googleReviews": 204,
+    "latestReviewAge": "3 weeks ago",
+    "paidAdsNote": "Google Ads Transparency Center: 90 ads for 24-7floodresponse.com, advertiser '24/7 Flood Response, Inc.', verified. Competitors (Restoration 1, Independent Restoration, SERVPRO) ran sponsored ads on their branded search.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Family owned since 2003; owners Jody and Tim Graffam work alongside their three children and spouses (About page)",
+    "employeesEstimate": "~8–15 (family-run; owners, three children and spouses plus crew; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Wix site with Wix Chat widget (auto-opens); contact/estimate form; member of the Team Dave Logan contractor network",
+    "dmName": "Tim Graffam",
+    "dmTitle": "Owner (co-owner with Jody Graffam)",
+    "dmSource": "https://www.24-7floodresponse.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises every call is answered live 24/7 by a family-run team; how do they keep that promise at 3am while also running 90+ Google ads, and what does it cost the owners personally?",
+    "hooks": [
+      "Family owned since 2003: Tim and Jody Graffam work with their three kids",
+      "Site says 'we answer every call live', 24/7/365",
+      "4.7 stars on 204 Google reviews",
+      "Running 90 Google ads; SERVPRO and Restoration 1 bid on their branded search",
+      "Team Dave Logan network member; covers 30+ Front Range towns"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.24-7floodresponse.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.24-7floodresponse.com/about"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=24%2F7+Flood+Response+626+Moss+St+Golden+CO"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=24-7floodresponse.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": false,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": true,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "No after-hours gap is published: they explicitly claim live answering 24/7 (likely owner/family on call, not verified). This lead is weaker on the 'gap' angle but strong on ad spend and owner burden. Review velocity is moderate (1 in the last 3 weeks, 6 at ~2 months), so recentReviews=false. The Google listing name is keyword-stuffed ('24/7 Flood Response Denver Water Damage Specialists Fire Smoke Mold Mitigation Biohazard').",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "river-city-heating-and-air",
+    "company": "River City Heating and Air",
+    "website": "https://rivercityheatingair.com",
+    "vertical": "hvac",
+    "city": "Richmond",
+    "region": "VA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed",
+    "hoursSource": "Official website; Google Business Profile hours table (8 AM–5 PM weekdays, closed weekend)",
+    "phone": "(804) 674-9300",
+    "phoneSource": "Official website (tel link and header); matches Google Business Profile and BBB",
+    "googleRating": 4.8,
+    "googleReviews": 275,
+    "latestReviewAge": "a week ago",
+    "paidAdsNote": "Google Ads Transparency Center: 12 ads for rivercityheatingair.com (seasonal check-up specials, mini-split installs, Maps ads), advertiser 'River City Heating and Air', verified",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website says locally owned and operated, serving Richmond since 2006; BBB lists Bobby Robinson as President (business started 2000)",
+    "employeesEstimate": "~10–20 (site/reviews name several techs and office staff; service vans visible in Google photos)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Contact/quote form; Synchrony financing; no chat, text or online booking widget found in page source",
+    "dmName": "Bobby Robinson",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/va/richmond/profile/heating-and-air-conditioning/river-city-heating-and-air-0603-37024825",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They advertise emergency AC and heating repair and run Google ads, but the office is only open 8–5 on weekdays; what happens to a no-heat call that comes in Saturday night?",
+    "hooks": [
+      "Serving Richmond since 2006; Bobby Robinson is president",
+      "4.8 stars on 275 Google reviews, several in the past two weeks",
+      "Office hours are Mon–Fri 8–5, closed weekends, yet the site promotes emergency HVAC service",
+      "Running Google ads (e.g. \"$59 Seasonal HVAC Check-Up\", mini-split installation ads)",
+      "Offers Synchrony financing and free quotes"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://rivercityheatingair.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://rivercityheatingair.com/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/va/richmond/profile/heating-and-air-conditioning/river-city-heating-and-air-0603-37024825"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=River+City+Heating+and+Air+6404+Mallory+Dr+Richmond+VA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=rivercityheatingair.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": null,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "emergency247 is null: the site says 'Emergency HVAC Services Available' but does not explicitly say 24/7. Owner name is from BBB only; the company site names no owner. Family ownership is not stated on the pages I read (only 'locally owned'). reviewResponseComplaints is null: review texts were not machine-readable, and the top 'relevant' review snippet mentioned dispatch quoting the wrong price (not a callback issue).",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "aim-green-restoration-llc",
+    "company": "AIM Green Restoration LLC",
+    "website": "https://www.aimgreenrestoration.com",
+    "vertical": "restoration",
+    "city": "Columbus",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours",
+    "hoursSource": "Google Business Profile; website says phone answered 24/7 with a 60-minute arrival goal",
+    "phone": "(614) 877-8855",
+    "phoneSource": "Official website (tel link, header, About page); matches Google Business Profile. BBB and some directory/secondary sites list (614) 632-6395 instead",
+    "googleRating": 5,
+    "googleReviews": 122,
+    "latestReviewAge": "3 weeks ago",
+    "paidAdsNote": "Google Ads Transparency Center: 31 ads for aimgreenrestoration.com (Maps/local, image and video ads incl. 'Call us 24/7'), advertisers 'AIM Green Restoration LLC' and 'Isaiah Morgan', both verified",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: locally owned, family-operated since 2016. BBB lists Isaiah A. Morgan as owner (the 'AIM' in the name matches his initials)",
+    "employeesEstimate": "unknown; site references technicians, estimators and office staff",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Phone and estimate-request form only; no chat, text or booking widget found in page source. Owner also runs extra lead-gen domains (columbusrestorationcompany.com, damagerestorationcolumbusoh.com) with a different number",
+    "dmName": "Isaiah A. Morgan",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/oh/columbus/profile/water-damage-restoration/aim-green-restoration-llc-0302-70122144",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 31 Google ads pushing 'call us 24/7' and a 60-minute arrival promise, who is answering at 2am when the owner is already on a job, and how many flooded-basement calls go to a competitor instead?",
+    "hooks": [
+      "Founded 2016 by Isaiah Morgan (the AIM in AIM Green)",
+      "5.0 stars on 122 Google reviews",
+      "Runs 31 Google ads, including a 'Call us 24/7' video",
+      "Promises roughly 60-minute arrival across Franklin and Delaware counties",
+      "BBB accredited A+ since 2023"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.aimgreenrestoration.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.aimgreenrestoration.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/columbus/profile/water-damage-restoration/aim-green-restoration-llc-0302-70122144"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=AIM+Green+Restoration+2050+E+Dublin+Granville+Rd+Columbus"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=aimgreenrestoration.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": false,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "The two numbers matter: website/GBP use (614) 877-8855; BBB, eLocal and the extra domains use (614) 632-6395. Google also shows a second listing at 2319 Holt Ave with (380) 287-6422 that I did not verify as theirs. Review velocity is slow (1 in the last month, the next at 2 months), so recentReviews=false. No published office-hours gap: they advertise 24/7 and GBP says open 24 hours. Complaint check not done (review texts not readable). Financing not mentioned.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "jpm-heating-air-inc",
+    "company": "JPM Heating & Air Inc",
+    "website": "https://www.jpmair.com",
+    "vertical": "hvac",
+    "city": "El Cajon (San Diego County)",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 7am–4pm; Sat–Sun closed (site also says '24/7 Emergency Service')",
+    "hoursSource": "Official website About/Contact pages; Google Business Profile consistent (closed on weekend, opens 7 AM Mon)",
+    "phone": "(619) 647-0425",
+    "phoneSource": "Official website (tel link, header, About page); matches Google Business Profile, Yelp and BBB",
+    "googleRating": 4.9,
+    "googleReviews": 354,
+    "latestReviewAge": "a week ago",
+    "paidAdsNote": "Google Ads Transparency Center: 10 ads for jpmair.com (search ads with team photo, plus a Maps ad that shows 'Open 24 hours'), advertiser 'JPM HEATING & AIR, INC', verified",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: locally owned and family-operated since 2007. BBB lists Jason Purgason as President; the company's own Facebook has a photo captioned 'Jason Purgason, owner JPM'",
+    "employeesEstimate": "~8–12 (team photo in their Google ads shows about 8–9 people)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Hibu-built website (Hibu click-to-call/RTC script present), request-service form; Google Business Profile shows a 'Book online' button; ad copy says 'Call Or Text Us'",
+    "dmName": "Jason Purgason",
+    "dmTitle": "Owner / President",
+    "dmSource": "https://www.bbb.org/us/ca/el-cajon/profile/heating-and-air-conditioning/j-p-m-heating-air-1126-16006058",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 4pm weekdays and all weekend, yet the site and a Maps ad advertise 24/7 emergency service; who takes the call when an AC dies at 6pm on a 100-degree Saturday in El Cajon?",
+    "hooks": [
+      "Jason Purgason has owned JPM since 2007; Bryant factory authorized dealer",
+      "4.9 stars on 354 Google reviews",
+      "Office hours are Mon–Fri 7am–4pm, closed weekends, but '24/7 Emergency Service' is advertised, with emergency response 'within 24 hours'",
+      "A Maps ad shows 'Open 24 hours' while the profile shows closed weekends",
+      "Senior, military and first-responder discounts; free same-day estimates"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.jpmair.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.jpmair.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ca/el-cajon/profile/heating-and-air-conditioning/j-p-m-heating-air-1126-16006058"
+      },
+      {
+        "label": "Company Facebook photo (owner caption)",
+        "url": "https://www.facebook.com/jpmheatingandair/photos/jason-purgason-owner-jpm/1116461745061669/"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=JPM+Heating+%26+Air+1551+N+Cuyamaca+St+El+Cajon"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=jpmair.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": false,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": null,
+      "chatOrText": null,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "The owner name is confirmed on the BBB profile (Jason Purgason, President; business started July 2007). The company website names no owner, and the Facebook photo caption was seen only in search metadata. Review velocity is low (newest 1 week ago, the next 6 months ago), so recentReviews=false. onlineBooking null: GBP shows a 'Book online' button but the website has no booking widget. chatOrText null: ad copy says 'Call Or Text Us' but no text widget was found on the site. CSLB license #947115 not checked (the lookup requires a form submission).",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "four-ace-electrical-services-corporation",
+    "company": "Four Ace Electrical Services Corporation",
+    "website": "https://fouraceelectrical.com",
+    "vertical": "electrical",
+    "city": "Sacramento",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Sun 7am–5pm",
+    "hoursSource": "Google Business Profile hours table; the website contact page lists Mon–Sun 7:00 AM–5:00 PM (seen in a Google result snippet); Yelp shows Mon–Fri 8am–5pm",
+    "phone": "(916) 419-4626",
+    "phoneSource": "Official website (tel link, home/About pages); matches Google Business Profile and BBB",
+    "googleRating": 4.9,
+    "googleReviews": 237,
+    "latestReviewAge": "a week ago",
+    "paidAdsNote": "Google Ads Transparency Center: 13 ads for fouraceelectrical.com (search, Maps and display ads), advertiser 'Four Ace Electrical Service Corp', verified",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Family owned since 2007 (website). BBB lists Leonardo Velasquez (President) and Bernadette Velasquez (Secretary)",
+    "employeesEstimate": "small; site mentions '60+ years of combined experience' and a multilingual team (English, Spanish, Filipino); no count given",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "None visible: no chat, text or booking widget in page source; contact form only",
+    "dmName": "Leonardo Velasquez",
+    "dmTitle": "President (licensed electrical contractor)",
+    "dmSource": "https://www.bbb.org/us/ca/sacramento/profile/electrical-contractors/four-ace-electrical-services-corporation-1156-47019538",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Their own site says calls are 'typically returned the same day, except during peak service times'; how many Google-ad callers hit voicemail and call the next electrician before Leo calls back?",
+    "hooks": [
+      "Family owned since 2007: Leonardo (Leo) and Bernadette Velasquez",
+      "4.9 stars on 237 Google reviews, about 7 in the last month",
+      "Site says calls are 'typically returned the same day, except during peak service times'",
+      "Running Google ads (13 in the Ads Transparency Center)",
+      "Multilingual team: English, Spanish, Filipino"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://fouraceelectrical.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://fouraceelectrical.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ca/sacramento/profile/electrical-contractors/four-ace-electrical-services-corporation-1156-47019538"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=Four+Ace+Electrical+Services+Sacramento"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=fouraceelectrical.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "No 24/7 or emergency claim was found, so afterHoursGap is null. The strongest angle is the site's own callback-delay language. Owner names are from BBB (a search snippet also says Leo is the licensed electrician and his wife Bernadette helps manage). A second domain, fouraceelectricalservices.com, also exists (not reviewed). CSLB #907701 per BBB, not checked on CSLB. Free estimates and financing were not mentioned on the pages read. The display ad shows a van with a second number, 916-541-1641 (not verified).",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "tampa-bay-roofing-services",
+    "company": "Tampa Bay Roofing Services",
+    "website": "https://tampabayroofing.com",
+    "vertical": "roofing",
+    "city": "Hudson (Tampa Bay area)",
+    "region": "FL",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 9am–5pm (website). Google Business Profile (Hudson) shows different hours, roughly 8am–5/6pm weekdays and Saturday opening at 9am",
+    "hoursSource": "Official website footer; Google Business Profile (Hudson listing) differs",
+    "phone": "727-496-7663",
+    "phoneSource": "Official website header and floating 'Call Now' button (727-496-7663); site also lists 727-334-2772, 813-797-7663, 352-225-7663. Google Business Profile (Hudson) shows a DIFFERENT number, (727) 607-0251",
+    "googleRating": 5,
+    "googleReviews": 598,
+    "latestReviewAge": "within the last week (the Newest sort showed '3 days ago' and 'a week ago' for the same reviewer)",
+    "paidAdsNote": "Google Ads Transparency Center: 10 search ads for tampabayroofing.com ('5.0* & 515+ Reviews. Schedule Now', roof financing), advertiser 'TAMPA BAY ROOFING SERVICES', verified. Competitors (Neal Roofing, Action Roofing, 4thGen Roofing) ran sponsored ads on their branded search",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: Owner and President Chris Hloska, third-generation roofer (learned from his father and grandfather), licensed Florida roofing contractor since 2007",
+    "employeesEstimate": "~25–60 (About page names 9+ leadership/staff; 3 offices; also holds an electrical license)",
+    "employeeBand": "16-50",
+    "locations": 3,
+    "existingTools": "WordPress 'Call Now Button' plugin; estimate/callback request forms; no chat or booking widget seen",
+    "dmName": "Chris Hloska",
+    "dmTitle": "Owner / President",
+    "dmSource": "https://tampabayroofing.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With four different phone numbers on the site, a fifth on Google, three offices and a 9-to-5 weekday schedule, where do storm-week calls go after 5pm, and does anyone see which number they came in on?",
+    "hooks": [
+      "Chris Hloska, third-generation roofer, licensed since 2007",
+      "5.0 stars on 598 Google reviews, several in the last month",
+      "Offices in Hudson, Spring Hill and Brandon; serves 10+ counties",
+      "Website hours Mon–Fri 9–5; promises emergency inspections within 24–48 hours of major storms",
+      "Runs Google ads; competitors bid on their brand name"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://tampabayroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://tampabayroofing.com/about-us/"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=Tampa+Bay+Roofing+Services+Hudson+FL"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=tampabayroofing.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": null,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "At the top of the ICP size range (3 offices, a named leadership team). Hours are inconsistent between the site (M–F 9–5) and GBP; I did not capture the full GBP table reliably. Not advertised as 24/7 (storm inspections within 24–48h), so afterHoursGap is null. GBP phone (727) 607-0251 is not on the website and is likely a tracking number. Licenses CCC1328373 and EC13015899 per the site (not checked with the state).",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "trotter-overhead-door-garage-home",
+    "company": "Trotter Overhead Door Garage + Home",
+    "website": "https://www.trotteroverheaddoor.com",
+    "vertical": "garage-doors",
+    "city": "Edmond (Oklahoma City metro)",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 7:30am–5pm; Sat 8am–11am; Sun closed",
+    "hoursSource": "Official website (home, About and emergency-repair pages); Google Business Profile consistent (opens 8 AM Sat)",
+    "phone": "(405) 341-9601",
+    "phoneSource": "Official website (tel link, header, contact info); matches Google Business Profile, Yelp and BBB",
+    "googleRating": 5,
+    "googleReviews": 387,
+    "latestReviewAge": "a week ago",
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for trotteroverheaddoor.com. Local Services Ads not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Founded 1983 by Jesse and Tina Trotter (About page); family owned. BBB lists Nathan Trotter as owner (second generation)",
+    "employeesEstimate": "~15–25 (site and reviews name many staff: Nathan, Sam, Wacey, Landyn, Nick, Charles, Ben, Craig; 15,000 sq ft facility with showroom)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "'Book Free Consultation' form as the main CTA; Google Business Profile shows a 'Book online' button; no chat or text widget found",
+    "dmName": "Nathan Trotter",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ok/edmond/profile/garage-door-repair/trotter-overhead-door-garage-home-0995-90041108",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Their emergency-repair page tells customers whose door fails late in the day or on a weekend to 'call as early as you can'; how many of those broken-spring callers book whoever answers first instead?",
+    "hooks": [
+      "Founded 1983 by Jesse and Tina Trotter; Nathan Trotter now owns it",
+      "5.0 stars on 387 Google reviews, several in the last month",
+      "Hours are Mon–Fri 7:30–5 and Saturday 8–11 only; the emergency page asks after-hours callers to 'call as early as you can'",
+      "No Google ads running (Ads Transparency Center shows 0)",
+      "Grew from a 400 sq ft start to a 15,000 sq ft facility with a showroom"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.trotteroverheaddoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.trotteroverheaddoor.com/about-us"
+      },
+      {
+        "label": "Emergency repair page",
+        "url": "https://www.trotteroverheaddoor.com/emergency-garage-door-repair"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ok/edmond/profile/garage-door-repair/trotter-overhead-door-garage-home-0995-90041108"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=Trotter+Overhead+Door+14000+N+Santa+Fe+Ave+Edmond+OK"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=trotteroverheaddoor.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": null,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": false,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "Nathan Trotter is named as owner by BBB only; the company site names only the founders (and Nathan as a staff member in a review). phonePrimaryCta=false because the main CTA is 'Book Free Consultation'. onlineBooking is null: the consultation form is a request, not instant booking, though GBP shows a 'Book online' button. Does more installation and showroom sales than pure repair. Financing not mentioned on the pages read.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "stahl-plumbing-and-drain",
+    "company": "Stahl Plumbing and Drain",
+    "website": "https://www.stahlplumbinganddrain.com",
+    "vertical": "plumbing",
+    "city": "Pittsburgh (Mount Oliver)",
+    "region": "PA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–4pm",
+    "hoursSource": "Official website home and About pages; Google Business Profile shows closed on weekends, opens 8 AM Mon",
+    "phone": "412-205-8432",
+    "phoneSource": "Official website (tel link, header, About page). Google Business Profile shows a DIFFERENT number, (412) 990-2689; Yelp shows (412) 709-8343 and Facebook 412-547-9810 (likely call-tracking numbers)",
+    "googleRating": 4.9,
+    "googleReviews": 338,
+    "latestReviewAge": "2 hours ago",
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for stahlplumbinganddrain.com. Multiple tracking numbers across Google, Yelp and Facebook suggest active lead-source tracking. Local Services Ads not checked.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Founded 2016 by David Stahl, a third-generation plumber; brother Tyson Stahl (master plumber) and cousins Caitlin and Cory Stahl work in the business (About page)",
+    "employeesEstimate": "~10–20 (About page names 4 family members; site and reviews name techs Jake, Connor, Aaron and office staff Amy)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "'Schedule Now' contact form with SMS-consent checkbox (appointment reminders); 0% financing offer; no chat widget or instant booking found",
+    "dmName": "David Stahl",
+    "dmTitle": "Founder / Owner",
+    "dmSource": "https://www.stahlplumbinganddrain.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With the office open only 8am–4pm on weekdays and 'Emergency Repairs' listed as a service, where does a 7pm burst-pipe call from Mt. Lebanon end up?",
+    "hooks": [
+      "Founded 2016 by third-generation plumber David Stahl; brother Tyson is a master plumber",
+      "4.9 stars on 338 Google reviews, with several in the last 24 hours",
+      "Office hours are Mon–Fri 8am–4pm, closed weekends, yet 'Emergency Repairs' is a listed service",
+      "Serves Pittsburgh and 60+ Allegheny County communities; offers 0% financing",
+      "A review says a customer confused them with another Stahl near Edgewood"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.stahlplumbinganddrain.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.stahlplumbinganddrain.com/about-us/"
+      },
+      {
+        "label": "Google search knowledge panel",
+        "url": "https://www.google.com/search?q=Stahl+Plumbing+and+Drain+325+Brownsville+Rd+Pittsburgh"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=stahlplumbinganddrain.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": false,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": null,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T00:36:06.848Z",
+    "researchNotes": "Do not confuse with 'Stahl Plumbing, Heating & Air Conditioning' (stahlpittsburgh.com, 412-273-1000), a separate Pittsburgh company that advertises 24/7. There is no 24/7 claim here, so the after-hours gap rests on 'Emergency Repairs' being listed alongside 8–4 weekday hours. phonePrimaryCta=false because the main CTA is 'Schedule Now' (form). Very high review velocity suggests an active review-request process. Free estimates not stated.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  }
+]

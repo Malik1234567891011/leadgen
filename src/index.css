@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap');
+@import 'tailwindcss';
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+:root {
+  --bg: #f6f5f1;
+  --panel: #ffffff;
+  --panel-2: #fbfaf7;
+  --line: #e8e5dd;
+  --line-2: #f0ede6;
+  --ink: #1d1b16;
+  --ink-2: #57534a;
+  --ink-3: #8f8a7e;
+  --accent: #2f5d50;
+  --accent-soft: #e5efe9;
+  --hot: #c2410c;
+  --hot-soft: #fdeee4;
+  --good: #3f7d4e;
+  --good-soft: #e8f3e8;
+  --warn: #a16207;
+  --warn-soft: #fbf3dc;
+  --bad: #b42318;
+  --bad-soft: #fcebe9;
+  --blue: #2c5ea8;
+  --blue-soft: #e7eef9;
+  --shadow: 0 1px 2px rgb(29 27 22 / 0.04), 0 4px 16px rgb(29 27 22 / 0.05);
+  --shadow-lg: 0 8px 40px rgb(29 27 22 / 0.14);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #121210; --panel: #1a1a17; --panel-2: #1f1f1b; --line: #2d2c27; --line-2: #25241f;
+    --ink: #f1efe8; --ink-2: #b9b5aa; --ink-3: #807b70;
+    --accent: #7fc4ac; --accent-soft: #1f302a;
+    --hot: #fb8a4c; --hot-soft: #3a2216; --good: #86c796; --good-soft: #1d2d20;
+    --warn: #e5b94f; --warn-soft: #33290f; --bad: #f38a80; --bad-soft: #3a1a17;
+    --blue: #8db3ec; --blue-soft: #1b2638;
+    --shadow: 0 1px 2px rgb(0 0 0 / 0.3); --shadow-lg: 0 8px 40px rgb(0 0 0 / 0.5);
+    color-scheme: dark;
+  }
+}
+:root[data-theme='dark'] {
+  --bg: #121210; --panel: #1a1a17; --panel-2: #1f1f1b; --line: #2d2c27; --line-2: #25241f;
+  --ink: #f1efe8; --ink-2: #b9b5aa; --ink-3: #807b70;
+  --accent: #7fc4ac; --accent-soft: #1f302a;
+  --hot: #fb8a4c; --hot-soft: #3a2216; --good: #86c796; --good-soft: #1d2d20;
+  --warn: #e5b94f; --warn-soft: #33290f; --bad: #f38a80; --bad-soft: #3a1a17;
+  --blue: #8db3ec; --blue-soft: #1b2638;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3); --shadow-lg: 0 8px 40px rgb(0 0 0 / 0.5);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-sans: 'Geist', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, monospace;
+  --font-serif: 'Instrument Serif', ui-serif, Georgia, serif;
+  --color-bg: var(--bg);
+  --color-panel: var(--panel);
+  --color-panel-2: var(--panel-2);
+  --color-line: var(--line);
+  --color-line-2: var(--line-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-hot: var(--hot);
+  --color-hot-soft: var(--hot-soft);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-blue: var(--blue);
+  --color-blue-soft: var(--blue-soft);
+  --shadow-card: var(--shadow);
+  --shadow-float: var(--shadow-lg);
+}
+
+html, body, #root { height: 100%; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: 'ss01', 'cv11';
+}
+::selection { background: var(--accent-soft); }
+.tnum { font-variant-numeric: tabular-nums; }
+
+@keyframes slide-in { from { transform: translateX(24px); opacity: 0 } to { transform: none; opacity: 1 } }
+@keyframes fade-in { from { opacity: 0 } to { opacity: 1 } }
+@keyframes pop { from { transform: translateY(4px); opacity: 0 } to { transform: none; opacity: 1 } }
+.anim-slide { animation: slide-in 0.22s cubic-bezier(0.2, 0.8, 0.2, 1) }
+.anim-fade { animation: fade-in 0.18s ease-out }
+.anim-pop { animation: pop 0.18s ease-out }
+
+.scroll-thin { scrollbar-width: thin; scrollbar-color: var(--line) transparent; }
