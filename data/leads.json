@@ -7181,5 +7181,1331 @@
     "canadaCallReady": false,
     "notes": "",
     "activity": []
+  },
+  {
+    "id": "hometown-water-fire-restoration-llc",
+    "company": "Hometown Water & Fire Restoration LLC",
+    "website": "https://hometownrestore.com",
+    "vertical": "restoration",
+    "city": "Grandville (Grand Rapids metro)",
+    "region": "MI",
+    "country": "US",
+    "timezone": "America/Detroit",
+    "hours": "Open 24 hours (Google Business Profile); website says 24/7 emergency hotline, 60-minute response in greater Grandville",
+    "hoursSource": "Google Business Profile; official website home page",
+    "phone": "(616) 888-9117",
+    "phoneSource": "Official website header/tel links (tel:+1-616-888-9117, 9 occurrences); matches Google Business Profile and BBB",
+    "googleRating": 5,
+    "googleReviews": 151,
+    "latestReviewAge": "a month ago (newest owner reply seen; displayed reviews 2–6 months old)",
+    "paidAdsNote": "Google Ads Transparency Center (US, hometownrestore.com): 5 ads; advertisers shown 'Hometown Water & Fire Restoration' and 'WordJack Media LLC' (likely their marketing agency).",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website FAQ: 'We are proud to be locally owned and operated', not a franchise or private equity. Division of Isaiah 43:2 Inc. (described as locally owned); founded April 2023. BBB lists Matthew C Horner (Owner), Hunter A Bolkema and Joshua Vande-Guchte (Co-Owners).",
+    "employeesEstimate": "unknown; small young company (3 owners on BBB, reviews name Matt repeatedly)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/text/booking/call-tracking widget found in home page HTML (grep clean); phone-first CTA plus contact form; WordPress site",
+    "dmName": "Matthew C Horner",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/mi/grandville/profile/fire-water-damage-restoration/hometown-water-fire-restoration-llc-0372-38320027",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With a 24/7 hotline, a 60-minute response promise and a three-owner team, who picks up the 11pm basement-flood call when the owners are already on a job?",
+    "hooks": [
+      "5.0 stars on 151 Google reviews; owner replies to reviews",
+      "A reviewer notes they came out at 11pm for a flooded basement",
+      "Website promises 60-minute response around Grandville, 24/7 emergency hotline",
+      "Locally owned, founded 2023, BBB Accredited since Jan 2026",
+      "Running Google ads (5 in Ads Transparency Center)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://hometownrestore.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://hometownrestore.com/about-hometown-water-fire-restoration/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mi/grandville/profile/fire-water-damage-restoration/hometown-water-fire-restoration-llc-0372-38320027"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Hometown+Water+%26+Fire+Restoration+3056+Dixie+Ave+SW+Grand+Rapids"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=hometownrestore.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.001Z",
+    "researchNotes": "Google lists 24 hours, so no after-hours gap is provable; the pitch is capacity (small owner-operated team). freeEstimate and financing not mentioned on pages read (null). Google reviews were read in default (relevance) order, so latestReviewAge is the newest seen, not a verified newest. Employee band is an estimate. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "stover-s-restoration-inc",
+    "company": "Stover's Restoration, Inc.",
+    "website": "https://floodandfire.com",
+    "vertical": "restoration",
+    "city": "Maize (Wichita metro)",
+    "region": "KS",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours, 7 days (Google Business Profile and website contact page)",
+    "hoursSource": "Google Business Profile; official website contact page",
+    "phone": "(316) 722-5005",
+    "phoneSource": "Official website contact page lists Maize office 316-722-5005 (matches BBB); site header/tel links use the corporate line 1-800-834-0296. Google Business Profile shows a different number, (316) 710-6897 (likely a tracking number).",
+    "googleRating": 4.9,
+    "googleReviews": 692,
+    "latestReviewAge": "2 months ago (newest shown in default sort; owner posted a review-thank-you update 11 hours ago)",
+    "paidAdsNote": "Google Ads Transparency Center (US, floodandfire.com): 11 ads; advertisers 'Stover's Restoration' and 'Stover's Restoration Inc.'",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: founded 1987 by Phil Stover; 'Being family-owned and part of the community'. BBB lists Phil Stover as Owner; team page lists Phillip Stover (General Manager), Jordan Stover and Mary Stover.",
+    "employeesEstimate": "~20 (team page lists 19 named staff)",
+    "employeeBand": "16-50",
+    "locations": 3,
+    "existingTools": "No chat/text/booking/call-tracking widget found in home page HTML (grep clean); contact form plus phone CTA. Google profile uses a different number than the site, suggesting call tracking.",
+    "dmName": "Phil Stover",
+    "dmTitle": "Owner (founder)",
+    "dmSource": "https://www.bbb.org/us/ks/maize/profile/fire-water-damage-restoration/stovers-restoration-inc-0714-6333",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Stover's answers 24/7 across Maize, Hutchinson and Emporia with one office manager and a 1-800 line; who takes the overnight flood calls, and how many of the 11 Google ads' clicks land after hours?",
+    "hooks": [
+      "Family-owned since 1987, founded by Phil Stover; three Kansas offices (Maize, Hutchinson, Emporia)",
+      "4.9 stars on 692 Google reviews; owner replies to reviews",
+      "Reviewers praise the office staff on the phone and a same-day, couple-hour response",
+      "11 Google ads in the Ads Transparency Center",
+      "BBB Accredited since 2003, A+"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://floodandfire.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://floodandfire.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://floodandfire.com/contact-us/"
+      },
+      {
+        "label": "Team page",
+        "url": "https://floodandfire.com/our-team/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ks/maize/profile/fire-water-damage-restoration/stovers-restoration-inc-0714-6333"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Stover's+Restoration+112+E+Albert+St+Wichita"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=floodandfire.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T01:49:36.005Z",
+    "researchNotes": "Phone mismatch: website uses 316-722-5005 (Maize office) and 1-800-834-0296; Google shows 316-710-6897. Unclear whether Phil Stover (founder/owner per BBB) and Phillip Stover (General Manager on team page) are the same person or father/son. Google lists 24 hours, so no after-hours gap is provable. freeEstimate/financing not seen (null). Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "maumee-valley-heating-air-conditioning-inc",
+    "company": "Maumee Valley Heating & Air Conditioning, Inc.",
+    "website": "https://www.maumeevalleyheating.com",
+    "vertical": "hvac",
+    "city": "Toledo",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Thu 8am–5pm; Fri 8am–4pm; Sat–Sun closed (website contact page). Google showed 'Closed · Opens 8 AM Mon' on a Friday evening. Site meta description advertises '24 Hour Emergency Furnace Repair'",
+    "hoursSource": "Official website contact page and home page structured data; Google Business Profile status",
+    "phone": "(419) 531-7855",
+    "phoneSource": "Official website header/tel links (tel:+14195317855) and contact page; matches Google Business Profile. BBB lists a different number, (419) 299-6560.",
+    "googleRating": 4.8,
+    "googleReviews": 247,
+    "latestReviewAge": "2 months ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, maumeevalleyheating.com): 25 ads, advertiser 'Spiros C. Theodorou'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Founded June 1965 by Fred Slates; four-generation family business now led by his daughter Patti Theodorou and her son Spiros (About page). BBB lists Ms. Patricia L. Theodorou as Owner.",
+    "employeesEstimate": "15 (BBB); About page names ~8 techs/managers",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/text/booking widget in website HTML (grep clean); main CTA 'Schedule Your Service' links to a contact form. Google Business Profile shows a 'Book online' button. Financing up to 120 months.",
+    "dmName": "Patricia L. Theodorou",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/oh/toledo/profile/heating-and-air-conditioning/maumee-valley-heating-inc-0422-4532",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site advertises '24 Hour Emergency Furnace Repair' but the office runs Mon–Thu 8–5 and Fri 8–4; who answers a no-heat call on a January Saturday?",
+    "hooks": [
+      "Family-owned since 1965, four generations; Patti and her son Spiros run it",
+      "4.8 stars on 247 Google reviews; owner replies thank people for choosing a family-owned Toledo business",
+      "Office hours end at 4pm on Fridays and closed weekends",
+      "25 Google ads running under Spiros C. Theodorou",
+      "Financing up to 120 months; serves NW Ohio and SE Michigan"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.maumeevalleyheating.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.maumeevalleyheating.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.maumeevalleyheating.com/contact/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/toledo/profile/heating-and-air-conditioning/maumee-valley-heating-inc-0422-4532"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Maumee+Valley+Heating+%26+Air+Conditioning+2740+Nebraska+Ave+Toledo"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=maumeevalleyheating.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": true,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": false,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "The 24-hour emergency claim appears in the site meta description only, not in body text, so the after-hours gap is real but softly advertised. Spiros Theodorou (Service Manager, ad account holder) is an alternate DM. phonePrimaryCta=false because the main button is 'Schedule Your Service' (form), though the phone is in the header. freeEstimate null (in-home evaluation offered, 'free' not stated). Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "dale-s-heating-air-conditioning-llc",
+    "company": "Dale's Heating & Air Conditioning LLC",
+    "website": "https://www.dalesheating.com",
+    "vertical": "hvac",
+    "city": "Madison",
+    "region": "WI",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed (Google Business Profile). Website: 'emergency services 24 hours a day, every day of the week'",
+    "hoursSource": "Google Business Profile hours table ('Closed · Opens 8 AM Mon' on a Friday evening); official website home and About pages",
+    "phone": "(608) 845-9353",
+    "phoneSource": "Official website header/footer/contact page (tel:608-845-9353); matches Google Business Profile and BBB",
+    "googleRating": 4.7,
+    "googleReviews": 87,
+    "latestReviewAge": "2 months ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, dalesheating.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: 'a committed family owned heating and air conditioning company' serving Madison 'from our small shop', established 1985 (BBB says 1986). BBB lists Brian Olson as Owner; site email is brian@dalesheating.com.",
+    "employeesEstimate": "unknown; 'small shop', reviews mention owner Brian personally answering and doing calls",
+    "employeeBand": "3-4",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget in HTML (grep clean). Simple 'Text Message Me' form page (textmessages/formpage.html) and a contact form with a math captcha. Old custom site by Page 1 SEO Design.",
+    "dmName": "Brian Olson",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/wi/madison/profile/heating-and-air-conditioning/dales-heating-air-conditioning-llc-0694-14006733",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "A reviewer says Dale's was the 4th place they called on a -15° Saturday and Brian personally picked up; how many of those weekend no-heat calls go to voicemail when he's already under a furnace?",
+    "hooks": [
+      "Family-owned Madison HVAC shop since 1985; BBB lists Brian Olson as owner",
+      "Review: 4th place called on a -15 degree Saturday with no heat, and Brian personally answered",
+      "Site promises emergency service 24 hours a day, but Google hours are Mon–Fri 8–5",
+      "4.7 stars on 87 Google reviews; 10% discount for military and seniors",
+      "No Google ads; relies on reputation and word of mouth"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.dalesheating.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.dalesheating.com/about.php"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.dalesheating.com/contact.php"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/wi/madison/profile/heating-and-air-conditioning/dales-heating-air-conditioning-llc-0694-14006733"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Dale's+Heating+%26+Air+2001+Freeport+Rd+Madison+WI"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=dalesheating.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": null,
+      "onlineBooking": false,
+      "chatOrText": true,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "Very small operation; may sit below the ~5-employee sweet spot (band is an estimate). Google address is 2001 Freeport Rd; website/BBB say 2003 Freeport Rd. Google hours table read via accessibility summary (8 AM–5 PM weekdays, closed weekends). chatOrText=true only because of the basic text-me form page. freeEstimate null (not stated). Reviews read in default sort; owner does not reply to the reviews seen. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "am-pm-plumbing-llc",
+    "company": "AM PM Plumbing LLC",
+    "website": "https://ampmplumbingdsm.com",
+    "vertical": "plumbing",
+    "city": "West Des Moines (Des Moines metro)",
+    "region": "IA",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–4:30pm; Sat–Sun closed; 'Emergency Service Available 24/7' (website). Google showed 'Closed · Opens 8 AM Mon' on a Friday evening",
+    "hoursSource": "Official website contact and emergency-plumbing pages; Google Business Profile status",
+    "phone": "(515) 297-6584",
+    "phoneSource": "Official website header/tel links (tel:(515) 297-6584) and contact page; matches Google Business Profile. Contact page also lists mobile (515) 402-9556 and alternate (515) 729-8001; BBB lists (515) 327-0073.",
+    "googleRating": 4.8,
+    "googleReviews": 209,
+    "latestReviewAge": "a month ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, ampmplumbingdsm.com): 4 ads, all under advertiser 'Yellow Book USA, Inc' (agency-run, likely Thryv/Yellow Pages program).",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: local plumber 'Locally owned since 2008'; BBB: started April 2008, Brian Coffin listed as Owner.",
+    "employeesEstimate": "unknown; reviews name several techs (Rick, Sam)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget in HTML (grep clean). 'Request Call Back' form and contact form; Finance page. Ads and likely site managed by Yellow Book USA.",
+    "dmName": "Brian Coffin",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ia/west-des-moines/profile/plumber/am-pm-plumbing-llc-0664-32067731",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The name is AM PM and the site says 'Emergency Service Available 24/7', but the office closes at 4:30 weekdays and all weekend; who answers the Saturday burst-pipe call from the Google ads?",
+    "hooks": [
+      "Locally owned West Des Moines plumber since 2008; BBB lists Brian Coffin as owner",
+      "Website: 'Plumbing emergencies don't wait for business hours' yet office hours are Mon–Fri 8–4:30",
+      "4.8 stars on 209 Google reviews",
+      "Paying for Google ads through Yellow Book USA",
+      "Free estimates and financing advertised; serves Clive, Urbandale, Johnston, Grimes, Norwalk"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://ampmplumbingdsm.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://ampmplumbingdsm.com/about"
+      },
+      {
+        "label": "Emergency plumbing page",
+        "url": "https://ampmplumbingdsm.com/emergency-plumbing-service"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://ampmplumbingdsm.com/contact"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ia/west-des-moines/profile/plumber/am-pm-plumbing-llc-0664-32067731"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/AM+PM+Plumbing+701+Railroad+Ave+Des+Moines"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=ampmplumbingdsm.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "Owner name only from BBB (not on company site). Site claims 'Over 30 years of experience' alongside founded 2008 (likely owner's personal experience). freeEstimate=true from 'free estimate' text in home page HTML (3 mentions). Owner did not reply to the reviews seen. Employee band is an estimate. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "rockwood-plumbing-llc",
+    "company": "Rockwood Plumbing LLC",
+    "website": "https://www.rockwoodplumbing.com",
+    "vertical": "plumbing",
+    "city": "Fort Wayne",
+    "region": "IN",
+    "country": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed (website and Google). No 24/7 dispatch: after-hours callers leave a message or request service online and get a callback from 8am the next business day",
+    "hoursSource": "Official website home page FAQ and About page; Google Business Profile ('Closed · Opens 8 AM Mon' on a Friday evening)",
+    "phone": "(260) 235-2686",
+    "phoneSource": "Official website header/tel links and About page; matches Google Business Profile and BBB",
+    "googleRating": 5,
+    "googleReviews": 132,
+    "latestReviewAge": "a month ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, rockwoodplumbing.com): 8 ads, advertiser 'David Jeffrey Rockwood'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'Your Local, Licensed & Insured, Family Owned Plumbing Solution'. BBB: started July 2023, Mr. David Jeffrey Rockwood listed as Owner/CEO; BBB Accredited since Aug 2024. Indiana license PC12300128 shown on site.",
+    "employeesEstimate": "unknown; reviews mention a receptionist, 'the boss' and techs (Tyler)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/booking widget in HTML (grep clean); Wix site; call-first CTA ('Schedule your plumbing repairs today by calling our office'); Wisetack financing; maintenance plan.",
+    "dmName": "David Jeffrey Rockwood",
+    "dmTitle": "Owner/CEO",
+    "dmSource": "https://www.bbb.org/us/in/fort-wayne/profile/plumber/rockwood-plumbing-llc-0352-90164536",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Rockwood pays for Google ads, but after 5pm and all weekend callers leave a message and wait until 8am the next business day; how many of those burst-pipe and no-hot-water calls go to Roto-Rooter instead?",
+    "hooks": [
+      "5.0 stars on 132 Google reviews in about three years; owner replies to reviews",
+      "Site FAQ is candid: no 24/7 dispatch, after-hours messages get called back at 8am",
+      "Reviewer: 'They can be busy, but they are worth the wait'",
+      "8 Google ads under David Jeffrey Rockwood",
+      "$99 diagnostic, free quotes on big jobs, Wisetack financing; Fort Wayne to Huntington"
+    ],
+    "sources": [
+      {
+        "label": "Home page (FAQ)",
+        "url": "https://www.rockwoodplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.rockwoodplumbing.com/about-us"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/in/fort-wayne/profile/plumber/rockwood-plumbing-llc-0352-90164536"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Rockwood+Plumbing+Fort+Wayne+IN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=rockwoodplumbing.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "Does not advertise 24/7, so emergency247=false and afterHoursGap=false; the angle is after-hours and weekend capture, not a broken promise. Website address is Huntington (5562 W 100 N) while Google/BBB show Fort Wayne (4310 Illinois Rd). freeEstimate=true for major projects only (standard calls have a $99 diagnostic fee). Employee band is an estimate. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "woods-roofing-inc-woods-roofing-exteriors",
+    "company": "Woods Roofing, Inc. (Woods Roofing & Exteriors)",
+    "website": "https://jimwoodsroofing.com",
+    "vertical": "roofing",
+    "city": "Sioux Falls",
+    "region": "SD",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Google Business Profile: Mon–Fri listed 'Open 24 hours', Sat–Sun closed. Website header: 'Phone - 24/7 Support'",
+    "hoursSource": "Google Business Profile hours table; official website header and contact page",
+    "phone": "(605) 764-9517",
+    "phoneSource": "Official website header/tel links (tel:(605) 764-9517) and contact page ('24/7 Support'); matches Google Business Profile and BBB",
+    "googleRating": 5,
+    "googleReviews": 123,
+    "latestReviewAge": "3 months ago (newest seen in default sort; owner posted an update Sep 18, 2026)",
+    "paidAdsNote": "Google Ads Transparency Center (US, jimwoodsroofing.com): 23 ads, advertiser 'Woods Roofing Inc'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: established by the Woods family in 1999, 'still family-owned'. Team page lists Jim and Laura Woods as Owners and Founders; son(s) Matt Woods (Sales Manager) and Tom Woods (Content & Marketing) on staff.",
+    "employeesEstimate": "~17 office/sales/production staff on team page plus crews",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "No chat/booking/call-tracking widget found in HTML (grep clean); 'Get A Free Quote' form plus phone CTA labeled '24/7 Support'. Office staff includes an office manager and a customer care coordinator.",
+    "dmName": "Jim Woods",
+    "dmTitle": "Owner and Founder (with Laura Woods)",
+    "dmSource": "https://jimwoodsroofing.com/our-team",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises '24/7 Support' and runs 23 Google ads, but Google lists the business closed Saturday and Sunday; who picks up a weekend hail-storm or active-leak call?",
+    "hooks": [
+      "Family-owned since 1999; Jim and Laura Woods founders, son Matt runs sales",
+      "5.0 stars on 123 Google reviews; owner replies to every review seen",
+      "Header says 'Phone - 24/7 Support' while Google shows weekends closed",
+      "23 Google ads in the Ads Transparency Center",
+      "Two offices (Sioux Falls and Canton); roofing, siding, gutters, storm damage, financing"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://jimwoodsroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://jimwoodsroofing.com/about-us"
+      },
+      {
+        "label": "Team page",
+        "url": "https://jimwoodsroofing.com/our-team"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://jimwoodsroofing.com/contact-us"
+      },
+      {
+        "label": "BBB profile (Canton)",
+        "url": "https://www.bbb.org/us/sd/canton/profile/roofing-contractors/woods-roofing-0714-300013351"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Woods+Roofing+Inc+2103+N+4th+Ave+Sioux+Falls"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=jimwoodsroofing.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "Google weekday hours are listed as 'Open 24 hours', which is likely a profile setting rather than staffed hours; staffed hours not published on site. Team page is the DM source (names both Jim and Laura). BBB not opened in detail (search listed Canton and Sioux Falls entries with the same phone). Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "dayton-roof-remodeling-llc",
+    "company": "Dayton Roof & Remodeling LLC",
+    "website": "https://daytonroof.com",
+    "vertical": "roofing",
+    "city": "Dayton",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Weekday hours not published on site; Google showed 'Closed · Opens 7 AM Mon' on a Friday evening (weekends closed)",
+    "hoursSource": "Google Business Profile status",
+    "phone": "(937) 224-7667",
+    "phoneSource": "Official website header (\"Call for your free estimate (937) 224-7667\", plain text, not a tel: link) and FAQ (\"Call Chuck at (937) 224-7667\"); matches Google Business Profile and BBB",
+    "googleRating": 4.9,
+    "googleReviews": 181,
+    "latestReviewAge": "3 months ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, daytonroof.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Founded 1947 ('the oldest roofing and exterior contractor in the area'); About page names Chuck Davis as 'a hands-on owner' who meets customers, gives estimates and oversees every project. BBB lists Mr. Charles J. (Chuck) Davis II as President; BBB Accredited since 1955. Google profile attribute: 'Identifies as women-owned'.",
+    "employeesEstimate": "unknown; owner-led with installer crews (CertainTeed Master Shingle Applicator team)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/booking widget in HTML (grep clean); phone is plain text; online estimate form. FAQ says no financing offered.",
+    "dmName": "Charles J. (Chuck) Davis II",
+    "dmTitle": "President / Owner",
+    "dmSource": "https://www.bbb.org/us/oh/dayton/profile/roofing-contractors/dayton-roof-remodeling-llc-0322-2024",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The FAQ tells people to 'Call Chuck' and the owner does every estimate himself; when a windstorm tears shingles off on a weekend, who answers while Chuck is up on a roof?",
+    "hooks": [
+      "Oldest roofer in the area, since 1947; BBB Accredited since 1955, A+",
+      "4.9 stars on 181 Google reviews; owner replies to reviews",
+      "Reviewer: emergency tarping 'within hours of my call' after a wind storm",
+      "Owner Chuck meets every customer and does estimates personally; FAQ says 'Call Chuck'",
+      "No Google ads; all word of mouth and reviews"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://daytonroof.com/"
+      },
+      {
+        "label": "About the company",
+        "url": "https://daytonroof.com/about-us/about-company/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://daytonroof.com/about-us/faq/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://daytonroof.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/roofing-contractors/dayton-roof-remodeling-llc-0322-2024"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Dayton+Roof+%26+Remodeling+900+Webster+St+Dayton"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=daytonroof.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": false,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "Does not advertise 24/7 or emergency service, so afterHoursGap=false; urgency comes from storm/leak calls (reviewer mentions emergency tarping). Also serves commercial buildings and property managers, but residential is prominent. Weekday hours not verified (only Google's 'Opens 7 AM Mon' status). BBB shows 1 complaint closed in last 3 years. Google 'women-owned' attribute conflicts with Chuck Davis as owner; not resolved. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "bonham-electric-inc",
+    "company": "Bonham Electric, Inc.",
+    "website": "https://www.jeffbonhamelectric.com",
+    "vertical": "electrical",
+    "city": "Dayton",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Office Mon–Fri 8am–5pm; Saturday and Sunday 'By Appointment' (website). Google showed 'Closed · Opens 8 AM Mon' on a Friday evening",
+    "hoursSource": "Official website home page office-hours table; Google Business Profile status",
+    "phone": "(937) 233-7662",
+    "phoneSource": "Official website header/tel links (tel:+1-937-233-7662, 'Office: 937-233-7662'); matches Google Business Profile and BBB",
+    "googleRating": 4.8,
+    "googleReviews": 305,
+    "latestReviewAge": "3 months ago (newest seen in default sort; owner posted an update Jul 9, 2026 and photos 'Today')",
+    "paidAdsNote": "Google Ads Transparency Center (US, jeffbonhamelectric.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "About page: established October 1959 by brothers Bob and Chuck Bonham; 'proudly carry the family name'. BBB lists Jeff Bonham as President (plus Bryan Farlow, V.P./Operations Manager); BBB Accredited since 1994.",
+    "employeesEstimate": "unknown; reviews name at least 7 electricians (Andrew, Brent, Matt, Zack, Colby, Jimmy, Adam)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget in website HTML (grep clean); Wix site with 'Request an Estimate' form and 'Give us a Call!' header. Google Business Profile shows a 'Book online' button.",
+    "dmName": "Jeff Bonham",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/oh/dayton/profile/electrician/bonham-electric-inc-0322-7001658",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Bonham's office runs weekdays 8–5 with weekends 'by appointment'; when a Dayton homeowner loses power or smells burning on a Saturday, does the call reach anyone?",
+    "hooks": [
+      "Family name since 1959, founded by brothers Bob and Chuck Bonham; Jeff Bonham is President",
+      "4.8 stars on 305 Google reviews; owner replies to reviews",
+      "Reviews call out 'courteous staff' 27 times and 'pleasant to deal with on the phone'",
+      "Office Mon–Fri 8–5, weekends by appointment only",
+      "No Google ads; known for 'the light bulb on the side of their trucks'"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.jeffbonhamelectric.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.jeffbonhamelectric.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/electrician/bonham-electric-inc-0322-7001658"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Bonham+Electric+3521+Wrightway+Rd+Dayton"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=jeffbonhamelectric.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": true,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "No 24/7 or emergency claim found (1 'emergency' mention in HTML, not a service promise), so afterHoursGap=false. Also does commercial/new construction and generators; residential service is a core line. onlineBooking=true only because Google shows a 'Book online' button. financing not seen (null). Employee band estimated from technician names in reviews. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "excel-electrical-technologies-inc",
+    "company": "Excel Electrical Technologies, Inc.",
+    "website": "https://excelelec.com",
+    "vertical": "electrical",
+    "city": "Orland Park (Chicago south suburbs)",
+    "region": "IL",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–4:30pm; 'Evenings & weekends, by appointment' (website contact page). Google Business Profile showed 'Open · Closes 10 PM' on a Friday. Company profile: 'Available for emergency service'",
+    "hoursSource": "Official website contact and company-profile pages; Google Business Profile status",
+    "phone": "(708) 798-1900",
+    "phoneSource": "Official website header/tel links (tel:708-798-1900) and contact page; matches Google Business Profile. BBB lists (708) 847-0082.",
+    "googleRating": 4.9,
+    "googleReviews": 116,
+    "latestReviewAge": "a month ago (newest seen in default sort; owner posted an update 6 hours ago)",
+    "paidAdsNote": "Google Ads Transparency Center (US, excelelec.com): 20 ads, advertiser 'Excel Electrical Technologies, Inc.'",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: serving the South Chicagoland suburbs since 2000, single Orland Park location. BBB lists Omar Muhammad as President (BBB start date Aug 2005). Reviewers describe Omar diagnosing over the phone and dispatching techs.",
+    "employeesEstimate": "unknown; reviews name Omar plus techs Doug and Israel",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "CallRail call tracking script on the site; no chat/booking widget found. Contact page invites customers to text photos to 708-798-1900. Constant Contact email.",
+    "dmName": "Omar Muhammad",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/il/orland-park/profile/electrical-contractors/excel-electrical-technologies-inc-0654-88174155",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Excel runs 20 Google ads and says it's available for emergency service, but the office is staffed weekdays 8–4:30 and Omar himself triages calls by phone; who picks up a burning-smell call at 7pm?",
+    "hooks": [
+      "Serving the south suburbs since 2000; Omar Muhammad is President",
+      "4.9 stars on 116 Google reviews; owner replies to every review seen",
+      "Reviewer: 'Over the phone Omar guessed it was a loose neutral and dispatched Doug and Israel'",
+      "Office hours Mon–Fri 8–4:30, evenings and weekends by appointment",
+      "20 Google ads; covers Cook, Will and DuPage counties"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://excelelec.com/"
+      },
+      {
+        "label": "Company profile",
+        "url": "https://excelelec.com/about/company-profile/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://excelelec.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/il/orland-park/profile/electrical-contractors/excel-electrical-technologies-inc-0654-88174155"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Excel+Electrical+Technologies+13361+SW+Hwy+Orland+Park"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=excelelec.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": true,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": true,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.006Z",
+    "researchNotes": "emergency247=true is based on 'Available for emergency service' plus a '24-HR' brochure PDF on the site; the site does not literally say 24/7 in page text. Google hours (open until 10 PM Friday) differ from the website's 8–4:30. Founding year differs: website 2000, BBB 2005. chatOrText=true only because the contact page offers texting photos to the main number. Also does commercial/industrial work. financing not seen (null). Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "ray-s-overhead-door",
+    "company": "Ray's Overhead Door",
+    "website": "https://raysgaragedoorsil.com",
+    "vertical": "garage-doors",
+    "city": "Homer Glen (Chicago southwest suburbs)",
+    "region": "IL",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Google Business Profile: Open 24 hours. Website: 'available 24/7 to handle all emergency situations', 24/7 emergency service 'at no additional cost'",
+    "hoursSource": "Google Business Profile; official website home page",
+    "phone": "(708) 532-7388",
+    "phoneSource": "Official website header/tel links ('Homer Glen: (708) 532-7388'); matches Google Business Profile and BBB. Site also lists a Bridgeview line, (708) 528-8877.",
+    "googleRating": 5,
+    "googleReviews": 145,
+    "latestReviewAge": "2 months ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, raysgaragedoorsil.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'family-owned and -operated local business since 1988', 'father and son team'. BBB lists Mr. Ray Mccollum as President (BBB start date 1997). Reviewers describe dealing with Ray directly.",
+    "employeesEstimate": "~2–4 (father-and-son team per website)",
+    "employeeBand": "3-4",
+    "locations": 2,
+    "existingTools": "No chat/booking/call-tracking widget in HTML (grep clean); call-first site ('Call Today!', 'Call For Your Free Estimate Today!'); contact/feedback forms.",
+    "dmName": "Ray Mccollum",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/il/homer-glen/profile/lumber-store/rays-overhead-door-0654-88312833",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Ray's father-and-son team promises 24/7 emergency service at no extra charge, and a reviewer says Ray 'answered my late-night panic call'; what happens to the second call that comes in while he's on the first?",
+    "hooks": [
+      "Family-owned father-and-son garage door shop since 1988; Ray Mccollum is President",
+      "5.0 stars on 145 Google reviews; owner replies to reviews",
+      "Reviewer: 'Answered my late-night panic call, and came over first thing in the morning'",
+      "24/7 emergency service at no additional cost; same-day spring replacement",
+      "Two lines (Homer Glen and Bridgeview), covers Cook and Will counties; no Google ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://raysgaragedoorsil.com/"
+      },
+      {
+        "label": "24/7 emergency page",
+        "url": "https://raysgaragedoorsil.com/24-7-emergency-garage-door-repair-in-orland-hills-il/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://raysgaragedoorsil.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/il/homer-glen/profile/lumber-store/rays-overhead-door-0654-88312833"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Ray's+Overhead+Door+12115+Black+Forest+Trail"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=raysgaragedoorsil.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": true,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.007Z",
+    "researchNotes": "Very small (father-and-son); may sit at the low end of the ICP. Google lists 24 hours and the owner appears to take calls personally, so afterHoursGap=false; the angle is overflow and capacity, not closed hours. 'locations: 2' reflects a Homer Glen address plus a Bridgeview phone line; the Bridgeview presence may be a service-area listing, not a staffed office. Founding year differs: website 1988, BBB 1997. financing not seen (null). Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "foundation-specialist-llc",
+    "company": "Foundation Specialist LLC",
+    "website": "https://foundationspecialistmi.com",
+    "vertical": "foundation",
+    "city": "Grand Rapids",
+    "region": "MI",
+    "country": "US",
+    "timezone": "America/Detroit",
+    "hours": "Mon–Fri 8am–5pm; Sat 8am–1pm; Sun closed (website footer). Google Business Profile lists 'Open 24 hours'",
+    "hoursSource": "Official website footer 'Hours of Operation'; Google Business Profile",
+    "phone": "(616) 566-7226",
+    "phoneSource": "Official website header/tel links (tel:+16165667226, Grand Rapids main number); matches Google Business Profile. Site also lists regional numbers (Kalamazoo 269-459-7871, Lansing 517-489-4479, Grand Haven 616-607-9347, Holland 616-594-7233) and 616-438-0551, which BBB uses.",
+    "googleRating": 4.8,
+    "googleReviews": 381,
+    "latestReviewAge": "a month ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, foundationspecialistmi.com): 21 ads, advertiser shown 'Nuvo Agency' (their marketing agency).",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'Locally Owned and Operated' (also says 'Operated with National Resources', unexplained). BBB: started June 2004, Bryan A. Foster listed as President, no parent company listed; BBB Accredited since 2016.",
+    "employeesEstimate": "unknown; reviews name multiple crew members and coordinators (Cody, Matt)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget in HTML (grep clean); many regional tracking-style phone numbers; free-estimate form; financing. Ads run through Nuvo Agency.",
+    "dmName": "Bryan A. Foster",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/mi/grand-rapids/profile/foundation-contractors/foundation-specialist-llc-0372-38158200",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google shows Foundation Specialist 'Open 24 hours' and 21 ads are running, but the office closes at 5 weekdays and 1pm Saturday; where do the storm-night flooded-basement calls go?",
+    "hooks": [
+      "4.8 stars on 381 Google reviews; owner replies at length",
+      "Reviewer describes 'endless nights of flooding' before finding them",
+      "Office Mon–Fri 8–5, Sat 8–1; Google listing says open 24 hours",
+      "21 Google ads via Nuvo Agency; five regional phone numbers across West Michigan",
+      "Free estimates and financing; BBB lists Bryan A. Foster as President"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://foundationspecialistmi.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://foundationspecialistmi.com/about-us/about-our-company/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mi/grand-rapids/profile/foundation-contractors/foundation-specialist-llc-0372-38158200"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Foundation+Specialist+LLC+1518+Steele+Ave+SW+Grand+Rapids"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=foundationspecialistmi.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.007Z",
+    "researchNotes": "The site phrase 'Operated with National Resources' is unexplained; BBB shows no parent company, but ownership independence should be confirmed on the call. No 24/7 or emergency promise on the site, so emergency247/afterHoursGap are false despite Google's 24-hour listing. locations=1 (the other cities appear to be phone numbers/service areas, not confirmed offices). BBB shows 1 complaint closed in last 3 years. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "liberty-pest-control-inc-liberty-pest-management",
+    "company": "Liberty Pest Control Inc. (Liberty Pest Management)",
+    "website": "https://libertypestinc.com",
+    "vertical": "pest",
+    "city": "Fort Wayne",
+    "region": "IN",
+    "country": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "hours": "Staffed hours not published on the website; Google showed 'Closed · Opens 8 AM Mon' on a Friday evening (weekends closed)",
+    "hoursSource": "Google Business Profile status",
+    "phone": "(260) 615-8816",
+    "phoneSource": "Official website header ('Text or Call: (260)-615-8816') and tel:+12606158816 links; matches Google Business Profile. Note: part of the header link markup points to tel:+12607402566, a different number.",
+    "googleRating": 4.9,
+    "googleReviews": 150,
+    "latestReviewAge": "a month ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, libertypestinc.com): 0 ads, 'No ads found'.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'locally owned and operated by Stephanie and Rob Goodman'; team section lists Rob Goodman and Stephanie Goodman as Owners, Jeff Werling as General Manager. A reviewer says 'the owner Rob answered'.",
+    "employeesEstimate": "~10 (team section lists owners, GM, office manager, service manager, CFO, CFO assistant and technicians)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Site built on LeadConnector/GoHighLevel (455 references in HTML) with an 'instant quote' form; no chat or booking widget found. 'Text or Call' on the main number. Customer login portal.",
+    "dmName": "Rob Goodman",
+    "dmTitle": "Owner (with Stephanie Goodman)",
+    "dmSource": "https://libertypestinc.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Reviewers say owner Rob answers the phone himself; when yellow-jacket or carpenter-ant calls pile up on a summer Saturday and the office is closed, who calls those people back?",
+    "hooks": [
+      "Locally owned by Rob and Stephanie Goodman; Stephanie has an MS in Biology from Purdue",
+      "4.9 stars on 150 Google reviews",
+      "Review: 'I called them this morning and the owner Rob answered'",
+      "Header says 'Text or Call: (260)-615-8816', but part of that link dials (260) 740-2566",
+      "No Google ads; five-day no-pest guarantee"
+    ],
+    "sources": [
+      {
+        "label": "Home page (team, owners)",
+        "url": "https://libertypestinc.com/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Liberty+Pest+Control+Inc+14008+Pendleton+Mills+Ct"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=libertypestinc.com"
+      }
+    ],
+    "signals": {
+      "paidAds": false,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": true,
+      "financing": null,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.007Z",
+    "researchNotes": "Pest control is lower urgency than the S-tier verticals (A-tier). DM taken from the company's own team section; BBB not checked. Mislinked tel: (the '(260)-' portion of the header links to +1 260-740-2566) observed in raw HTML; could be an old or tracking number; verify before mentioning. Hours not published on site; weekend closure inferred from Google status only. freeEstimate=true from 'instant quote' / 'Call for Quote' CTAs. Reviews read in default sort; owner replies not seen on the reviews shown. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "toledo-door-and-window",
+    "company": "Toledo Door And Window",
+    "website": "https://toledodoor.com",
+    "vertical": "windows-doors",
+    "city": "Toledo",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; Sat 9am–1pm; Sun closed (website footer)",
+    "hoursSource": "Official website footer 'HOURS'; Google Business Profile status ('Closed · Opens 9 AM Sat' on a Friday evening)",
+    "phone": "(419) 475-3667",
+    "phoneSource": "Official website header/tel links (tel:419-475-3667, 5 occurrences); matches Google Business Profile. Site also lists toll-free 800-589-3668.",
+    "googleRating": 4.5,
+    "googleReviews": 100,
+    "latestReviewAge": "a month ago (newest seen in default sort)",
+    "paidAdsNote": "Google Ads Transparency Center (US, toledodoor.com): 16 ads, advertiser shown 'Orbit Interactive Inc' (agency).",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Since 1974, 'The Local Choice'; owner Bob Bollin quoted on the home page ('As the Owner of Toledo Door And Window...'); About page lists Bob Bollin as President and CEO since 1977, with several Bollin family members on staff. Authorized local dealer for garage door/opener brands (not a franchise).",
+    "employeesEstimate": "~12+ named team members on About page, plus installers",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget found in HTML (grep clean); 'Get A Free Consultation' form with a 'Human or Bot' check; financing offered.",
+    "dmName": "Bob Bollin",
+    "dmTitle": "Owner, President and CEO",
+    "dmSource": "https://toledodoor.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Toledo Door And Window runs 16 Google ads for windows, entry doors and garage-door service, but the phones are staffed until 5 weekdays and 1pm Saturday; who takes the stuck-garage-door or new-window inquiry at 7pm?",
+    "hooks": [
+      "'The Home of the Talking Door' since 1974; Bob Bollin has run it since 1977",
+      "Largest window and door showroom in NW Ohio and SE Michigan (their claim)",
+      "4.5 stars on 100 Google reviews; owner replies to reviews",
+      "16 Google ads via Orbit Interactive",
+      "Sells and services windows, entry doors and garage doors/openers; financing"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://toledodoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://toledodoor.com/about-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Toledo+Door+And+Window+5153+Secor+Rd"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=toledodoor.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": true,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": true
+    },
+    "researchedAt": "2026-09-26T01:49:36.007Z",
+    "researchNotes": "Google categorizes it as 'Garage door supplier'; the business sells windows, entry/storm doors and garage doors, so it straddles windows-doors and garage-doors (classified windows-doors here). No emergency or 24/7 claim, so afterHoursGap=false. Rating 4.5 is lower than the others. Also serves commercial customers. BBB not checked; DM from company About page. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
+  },
+  {
+    "id": "sembro-design-supply",
+    "company": "SemBro Design & Supply",
+    "website": "https://cleveland.sembrodesigns.com",
+    "vertical": "remodeling",
+    "city": "Cleveland",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Showroom Mon–Fri 9am–5pm; Wed–Thu 5pm–7pm by appointment; Sat 10am–3pm (website contact page); Sunday not listed",
+    "hoursSource": "Official website contact page; Google Business Profile status ('Closed · Opens 10 AM Sat' on a Friday evening)",
+    "phone": "(216) 777-7925",
+    "phoneSource": "Official website header/tel links and contact page (216-777-7925; matches BBB). Google Business Profile shows a different number, (216) 466-0874 (likely a tracking number).",
+    "googleRating": 4.9,
+    "googleReviews": 185,
+    "latestReviewAge": "2 months ago (newest seen in default sort; photos added 15 days ago)",
+    "paidAdsNote": "Google Ads Transparency Center (US, sembrodesigns.com): 50 ads; advertisers 'SemBro LLC' and 'VITALIY TKACH'. Domain-level result, so it may include ads for other SemBro sites on the same root domain.",
+    "reviewComplaintQuote": null,
+    "ownershipNote": "Website: 'a family owned and operated business located in Cleveland, Ohio'. BBB: started March 2019, Yuriy Tkach listed as Owner, Vitale Tkach also listed; BBB Accredited since Sept 2019. Google Maps shows only this one SemBro location.",
+    "employeesEstimate": "unknown; BBB lists two principals; reviews mention crews and designers; site claims 2,000+ projects",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget in HTML (grep clean); 'Get Your free consultation' form is the main CTA; financing page. Google profile uses a different number than the site.",
+    "dmName": "Yuriy Tkach",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/oh/cleveland/profile/kitchen-remodel/sembro-design-supply-0312-92046239",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "SemBro is running up to 50 Google ads for kitchen and bath remodels, but the showroom phone is staffed 9–5 with evening hours by appointment only; how many ad-driven calls land after 5 or on Sunday?",
+    "hooks": [
+      "Family-owned Cleveland kitchen and bath design-build showroom since 2019",
+      "4.9 stars on 185 Google reviews; owner replies to reviews",
+      "Up to 50 Google ads (SemBro LLC / Vitaliy Tkach)",
+      "Showroom 9–5 weekdays, Wed/Thu evenings by appointment, Sat 10–3",
+      "Free design consultation and financing; serves Parma, Strongsville, Medina, Lakewood and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page (Cleveland site)",
+        "url": "https://cleveland.sembrodesigns.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://cleveland.sembrodesigns.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/cleveland/profile/kitchen-remodel/sembro-design-supply-0312-92046239"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/SemBro+Design+%26+Supply+16035+Industrial+Pkwy"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=sembrodesigns.com"
+      }
+    ],
+    "signals": {
+      "paidAds": true,
+      "recentReviews": true,
+      "emergency247": false,
+      "residential": true,
+      "freeEstimate": true,
+      "onlineBooking": false,
+      "chatOrText": false,
+      "financing": true,
+      "multipleServiceAreas": true,
+      "phonePrimaryCta": false,
+      "afterHoursGap": false,
+      "reviewResponseComplaints": false,
+      "locallyOwned": true,
+      "franchise": false,
+      "sophisticatedContactCenter": false,
+      "phoneMatchesGoogle": false
+    },
+    "researchedAt": "2026-09-26T01:49:36.007Z",
+    "researchNotes": "The site lives on a 'cleveland.' subdomain with a 'cleinfo@' email, which hints that SemBro may operate or have operated in other markets; the root domain sembrodesigns.com blocked both curl (403) and the browser, so this could not be confirmed. Google Maps shows only the Cleveland location. Remodeling is lower urgency (A-tier); the angle is ad-driven lead capture, not emergencies. Phone mismatch: site 216-777-7925 vs Google 216-466-0874. phonePrimaryCta=false because the main CTA is the free-consultation form. Reviews read in default sort. Verified 2026-09-25.",
+    "status": "new",
+    "lastContact": null,
+    "followUp": null,
+    "dnc": false,
+    "canadaCallReady": false,
+    "notes": "",
+    "activity": []
   }
 ]

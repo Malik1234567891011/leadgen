@@ -1013,5 +1013,151 @@
       }
     ],
     "notes": "Pest control is lower urgency than the S-tier verticals (A-tier). DM taken from the company's own team section; BBB not checked. Mislinked tel: (the '(260)-' portion of the header links to +1 260-740-2566) observed in raw HTML; could be an old or tracking number; verify before mentioning. Hours not published on site; weekend closure inferred from Google status only. freeEstimate=true from 'instant quote' / 'Call for Quote' CTAs. Reviews read in default sort; owner replies not seen on the reviews shown. Verified 2026-09-25."
+  },
+  {
+    "company": "Toledo Door And Window",
+    "website": "https://toledodoor.com",
+    "vertical": "windows-doors",
+    "city": "Toledo",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; Sat 9am–1pm; Sun closed (website footer)",
+    "hoursSource": "Official website footer 'HOURS'; Google Business Profile status ('Closed · Opens 9 AM Sat' on a Friday evening)",
+    "phone": "(419) 475-3667",
+    "phoneSource": "Official website header/tel links (tel:419-475-3667, 5 occurrences); matches Google Business Profile. Site also lists toll-free 800-589-3668.",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.5,
+    "googleReviews": 100,
+    "latestReviewAge": "a month ago (newest seen in default sort)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, toledodoor.com): 16 ads, advertiser shown 'Orbit Interactive Inc' (agency).",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Since 1974, 'The Local Choice'; owner Bob Bollin quoted on the home page ('As the Owner of Toledo Door And Window...'); About page lists Bob Bollin as President and CEO since 1977, with several Bollin family members on staff. Authorized local dealer for garage door/opener brands (not a franchise).",
+    "franchise": false,
+    "employeesEstimate": "~12+ named team members on About page, plus installers",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget found in HTML (grep clean); 'Get A Free Consultation' form with a 'Human or Bot' check; financing offered.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Bob Bollin",
+    "dmTitle": "Owner, President and CEO",
+    "dmSource": "https://toledodoor.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Toledo Door And Window runs 16 Google ads for windows, entry doors and garage-door service, but the phones are staffed until 5 weekdays and 1pm Saturday; who takes the stuck-garage-door or new-window inquiry at 7pm?",
+    "hooks": [
+      "'The Home of the Talking Door' since 1974; Bob Bollin has run it since 1977",
+      "Largest window and door showroom in NW Ohio and SE Michigan (their claim)",
+      "4.5 stars on 100 Google reviews; owner replies to reviews",
+      "16 Google ads via Orbit Interactive",
+      "Sells and services windows, entry doors and garage doors/openers; financing"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://toledodoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://toledodoor.com/about-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Toledo+Door+And+Window+5153+Secor+Rd"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=toledodoor.com"
+      }
+    ],
+    "notes": "Google categorizes it as 'Garage door supplier'; the business sells windows, entry/storm doors and garage doors, so it straddles windows-doors and garage-doors (classified windows-doors here). No emergency or 24/7 claim, so afterHoursGap=false. Rating 4.5 is lower than the others. Also serves commercial customers. BBB not checked; DM from company About page. Reviews read in default sort. Verified 2026-09-25."
+  },
+  {
+    "company": "SemBro Design & Supply",
+    "website": "https://cleveland.sembrodesigns.com",
+    "vertical": "remodeling",
+    "city": "Cleveland",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Showroom Mon–Fri 9am–5pm; Wed–Thu 5pm–7pm by appointment; Sat 10am–3pm (website contact page); Sunday not listed",
+    "hoursSource": "Official website contact page; Google Business Profile status ('Closed · Opens 10 AM Sat' on a Friday evening)",
+    "phone": "(216) 777-7925",
+    "phoneSource": "Official website header/tel links and contact page (216-777-7925; matches BBB). Google Business Profile shows a different number, (216) 466-0874 (likely a tracking number).",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 185,
+    "latestReviewAge": "2 months ago (newest seen in default sort; photos added 15 days ago)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, sembrodesigns.com): 50 ads; advertisers 'SemBro LLC' and 'VITALIY TKACH'. Domain-level result, so it may include ads for other SemBro sites on the same root domain.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a family owned and operated business located in Cleveland, Ohio'. BBB: started March 2019, Yuriy Tkach listed as Owner, Vitale Tkach also listed; BBB Accredited since Sept 2019. Google Maps shows only this one SemBro location.",
+    "franchise": false,
+    "employeesEstimate": "unknown; BBB lists two principals; reviews mention crews and designers; site claims 2,000+ projects",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/booking/call-tracking widget in HTML (grep clean); 'Get Your free consultation' form is the main CTA; financing page. Google profile uses a different number than the site.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Yuriy Tkach",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/oh/cleveland/profile/kitchen-remodel/sembro-design-supply-0312-92046239",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "SemBro is running up to 50 Google ads for kitchen and bath remodels, but the showroom phone is staffed 9–5 with evening hours by appointment only; how many ad-driven calls land after 5 or on Sunday?",
+    "hooks": [
+      "Family-owned Cleveland kitchen and bath design-build showroom since 2019",
+      "4.9 stars on 185 Google reviews; owner replies to reviews",
+      "Up to 50 Google ads (SemBro LLC / Vitaliy Tkach)",
+      "Showroom 9–5 weekdays, Wed/Thu evenings by appointment, Sat 10–3",
+      "Free design consultation and financing; serves Parma, Strongsville, Medina, Lakewood and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page (Cleveland site)",
+        "url": "https://cleveland.sembrodesigns.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://cleveland.sembrodesigns.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/cleveland/profile/kitchen-remodel/sembro-design-supply-0312-92046239"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/SemBro+Design+%26+Supply+16035+Industrial+Pkwy"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=sembrodesigns.com"
+      }
+    ],
+    "notes": "The site lives on a 'cleveland.' subdomain with a 'cleinfo@' email, which hints that SemBro may operate or have operated in other markets; the root domain sembrodesigns.com blocked both curl (403) and the browser, so this could not be confirmed. Google Maps shows only the Cleveland location. Remodeling is lower urgency (A-tier); the angle is ad-driven lead capture, not emergencies. Phone mismatch: site 216-777-7925 vs Google 216-466-0874. phonePrimaryCta=false because the main CTA is the free-consultation form. Reviews read in default sort. Verified 2026-09-25."
   }
 ]

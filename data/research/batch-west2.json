@@ -988,5 +988,80 @@
       }
     ],
     "notes": "Pest is lower urgency and there is no 24/7 or emergency claim, so afterHoursGap=false; the angle is same-day demand and weekend calls. Jacob also posts content and still runs jobs himself (a reviewer names him). HQ is in Wyoming; Billings is a field office with its own Google profile. Verified 2026-09-25."
+  },
+  {
+    "company": "AmericaM Movers LLC",
+    "website": "https://americammoversllc.com",
+    "vertical": "movers",
+    "city": "Everett",
+    "region": "WA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Daily 8am–7pm (Google); website says 'Our phone is open 24/7'",
+    "hoursSource": "Google Maps business profile hours table; official website home page",
+    "phone": "(425) 970-2236",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 360,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; profile photos added 14 days ago)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 20 ads for americammoversllc.com, verified advertiser 'Camano Orion Gahagan' (US).",
+    "emergency247": null,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a homegrown and family-owned moving company that serves the Greater Northwest'. BBB lists Camano Gahagan and Rianna Davis as Members (business started 10/16/2019). Not affiliated with a van line or franchise (unlike Two Men and a Truck nearby)",
+    "franchise": false,
+    "employeesEstimate": "unknown; office team plus multiple crews (reviews name Lupe, Kimo, Vinnie); likely ~10–25",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Multi-step quote form on site; no chat, booking, Podium or call-center widget found in raw homepage HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Camano Gahagan",
+    "dmTitle": "Member (co-owner, with Rianna Davis)",
+    "dmSource": "https://www.bbb.org/us/wa/everett/profile/moving-companies/americam-movers-llc-1296-1000099029/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 20 Google ads running and a site that says 'Our phone is open 24/7', who is actually answering quote calls at 9pm, when people plan their moves, after the 8–7 office closes?",
+    "hooks": [
+      "Family-owned since 2019; Camano Gahagan and Rianna Davis are the LLC members",
+      "4.8 stars on 360 Google reviews, including tricky jobs like a hot tub up a steep driveway",
+      "Running Google ads (20 in the Ads Transparency Center)",
+      "Site says the phone is open 24/7; Google hours are 8–7 daily",
+      "Wide menu: long-distance, junk removal, estate clean-outs, storage"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://americammoversllc.com/"
+      },
+      {
+        "label": "About / Our Team",
+        "url": "https://americammoversllc.com/about-us/our-team/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/wa/everett/profile/moving-companies/americam-movers-llc-1296-1000099029/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/AmericaM+Movers+LLC+3409+McDougall+Ave+Everett"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=americammoversllc.com"
+      }
+    ],
+    "notes": "The '24/7 phone' claim may mean they already forward to a cell or answering service; unknown, so afterHoursGap and emergency247 are null. Which member is the primary decision maker is unclear; Camano Gahagan is also the verified Google Ads advertiser. Also does commercial/office moves. Verified 2026-09-25."
   }
 ]

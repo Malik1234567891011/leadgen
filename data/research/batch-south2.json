@@ -578,5 +578,147 @@
       }
     ],
     "notes": "Tim Shifflett's exact title is not stated on the site; ownership inferred from the About page title and the ads account name, so confirm on the call. Google address is 201 St Charles Ave (downtown office building), possibly a mailing/office address. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "Bulldog Overhead Doors LLC",
+    "website": "https://www.bulldogoverheaddoor.com",
+    "vertical": "garage-doors",
+    "city": "North Little Rock (Little Rock metro)",
+    "region": "AR",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Google: Mon–Fri 6am–5pm, Sat–Sun 8am–2pm. Website: Mon–Fri 6am–7pm, Sat–Sun 8am–4pm, while also advertising '24/7 Emergency Service'",
+    "hoursSource": "Google Maps business profile; official website footer",
+    "phone": "(501) 541-6072",
+    "phoneSource": "Official website header ('CLICK TO CALL: 501-541-6072'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 115,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain bulldogoverheaddoor.com): 6 ads, advertiser 'BULLDOG OVERHEAD DOORS L.L.C.' (verified). Recency not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": null,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family-owned and operated', 'We're not a franchise. We're your neighbours', 'Our founder, Matt, is involved in every project.' Surname not published. Contact email is a Gmail address.",
+    "franchise": false,
+    "employeesEstimate": "unknown; small (founder involved in every project, one 'experienced technician' with 20+ years cited)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Simple site, only Google Tag Manager scripts; no chat, Podium/Birdeye or booking widget found in page source (copy mentions 'online booking and phone support' but no booking tool was found). Owner replies briefly to Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Matt (surname not published)",
+    "dmTitle": "Founder",
+    "dmSource": "https://www.bulldogoverheaddoor.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 24/7 emergency garage door service, yet posted hours end at 5pm on Google and 2pm on weekends; when Matt is on a job, who answers a stuck-door call at night?",
+    "hooks": [
+      "Founder Matt 'is involved in every project'; family owned, not a franchise",
+      "Advertises '24/7 Emergency Service'; a reviewer chose them because they were 'open 24 hours a day'",
+      "Google hours Mon–Fri 6–5, weekends 8–2 (website shows different hours)",
+      "4.8 stars on 115 Google reviews",
+      "Runs Google Ads (6 ads); serves NLR, Sherwood, Cabot, Conway, Maumelle"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.bulldogoverheaddoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.bulldogoverheaddoor.com/about-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Bulldog+Overhead+Doors+LLC+North+Little+Rock"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=bulldogoverheaddoor.com"
+      }
+    ],
+    "notes": "Founder's surname not found on site or Google; BBB and AR license not checked. Google profile is a service-area listing (no public address). Website and Google hours disagree. onlineBooking null: copy mentions online booking but no tool found. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "OnTime Garage Doors",
+    "website": "https://ontimegaragesc.com",
+    "vertical": "garage-doors",
+    "city": "Greenville",
+    "region": "SC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 7am–6pm, Sat–Sun closed (Google); website FAQ says same-day and emergency repairs offered throughout the Upstate",
+    "hoursSource": "Google Maps business profile; official website FAQ",
+    "phone": "(864) 900-0724",
+    "phoneSource": "Official website header/CTA ('Free Estimate 864-900-0724'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 71,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain ontimegaragesc.com): 0 ads, 'No ads found'.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a family-owned business that is located in Greenville on Wade Hampton Blvd'; About page: 'Kathy Manor is the Owner and Operator of OnTime Garage Doors' and oversees daily operations. FAQ indicates about 7 years in business.",
+    "franchise": false,
+    "employeesEstimate": "unknown; small, no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Workiz online booking ('Book online directly into our Technician's schedule — no phone call needed'); Google profile also shows Book online. No chat, Podium/Birdeye widget in page source. No owner replies seen on the latest reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Kathy Manor",
+    "dmTitle": "Owner and Operator",
+    "dmSource": "https://ontimegaragesc.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You offer same-day and emergency garage door repair but are closed Saturday and Sunday on Google; what happens to a broken-spring call on a weekend when the office is shut?",
+    "hooks": [
+      "Kathy Manor is Owner and Operator; family owned, on Wade Hampton Blvd",
+      "5.0 stars on 71 Google reviews, newest 3 weeks ago",
+      "Closed weekends on Google, yet offers emergency repair across the Upstate",
+      "Pushes Workiz online booking with 'no phone call needed'",
+      "Not running Google Ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://ontimegaragesc.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://ontimegaragesc.com/about"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/OnTime+Garage+Doors+Greenville+SC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=ontimegaragesc.com"
+      }
+    ],
+    "notes": "Review count (71) is in the acceptable 40–74 band. emergency247 false: offers emergency/same-day repair but does not claim 24/7; afterHoursGap null for the same reason, though the weekend closure is a real gap. phonePrimaryCta false: site leans on online booking and free-quote forms as much as the phone. Verified 2026-09-25."
   }
 ]
