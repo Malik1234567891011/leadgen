@@ -13,7 +13,7 @@ import { ScriptView } from './ScriptView'
 
 type Tab = 'script' | 'research' | 'activity'
 
-export function LeadPanel({ lead: l, score, store, now, onClose }: { lead: Lead; score: Scored; store: Store; now: Date; onClose: () => void }) {
+export function LeadPanel({ lead: l, score, store, now, onClose, onNext }: { lead: Lead; score: Scored; store: Store; now: Date; onClose: () => void; onNext?: () => void }) {
   const [tab, setTab] = useState<Tab>('script')
   const [copied, setCopied] = useState(false)
   const t = localTime(l.timezone, now)
@@ -85,7 +85,7 @@ export function LeadPanel({ lead: l, score, store, now, onClose }: { lead: Lead;
         {tab === 'activity' && <ActivityTab lead={l} patch={patch} />}
       </div>
 
-      {!blocked && <OutcomeBar lead={l} patch={patch} />}
+      {!blocked && <OutcomeBar lead={l} patch={patch} onNext={onNext} />}
       {l.dnc && (
         <div className="border-t border-line px-7 py-3 text-[12.5px] text-ink-3">
           Marked do-not-call. <button className="cursor-pointer underline" onClick={() => patch({ dnc: false })}>Undo</button> only if this was a mistake.
@@ -108,7 +108,7 @@ const OUTCOMES: { status: CallStatus; label: string; follow: 'cadence' | number 
   { status: 'not-interested', label: 'Not interested', follow: null },
 ]
 
-function OutcomeBar({ lead: l, patch }: { lead: Lead; patch: (p: Partial<Lead>) => void }) {
+function OutcomeBar({ lead: l, patch, onNext }: { lead: Lead; patch: (p: Partial<Lead>) => void; onNext?: () => void }) {
   const [note, setNote] = useState('')
   const [flash, setFlash] = useState<string | null>(null)
 
@@ -118,7 +118,7 @@ function OutcomeBar({ lead: l, patch }: { lead: Lead; patch: (p: Partial<Lead>) 
     patch({ status, lastContact: at, followUp, activity: [...l.activity, { at, outcome: status, note: note.trim() || undefined }] })
     setNote('')
     setFlash(`Logged “${STATUS_META[status].label}”${followUp ? ` · follow up ${relDay(followUp).toLowerCase()}` : ''}`)
-    setTimeout(() => setFlash(null), 2600)
+    setTimeout(() => setFlash(null), 6000)
   }
   const dnc = () => {
     const at = new Date().toISOString()
@@ -132,6 +132,11 @@ function OutcomeBar({ lead: l, patch }: { lead: Lead; patch: (p: Partial<Lead>) 
         <input value={note} onChange={e => setNote(e.target.value)} placeholder="Quick note for this call (optional)…"
           className="flex-1 rounded-lg border border-line bg-panel px-3 py-1.5 text-[13px] outline-none placeholder:text-ink-3 focus:border-ink-3/60" />
         {flash && <span className="anim-fade text-[12.5px] font-medium text-good">{flash}</span>}
+        {flash && onNext && (
+          <button onClick={onNext} className="anim-fade cursor-pointer rounded-lg bg-ink px-3 py-1.5 text-[12.5px] font-medium text-bg hover:opacity-90">
+            Next lead →
+          </button>
+        )}
       </div>
       <div className="mt-2 flex flex-wrap items-center gap-1.5">
         <span className="mr-1 text-[11.5px] font-medium tracking-wide text-ink-3 uppercase">Log attempt {attempts(l) + 1}</span>

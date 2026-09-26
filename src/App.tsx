@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { BookOpen, CalendarClock, CheckCircle2, Inbox, Moon, PhoneCall, Plus, Search, Settings2, Sun } from 'lucide-react'
 import { useStore } from './lib/store'
 import { scoreLead, PRIORITY_META, type Priority } from './lib/score'
@@ -81,6 +81,11 @@ export default function App() {
   }, [scored, view, vertical, priority, q, today, now])
 
   const sel = scored.find(s => s.lead.id === selected) ?? null
+
+  // Remember what comes after the open lead. Logging "Meeting" or "Not interested" drops it
+  // out of the queue, so the next row has to be known before the list re-sorts.
+  const nextRef = useRef<string | null>(null)
+  if (selected && rows.some(r => r.lead.id === selected)) nextRef.current = nextId(rows, selected)
 
   // j / k to move through the list, esc to close
   useEffect(() => {
@@ -196,7 +201,8 @@ export default function App() {
           </main>
 
           {sel && (
-            <LeadPanel key={sel.lead.id} lead={sel.lead} score={sel.score} store={store} now={now} onClose={() => setSelected(null)} />
+            <LeadPanel key={sel.lead.id} lead={sel.lead} score={sel.score} store={store} now={now} onClose={() => setSelected(null)}
+              onNext={nextRef.current ? () => setSelected(nextRef.current) : undefined} />
           )}
         </>
       )}
@@ -208,6 +214,12 @@ export default function App() {
       {showAdd && <AddLeadDialog onAdd={l => { store.addLead(l); setShowAdd(false); setView('all'); setSelected(l.id) }} onClose={() => setShowAdd(false)} />}
     </div>
   )
+}
+
+/** The row after `id` in the current list, for working straight through a calling block. */
+function nextId(rows: { lead: Lead }[], id: string): string | null {
+  const i = rows.findIndex(r => r.lead.id === id)
+  return rows[i + 1]?.lead.id ?? null
 }
 
 function Stat({ label, value, tone }: { label: string; value: number; tone?: string }) {

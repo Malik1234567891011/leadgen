@@ -1,0 +1,69 @@
+[
+  {
+    "company": "All Good Restoration",
+    "website": "https://allgoodrestoration.com",
+    "vertical": "restoration",
+    "city": "Fort Collins",
+    "region": "CO",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Open 24 hours (Google); website advertises 24/7, 365-day availability. No separate staffed office hours published",
+    "hoursSource": "Google Maps business profile; official website home page",
+    "phone": "(970) 567-8300",
+    "phoneSource": "Official website tel links and footer; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 72,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 14 ads for allgoodrestoration.com, advertiser 'All Good Restoration Colorado LLC' (US).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family-owned and operated; Leighton Wood and Grace Anne Wood listed as Owners & Founders on the website. Owner personally replies to Google reviews ('- Leighton @ All Good'). No parent brand mentioned",
+    "franchise": false,
+    "employeesEstimate": "unknown; owner-operated with a crew (a reviewer mentions 'a large crew'); likely ~5–15",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Contact form and 'Schedule a FREE Assessment' CTA; no chat, booking or review widget found in raw homepage HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Leighton Wood",
+    "dmTitle": "Owner & Founder (co-owner with Grace Anne Wood)",
+    "dmSource": "https://allgoodrestoration.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Reviews say the owner himself took a call during family lunch and answered a Saturday-night flood request: what happens to the calls that come in while Leighton is already on a job?",
+    "hooks": [
+      "Family-owned: Leighton and Grace Anne Wood are the founders",
+      "4.9 stars on 72 Google reviews; Leighton replies to reviews himself",
+      "A reviewer said he was the only one of three companies to call back on a Saturday night",
+      "Running Google ads (14 in the Ads Transparency Center)",
+      "Covers Northern Colorado from Cheyenne to Boulder and Estes Park"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://allgoodrestoration.com/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/All+Good+Restoration+204+Commerce+Dr+Fort+Collins"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=allgoodrestoration.com"
+      }
+    ],
+    "notes": "No staffed office hours published, so afterHoursGap is null rather than assumed. Financing not mentioned. Founding year not stated. Review-complaint check covered only the top 3 reviews and the Google review-summary snippets. Verified 2026-09-25."
+  }
+]
