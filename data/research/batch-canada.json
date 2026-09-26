@@ -1,0 +1,890 @@
+[
+  {
+    "company": "J.C. Robinson & Sons Ltd.",
+    "website": "https://www.jcrobinson.com",
+    "vertical": "hvac",
+    "city": "Ottawa",
+    "region": "ON",
+    "country": "CA",
+    "timezone": "America/Toronto",
+    "hours": "Mon–Fri 8am–5pm; closed Sat–Sun (Google). Website advertises 24/7 emergency no-heat service",
+    "hoursSource": "Google Maps hours table (Mon–Fri 8 AM–5 PM, Sat/Sun Closed; checked Friday evening, 'Closed · Opens 8 AM Mon'); website home page ('24/7 Emergency No-Heat Service')",
+    "phone": "(613) 733-2481",
+    "phoneSource": "Official website header, CTA button and footer; matches Google Maps listing (+1 613-733-2481)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 436,
+    "latestReviewAge": "a month ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 2 ads for jcrobinson.com, advertiser shown as 'Courtney Robinson' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": false,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'Family Owned Since 1923' — 'four generations of the Robinson family serving Ottawa families' (home page). Google listing 'Identifies as women-owned'",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name management 'Brian', sales 'Richard' and technicians Nic, Jordan, Chad; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "GoDaddy Airo single-page site with Google Tag Manager, 'Pay an Invoice' link and a 'Schedule Free Estimate' button; no chat, text or booking widget in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": null,
+    "dmTitle": null,
+    "dmSource": null,
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They advertise 24/7 emergency no-heat service but Google shows the office closed evenings and all weekend; when a furnace dies on a January Saturday night, who picks up that call?",
+    "hooks": [
+      "Family owned since 1923, four generations of the Robinson family; Ottawa's oldest Daikin dealer (per their site)",
+      "4.7 stars on 436 Google reviews; a recent reviewer said a tech arrived within an hour of calling",
+      "Home page promises 24/7 emergency no-heat service, while Google hours are Mon–Fri 8–5",
+      "Running Google ads (2 ads in the Ads Transparency Center)",
+      "Free, no-obligation estimates on new Daikin systems"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.jcrobinson.com/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/J.C.+Robinson+%26+Sons+Ltd+1726+Bank+St+Ottawa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=jcrobinson.com"
+      }
+    ],
+    "notes": "Decision maker not verified from an allowed source: the site's About/Contact routes returned 'Cannot GET /about' when loaded directly and no BBB profile was found. The Google Ads advertiser name is 'Courtney Robinson' (likely family, role unknown) and a reviewer mentions 'Management (Brian)'; ask for the owner on the call. Financing not mentioned on the home page. Also does some commercial work ('your home or business'). latestReviewAge from default 'relevant' sort. Verified 2026-09-25."
+  },
+  {
+    "company": "Provincial Heating & Cooling Inc.",
+    "website": "https://www.provincialheating.ca",
+    "vertical": "hvac",
+    "city": "Winnipeg",
+    "region": "MB",
+    "country": "CA",
+    "timezone": "America/Winnipeg",
+    "hours": "Office Mon–Fri 7:30am–4pm; 24-hour emergency service advertised (Google lists 'Open 24 hours')",
+    "hoursSource": "Official website footer ('Our Office Hours Monday-Friday 7:30am to 4:00 pm' and '24 Hour Emergency Service'); Google Maps shows 'Open 24 hours'",
+    "phone": "(204) 339-4328",
+    "phoneSource": "Official website header, footer and FAQ ('call us at (204) 339-4328 at any time, day or night'); matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 387,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 8 ads for provincialheating.ca, advertiser 'Provincial Heating & Cooling Inc' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'Founded in 1996 by Robert Dill'; Company Profile page lists Robert B. Dill as President (Journeyman Refrigeration Mechanic, licensed gas fitter)",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name technicians Justin, Mike, Dan and Alex; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with CallRail call tracking; free-estimate request form; Financing page; no chat, text or online booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Robert B. Dill",
+    "dmTitle": "President (founder)",
+    "dmSource": "https://www.provincialheating.ca/company-profile/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is staffed Mon–Fri 7:30–4 but the site promises to answer (204) 339-4328 'at any time, day or night'; on a -30° night with several no-heat calls at once, how many get a live answer?",
+    "hooks": [
+      "Founded in 1996 by Robert Dill, still listed as President",
+      "4.8 stars on 387 Google reviews; a reviewer said Justin was 'the only one who answered the phone' when her furnace quit overnight",
+      "Owner reply says they make sure to be available 24/7 for heating emergencies",
+      "Running Google ads (8 ads in the Ads Transparency Center)",
+      "Free in-home estimates and financing offered"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.provincialheating.ca/"
+      },
+      {
+        "label": "Company profile",
+        "url": "https://www.provincialheating.ca/company-profile/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Provincial+Heating+%26+Cooling+Inc+324A+Keewatin+St+Winnipeg"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=provincialheating.ca"
+      }
+    ],
+    "notes": "They clearly do answer after hours to some degree (owner reply claims 24/7 availability, reviewer reached a tech overnight), so afterHoursGap reflects limited office staffing rather than no coverage. Employee count unknown. latestReviewAge from default 'relevant' sort. Verified 2026-09-25."
+  },
+  {
+    "company": "Pristine Roofing & Siding Ltd",
+    "website": "https://pristineroofing.com",
+    "vertical": "roofing",
+    "city": "Winnipeg",
+    "region": "MB",
+    "country": "CA",
+    "timezone": "America/Winnipeg",
+    "hours": "Weekdays 9am–5pm; closed weekends (Google)",
+    "hoursSource": "Google Maps hours table (Mon and Fri 9 AM–5 PM shown; 'Closed · Opens 9 AM Mon' on Friday evening); website publishes no office hours",
+    "phone": "(204) 237-7663",
+    "phoneSource": "Official website header and contact page (204-237-7663); matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 273,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 29 ads for pristineroofing.com, advertiser 'Pristine Roofing & Siding' (date range not recorded)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": null,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'Pristine Roofing & Siding Ltd was founded in 1998 by Ash Boyd & Don Fata'; both still on the management team (About page)",
+    "franchise": false,
+    "employeesEstimate": "unknown; About page lists a management team of at least 5 (General, Sales, Trades, Production and Fleet managers) plus crews and says they are always hiring — likely 16–50",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Divi/WordPress site with estimate request pages; no chat, text, call-tracking or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Ash Boyd",
+    "dmTitle": "Co-founder and General Manager",
+    "dmSource": "https://pristineroofing.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 29 Google ads running and the office open only weekdays 9–5, what happens to the storm-damage and leak calls that come in on evenings and weekends in peak season?",
+    "hooks": [
+      "Founded in 1998 by Ash Boyd and Don Fata, both still running the business",
+      "'Trusted with over 15,000 homes since 1998' (home page)",
+      "4.7 stars on 273 Google reviews; a recent reviewer credits Dave and Justin with handling an insurance roof claim",
+      "Running Google ads (29 ads in the Ads Transparency Center)",
+      "Also serves cottage country: Kenora, Lake of the Woods, Whiteshell, Falcon Lake"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://pristineroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://pristineroofing.com/about-us/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://pristineroofing.com/contact-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Pristine+Roofing+%26+Siding+524+Fleet+Ave+Winnipeg"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=pristineroofing.com"
+      }
+    ],
+    "notes": "No emergency or 24/7 service advertised, so emergency247=false and afterHoursGap=null. Financing not mentioned on About or Contact pages. Also does commercial work; residential is a clear focus. Whether the phone is the primary CTA vs the estimate form was not determined (phonePrimaryCta=null). Don Fata (co-founder, Sales Manager) is a second contact. latestReviewAge from default 'relevant' sort. Verified 2026-09-25."
+  },
+  {
+    "company": "Taylor Restoration Services (P. Taylor Restorations Ltd.)",
+    "website": "https://taylorrestoration.com",
+    "vertical": "restoration",
+    "city": "Surrey",
+    "region": "BC",
+    "country": "CA",
+    "timezone": "America/Vancouver",
+    "hours": "24/7 per website ('Our phone lines are open 24/7 365 days of the year'); Google lists 'Open 24 hours'. Office staffing hours not published",
+    "hoursSource": "Official website About page and Contact page ('We're available 24/7'); Google Maps listing",
+    "phone": "(604) 619-0559",
+    "phoneSource": "Official website header/call buttons, About and Contact pages, and BBB profile all show (604) 619-0559. Google Maps shows a different number, +1 604-535-6448, which appears on the website only in its schema markup (not visible to visitors)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 5,
+    "googleReviews": 61,
+    "latestReviewAge": "5 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 24 ads for taylorrestoration.com, advertiser 'Paul Taylor' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'We are a family run business' (About page); operating since 2006; BBB lists Paul Taylor as President/Director of P. Taylor Restorations Ltd. (incorporated 2006, BBB accredited since 2008, A+)",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name Paul, Cory and crews; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with a contact/claim form (service type selector); no chat, text, call-tracking or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Paul Taylor",
+    "dmTitle": "President/Director",
+    "dmSource": "https://www.bbb.org/ca/bc/surrey/profile/fire-water-damage-restoration/taylor-restoration-services-0037-1234344",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Paul Taylor is the name on the ads, the BBB file and the email address, and the site promises a technician on site in under an hour 24/7; when he's on a job site at 2am, who answers the second flood call?",
+    "hooks": [
+      "Family-run since 2006; Paul Taylor is President and BBB accredited since 2008 (A+)",
+      "5.0 stars on 61 Google reviews; owner replies to reviews personally",
+      "Promises a qualified technician on site in less than an hour, 24/7",
+      "Running Google ads (24 ads in the Ads Transparency Center under Paul Taylor's name)",
+      "Serves Surrey, Langley, White Rock and the wider Lower Mainland"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://taylorrestoration.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://taylorrestoration.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://taylorrestoration.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/ca/bc/surrey/profile/fire-water-damage-restoration/taylor-restoration-services-0037-1234344"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Taylor+Restoration+Services+18515+53+Ave+Surrey"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=taylorrestoration.com"
+      }
+    ],
+    "notes": "Review count (61) is in the acceptable 40–74 band. They claim 24/7 phone coverage, so afterHoursGap=null (no evidence of limited staffing). Two numbers in use: website/BBB (604) 619-0559 vs Google (604) 535-6448; one may be a tracking or legacy line. Free estimates and financing not mentioned (insurance-claim work). Serves residential and commercial. latestReviewAge from default 'relevant' sort (newest shown was 5 months). Verified 2026-09-25."
+  },
+  {
+    "company": "Alberta Fire & Flood Ltd.",
+    "website": "https://abff.ca",
+    "vertical": "restoration",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "CA",
+    "timezone": "America/Edmonton",
+    "hours": "24/7 emergency response advertised; Google lists 'Open 24 hours'. Office staffing hours not published",
+    "hoursSource": "Official website contact page ('Business Hours: 24/7 EMERGENCY RESPONSE'); Google Maps listing",
+    "phone": "(403) 204-2259",
+    "phoneSource": "Official website header and contact page (Corporate Office 1.403.204.2259); matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 101,
+    "latestReviewAge": "3 weeks ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 0 ads found for abff.ca",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": false,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Good workmanship..good people..communication is lacking at times.",
+    "locallyOwned": true,
+    "ownershipNote": "'Serving all of Calgary, Alberta since 2003' (home page); BBB lists Mr. Wayne Gamester as Owner, business started/incorporated 27/5/2003",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name Aaron MacDonald, Matt, Miguel and Sjohn; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress (Avada) site with a contact form and 'Call Now' buttons; no chat, text or booking widget found in page source (Font Awesome icon names only)",
+    "sophisticatedContactCenter": false,
+    "dmName": "Wayne Gamester",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/ca/ab/calgary/profile/fire-water-damage-restoration/alberta-fire-flood-ltd-0017-61684",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google's review summary highlights that 'communication is lacking at times'; with 24/7 emergency response promised on one corporate line, how are overnight flood calls and customer update calls being handled?",
+    "hooks": [
+      "Calgary restoration company since 2003, owned by Wayne Gamester (BBB, A+)",
+      "4.7 stars on 101 Google reviews, newest 3 weeks ago; owner replies to reviews",
+      "Promises 24/7 emergency response including holidays",
+      "Not running Google ads (0 in the Ads Transparency Center), so inbound relies on organic/referral and insurer calls",
+      "Handles fire, flood, sewer backup, mould, asbestos and biohazard"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://abff.ca/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://abff.ca/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/ca/ab/calgary/profile/fire-water-damage-restoration/alberta-fire-flood-ltd-0017-61684"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Alberta+Fire+%26+Flood+7029+Farrell+Rd+SE+Calgary"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=abff.ca"
+      }
+    ],
+    "notes": "No paid ads found. afterHoursGap=null because they claim 24/7 response and publish no limited office hours. The complaint quote is from Google's review-summary snippet, not a verified full review. Also serves commercial clients. Free estimates and financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "PlumbWize (2513360 Ontario Inc.)",
+    "website": "https://www.plumbwize.ca",
+    "vertical": "plumbing",
+    "city": "Hamilton",
+    "region": "ON",
+    "country": "CA",
+    "timezone": "America/Toronto",
+    "hours": "24/7 per website ('We answer 24/7', emergency plumbing 24 hours a day); Google Hamilton listing shows 'Open 24 hours'",
+    "hoursSource": "Official website home and About pages; Google Maps Hamilton listing",
+    "phone": "(905) 545-4222",
+    "phoneSource": "Official website lists this as the Hamilton line (alongside Burlington 905-332-8222, Oakville 905-842-6222 and Milton 289-670-0825); matches the Google Maps Hamilton listing. The site's main 'Call now' emergency link uses the Burlington number (905) 332-8222",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 129,
+    "latestReviewAge": "4 weeks ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 2 ads for plumbwize.ca, advertiser '2513360 0NTARIO lNC.' (their numbered company; date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Owner reply to a negative review: 'Please call our main line as id like to discuss how I can make you a happy customer.'",
+    "locallyOwned": true,
+    "ownershipNote": "'Family Owned — Owned and run by brothers Jay and Zak' (home page); About page says 'Ask for Zak or Jay'. BBB: 2513360 Ontario Inc., business started 1/4/2016",
+    "franchise": false,
+    "employeesEstimate": "unknown ('two brothers and a crew of licensed plumbers' plus a dispatcher; no count published)",
+    "employeeBand": "unknown",
+    "locations": 4,
+    "existingTools": "Next.js site with a 'Book a plumber' online request form ('Book online - send photos') and a dispatcher who calls back to confirm time and price; separate local numbers per city; no chat or text widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Zak",
+    "dmTitle": "Co-founder / co-owner (surname not published)",
+    "dmSource": "https://www.plumbwize.ca/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They run four city phone lines plus an online booking form that waits for a dispatcher to call back; how quickly does a dispatcher reach a Hamilton homeowner with a burst pipe at 11pm, and how many of those callers phone the next plumber first?",
+    "hooks": [
+      "Family owned, run by brothers Jay and Zak",
+      "4.8 stars on 129 Google reviews for the Hamilton listing; the owner replies to reviews personally, including recently",
+      "Separate local lines for Burlington, Oakville, Hamilton and Milton",
+      "Promises 24/7 emergency plumbing; online bookings get a dispatcher call-back to confirm time and price",
+      "Running Google ads (2 ads in the Ads Transparency Center)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.plumbwize.ca/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.plumbwize.ca/about-us/"
+      },
+      {
+        "label": "BBB profile (Hamilton)",
+        "url": "https://www.bbb.org/ca/on/hamilton/profile/plumber/plumbwize-0107-1346866/addressId/81745"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/PlumbWize+46+Jackson+St+E+Hamilton"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=plumbwize.ca"
+      }
+    ],
+    "notes": "Owners' surnames not published on any allowed source checked (site says 'Jay and Zak'; BBB lists no management). Site claims 'more than twenty years' of experience while BBB shows the company started in 2016 — likely the brothers' personal experience. The business is effectively Burlington-centred (main emergency number is the Burlington line) and also serves Oakville, Milton, Ancaster, Stoney Creek and Waterdown. BBB lists 4 city addresses (Burlington, Oakville, Hamilton, Milton); these may be service-area addresses rather than staffed branches, so locations=4 is uncertain. They say they answer 24/7, so afterHoursGap=null. reviewResponseComplaints is based on one negative review with an owner reply; the reviewer's own words were not captured. Verified 2026-09-25."
+  },
+  {
+    "company": "Precision Plumbing Ltd. (Precision Plumbing Calgary)",
+    "website": "https://precision-plumbing.ca",
+    "vertical": "plumbing",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "CA",
+    "timezone": "America/Edmonton",
+    "hours": "Site structured data lists Mon–Sun 7am–5pm; site and Google both advertise 24/7 emergency service ('Open 24 hours' on Google)",
+    "hoursSource": "Official website schema markup (openingHours 'Mo–Su 07:00-17:00') and contact page ('24/7 Emergency Service'); Google Maps listing",
+    "phone": "(403) 241-5200",
+    "phoneSource": "Official website header, 'Emergency Call' button and contact page; matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 130,
+    "latestReviewAge": "4 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 28 ads for precision-plumbing.ca, advertiser 'Precision Plumbing Ltd.' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Calgary plumbers 'since 2009'; Our Team page names Jerrod as Master Plumber & Founder ('working alongside his dad from a young age'); BBB lists Jerrod Clarke as Owner, business started 10/11/2009",
+    "franchise": false,
+    "employeesEstimate": "~12 (Our Team page shows 12 named staff including an office manager)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "WordPress/Elementor site; 'Book Online' button links to the contact form (no scheduling platform); Financing and Specials pages; no chat, text or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jerrod Clarke",
+    "dmTitle": "Owner, Master Plumber & Founder",
+    "dmSource": "https://www.bbb.org/ca/ab/calgary/profile/plumber/precision-plumbing-calgary-0017-68646",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 24/7 emergency service with no night or weekend surcharge, yet a reviewer who called on a Friday afternoon and sent photos that night wasn't called back until Monday morning; how many weekend calls are waiting until Monday?",
+    "hooks": [
+      "Founded 2009 by master plumber Jerrod Clarke, who started out working alongside his dad",
+      "4.8 stars on 130 Google reviews; owner replies to reviews",
+      "Advertises 24/7 emergency service and no extra charge for nights or weekends",
+      "Running Google ads (28 ads in the Ads Transparency Center)",
+      "Offers financing; serves Calgary plus Airdrie, Okotoks, Cochrane, Chestermere and nearby"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://precision-plumbing.ca/"
+      },
+      {
+        "label": "Our Team page",
+        "url": "https://precision-plumbing.ca/about/our-team/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://precision-plumbing.ca/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/ca/ab/calgary/profile/plumber/precision-plumbing-calgary-0017-68646"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Precision+Plumbing+Calgary+1011+57+Ave+NE"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=precision-plumbing.ca"
+      }
+    ],
+    "notes": "afterHoursGap=true rests on the site's own 7am–5pm schema hours versus its 24/7 claim, plus a 6-month-old Google review describing a Friday-to-Monday call-back (that job was not an emergency). Free estimates not explicitly confirmed ('Request an Estimate' button only). Also does commercial work. latestReviewAge from default 'relevant' sort. Verified 2026-09-25."
+  },
+  {
+    "company": "Marks Roofing Ltd.",
+    "website": "https://marksroofingltd.com",
+    "vertical": "roofing",
+    "city": "Surrey",
+    "region": "BC",
+    "country": "CA",
+    "timezone": "America/Vancouver",
+    "hours": "Mon–Fri 8:30am–6:30pm; Sat–Sun 10am–5pm",
+    "hoursSource": "Official website About page; consistent with Google Maps ('Closes 6:30 PM · Opens 10 AM Sat', checked Friday evening)",
+    "phone": "(604) 245-8847",
+    "phoneSource": "Official website header and About page (604-245-8847); matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 126,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 35 ads for marksroofingltd.com, advertiser 'MARKS ROOFING LTD.' (date range not recorded)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": null,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'Family Owned & Operated Roofing Company Since 2016' (home page); BBB lists Sukhchain Singh as Director, business started 9/8/2016, BBB Accredited; reviewers refer to 'Sukhi the owner'",
+    "franchise": false,
+    "employeesEstimate": "unknown ('50+ years of combined staff experience'; crews referenced in reviews; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress/Elementor site with free-estimate form, Roof Financing page and HomeStars review badges; project updates sent by WhatsApp per a review; no chat, text or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Sukhchain (Sukhi) Singh",
+    "dmTitle": "Director / Owner",
+    "dmSource": "https://www.bbb.org/ca/bc/surrey/profile/roofing-contractors/marks-roofing-ltd-0037-1299733",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Reviews say the owner, Sukhi, quotes jobs, answers questions and is on site every day, while 35 Google ads drive calls; when he's up on a roof, who answers the new-estimate calls?",
+    "hooks": [
+      "Family owned and operated since 2016; owner Sukhi (Sukhchain Singh) is praised by name in many reviews",
+      "4.8 stars on 126 Google reviews; owner replies to reviews",
+      "Running Google ads (35 ads in the Ads Transparency Center)",
+      "Free estimates and roof financing; BBB accredited",
+      "Covers the Lower Mainland plus Sea-to-Sky, the Okanagan and Vancouver Island"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://marksroofingltd.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://marksroofingltd.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/ca/bc/surrey/profile/roofing-contractors/marks-roofing-ltd-0037-1299733"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Marks+Roofing+LTD+11079+Swan+Crescent+Surrey"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=marksroofingltd.com"
+      }
+    ],
+    "notes": "Mentions 'emergency repairs' as a service but never claims 24/7, so emergency247=false and afterHoursGap=null. Office address is 'by appointment only' (likely a home office). 'Sukhi' as the owner comes from reviews and the site's review feed; the BBB name is Sukhchain Singh (Director) — confirm on the call. Whether phone or the estimate form is the primary CTA was not determined. Also does commercial roofing. Verified 2026-09-25."
+  },
+  {
+    "company": "Robart Electrical Services 2024 Ltd.",
+    "website": "https://robartelectric.com",
+    "vertical": "electrical",
+    "city": "Edmonton",
+    "region": "AB",
+    "country": "CA",
+    "timezone": "America/Edmonton",
+    "hours": "Mon–Fri 8am–4pm; closed weekends",
+    "hoursSource": "Official website footer ('Hours: Monday – Friday 8:00 AM – 4:00 PM'); Google Maps shows 'Closed · Opens 8 AM Mon' (checked Friday evening)",
+    "phone": "(780) 705-3696",
+    "phoneSource": "Official website header and footer ('Call or Text: (780) 705-3696'); matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 246,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 28 ads for robartelectric.com, advertiser 'Howard Bailey' (the owner per BBB; date range not recorded)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "This company completely wasted two days of my time, causing me to miss work.",
+    "locallyOwned": true,
+    "ownershipNote": "Edmonton electrical company 'since 1984' (home page). BBB: new ownership 18/7/2024, Howard Bailey listed as Owner and Karen D'Eon as Manager; BBB Accredited since 2010, A+",
+    "franchise": false,
+    "employeesEstimate": "unknown (crews referenced in reviews; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with NiceJob review/referral widget (cdn.nicejob.co) and HomeStars badges; phone advertised as 'Call or Text'; no live chat or online booking found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Howard Bailey",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/ca/ab/edmonton/profile/electrical-contractors/robart-electrical-services-2024-ltd-0017-152081",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Howard Bailey took over a 40-year-old name in 2024 and is funding 28 Google ads, but the office runs Mon–Fri 8–4; how many of the panel-upgrade and no-power calls that come in after 4pm or on weekends are reaching someone?",
+    "hooks": [
+      "Serving Greater Edmonton since 1984; under new ownership (Howard Bailey) since July 2024",
+      "4.8 stars on 246 Google reviews",
+      "Office hours Mon–Fri 8–4, closed weekends",
+      "Running Google ads (28 ads in the Ads Transparency Center under Howard Bailey's name)",
+      "Free on-site estimates; specialises in service upgrades, aluminum wiring and knob-and-tube"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://robartelectric.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://robartelectric.com/contact/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/ca/ab/edmonton/profile/electrical-contractors/robart-electrical-services-2024-ltd-0017-152081"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Robart+Electrical+Services+Ltd+11842+160+St+NW+Edmonton"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=robartelectric.com"
+      }
+    ],
+    "notes": "Mentions electrical emergencies but never claims 24/7, so emergency247=false and afterHoursGap=null. Complaint quote is from Google's review-summary snippet; a recent (2-month-old) negative review also exists. New owner since 2024 appears to be an individual, not a PE roll-up, but confirm. chatOrText=true because the site advertises 'Call or Text'. Also does commercial/multi-unit work. BBB lists an additional phone (780) 238-8195. Verified 2026-09-25."
+  },
+  {
+    "company": "Mike Fuller Electric Ltd.",
+    "website": "https://mikefullerelectric.com",
+    "vertical": "electrical",
+    "city": "Ottawa",
+    "region": "ON",
+    "country": "CA",
+    "timezone": "America/Toronto",
+    "hours": "Website footer and Google say 'Open 24 hours, daily'; the site's own structured data lists Mon–Fri 7:00am–4:30pm",
+    "hoursSource": "Official website footer ('Working hours: Open 24 hours, daily') and schema markup ('openingHours: Mo-Fr 07:00 - 16:30'); Google Maps listing ('Open 24 hours')",
+    "phone": "(613) 225-3249",
+    "phoneSource": "Official website footer/contact; matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 168,
+    "latestReviewAge": "3 months ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 0 ads found for mikefullerelectric.com",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": false,
+    "phonePrimaryCta": null,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Gave a two-hour window, never showed up, did not answer phone for hours.",
+    "locallyOwned": true,
+    "ownershipNote": "'Family-owned and operated Electrical Contractor' (home page); About page lists Mike Fuller as Founder & CEO; 'Licensed master electrician in Ottawa since 1987', ECRA/ESA licence 7000374",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews refer to 'his team' and a crew; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with a quote-request form (reviewers describe sending photos for a quote) and HomeStars badge; no chat, text or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Mike Fuller",
+    "dmTitle": "Founder & CEO",
+    "dmSource": "https://mikefullerelectric.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site says 'Open 24 hours, daily' but its own listing data shows Mon–Fri 7–4:30, and a reviewer complains the phone went unanswered for hours; who picks up when Mike and the crew are on job sites?",
+    "hooks": [
+      "Family owned; Mike Fuller has been a licensed master electrician in Ottawa since 1987 (ECRA/ESA 7000374)",
+      "4.9 stars on 168 Google reviews; several recent reviewers praise quotes turned around within 24 hours",
+      "Busy with EV charger installs and 200A service upgrades per reviews",
+      "Not running Google ads (0 in the Ads Transparency Center); reputation-driven",
+      "BBB A+ and free quotes advertised"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://mikefullerelectric.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://mikefullerelectric.com/about-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Mike+Fuller+Electric+Ltd+1692+Ortona+Ave+Ottawa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=mikefullerelectric.com"
+      }
+    ],
+    "notes": "emergency247=true is based on 'Open 24 hours, daily' on the site and Google; the site does not describe a dedicated emergency service. afterHoursGap=true rests on the conflicting Mon–Fri 7–4:30 schema hours and the review complaint (quote from Google's review-summary snippet). No paid ads. Also does commercial work. ESA public registry not checked directly; licence number taken from the company site. Verified 2026-09-25."
+  },
+  {
+    "company": "Transcona Overhead Doors Ltd.",
+    "website": "https://transconaoverheaddoors.ca",
+    "vertical": "garage-doors",
+    "city": "Winnipeg",
+    "region": "MB",
+    "country": "CA",
+    "timezone": "America/Winnipeg",
+    "hours": "Work trucks Mon–Fri 8am–4pm, closed weekends; office/showroom only Mon, Wed, Fri 10am–4pm",
+    "hoursSource": "Official website footer ('Work Truck Hours Monday – Friday: 8:00 AM – 4:00 PM; Saturday and Sunday: Closed; Office Hours Monday/Wednesday/Friday: 10:00 AM - 04:00 PM'); Google Maps shows 'Closed · Opens 8 AM Mon' (checked Friday evening)",
+    "phone": "(204) 222-7943",
+    "phoneSource": "Official website header and footer; matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 123,
+    "latestReviewAge": "3 weeks ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 2 ads for transconaoverheaddoors.ca, advertiser 'TRANSCONA OVERHEAD DOORS LTD.' (date range not recorded)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": null,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": false,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family business 40+ years: founder/owner Ken Drewry 'sold the business to his son Steven who has been working at Transcona Overhead Doors for the last 20 years' (About page)",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews mention 'servicemen' and a team; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site (OfficeSmarts) with Gravity Forms quote form and a referral program; Google listing shows a 'Book online' button (provider not identified); no chat or text widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Steven Drewry",
+    "dmTitle": "Owner",
+    "dmSource": "https://transconaoverheaddoors.ca/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is only staffed Monday, Wednesday and Friday 10–4 while trucks run weekdays 8–4; when a spring snaps on a Tuesday evening or a Saturday morning, who answers (204) 222-7943?",
+    "hooks": [
+      "40+ year family business; Ken Drewry sold it to his son Steven, who has worked there 20 years",
+      "5.0 stars on 123 Google reviews; reviewers cite quick call-backs and same-day repairs",
+      "Office/showroom open only Mon, Wed, Fri 10am–4pm; trucks weekdays 8–4, closed weekends",
+      "Running Google ads (2 ads in the Ads Transparency Center)",
+      "Free estimates within Winnipeg and a 10%-off referral program"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://transconaoverheaddoors.ca/"
+      },
+      {
+        "label": "About page",
+        "url": "https://transconaoverheaddoors.ca/about-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Transcona+Overhead+Doors+Ltd+118+Melrose+Ave+W+Winnipeg"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=transconaoverheaddoors.ca"
+      }
+    ],
+    "notes": "No 24/7 or emergency service advertised, so emergency247=false and afterHoursGap=null; the gap here is limited office staffing. onlineBooking=null: Google shows a 'Book online' link but no booking widget was found on the website. Steven's title is inferred from 'sold the business to his son Steven'; confirm on the call. Also serves commercial customers. Verified 2026-09-25."
+  },
+  {
+    "company": "Maple Overhead Garage Doors Inc. (Maple Garage Doors)",
+    "website": "https://www.maplegaragedoors.com",
+    "vertical": "garage-doors",
+    "city": "Vaughan (Concord)",
+    "region": "ON",
+    "country": "CA",
+    "timezone": "America/Toronto",
+    "hours": "Mon–Fri 8am–4pm; closed weekends (Google). Website advertises '24/7 GTA Service'",
+    "hoursSource": "Google Maps hours table (Mon–Fri 8 AM–4 PM; 'Closed · Opens 8 AM Mon' on Friday evening); website About page ('24/7 GTA Service — Rapid emergency repair response')",
+    "phone": "(905) 738-9231",
+    "phoneSource": "Official website ('Call Us | Text Us (905) 738 9231'); matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 309,
+    "latestReviewAge": "a month ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (region=CA): 13 ads for maplegaragedoors.com, advertiser 'Maple Overhead Garage Doors Inc.' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": null,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'What started as a small family operation' in 1998 (About page); BBB lists Mr. Romeo Canizares as President and Mr. Rob Canizares as General Manager, business started 1/1/1995, BBB Accredited since 2010",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews reference Rob, technicians and an installation team; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Wix site with 'Get a Quote' form; phone advertised as 'Call Us | Text Us'; Google listing shows a 'Book online' button (provider not identified); no third-party chat or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Romeo Canizares",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/ca/on/concord/profile/garage-doors/maple-overhead-garage-doors-inc-0107-1168603",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises '24/7 GTA Service' with rapid emergency response, but Google lists Mon–Fri 8–4 and closed weekends; when a GTA homeowner's door is stuck open on a Saturday night, does that call reach anyone?",
+    "hooks": [
+      "Family operation serving the GTA since the late 1990s; Romeo Canizares is President and Rob Canizares General Manager (BBB)",
+      "4.9 stars on 309 Google reviews; owner replies to reviews",
+      "Advertises 24/7 GTA emergency repair while Google hours are Mon–Fri 8–4",
+      "Running Google ads (13 ads in the Ads Transparency Center)",
+      "Showroom in Concord; serves Toronto, Mississauga, Brampton and Vaughan"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.maplegaragedoors.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.maplegaragedoors.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/ca/on/concord/profile/garage-doors/maple-overhead-garage-doors-inc-0107-1168603"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Maple+Overhead+Garage+Doors+600+Bowes+Rd+Vaughan"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=CA&domain=maplegaragedoors.com"
+      }
+    ],
+    "notes": "Concord is part of the City of Vaughan (GTA). Founding year differs: website says 1998, BBB says business started 1995. The widget grep matched 'hatch' only inside Wix's 'SmartChatChips' config string (false positive); no live chat was seen on the rendered About page, but chatOrText=true because the site invites texting. Free estimates and financing not confirmed. Rob Canizares (GM) is praised by name in reviews and may be the day-to-day contact. Verified 2026-09-25."
+  }
+]

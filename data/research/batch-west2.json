@@ -65,5 +65,928 @@
       }
     ],
     "notes": "No staffed office hours published, so afterHoursGap is null rather than assumed. Financing not mentioned. Founding year not stated. Review-complaint check covered only the top 3 reviews and the Google review-summary snippets. Verified 2026-09-25."
+  },
+  {
+    "company": "Nevada Water and Fire Restoration, LLC",
+    "website": "https://nvwaterandfire.com",
+    "vertical": "restoration",
+    "city": "Sparks (Reno metro)",
+    "region": "NV",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Open 24 hours (Google); website advertises 24/7 emergency service and 'Talk With a Real Team Member 24/7'",
+    "hoursSource": "Google Maps business profile; official website home/About page",
+    "phone": "(775) 856-6666",
+    "phoneSource": "Official website header, tel links and body copy ('Call us today at 775-856-6666'). Google Business Profile shows a different number, (775) 200-9619, likely a tracking line",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 477,
+    "latestReviewAge": "3 months ago (newest seen among 'Most relevant' reviews; owner post on profile dated May 25, 2026)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 27 ads for nvwaterandfire.com, advertiser 'Nevada Water & Fire Restoration' (US).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website says 'Family Owned And Operated' and serving Reno/Sparks/Tahoe since 2006. BBB lists Andrius (Andrew) Sumauskas as Owner/Manager and Katsiaryna (Kate) Sumauskas as Manager; business started 2/14/2006. Site explicitly positions itself against franchise networks. No parent brand found",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews name several techs and staff (Joey, Nate, Rosendo Sr./Jr., Andrew); likely ~10–25",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Contact form; no chat, booking, review or call-center widget found in raw homepage HTML. Uses a separate Google tracking number",
+    "sophisticatedContactCenter": false,
+    "dmName": "Andrius (Andrew) Sumauskas",
+    "dmTitle": "Owner / Manager",
+    "dmSource": "https://www.bbb.org/us/nv/sparks/profile/water-mitigation/nevada-water-and-fire-restoration-llc-1126-90022824/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises a real team member 24/7 and one reviewer says the owner personally answered: how is that live-answer promise staffed at 2am while 27 Google ads keep driving calls?",
+    "hooks": [
+      "Family-owned since 2006; Andrew and Kate Sumauskas run it (BBB)",
+      "4.9 stars on 477 Google reviews",
+      "Promises 'Talk With A Real Team Member, Day Or Night'",
+      "Running Google ads (27 in the Ads Transparency Center)",
+      "Pitches itself as the non-franchise alternative to insurance-network restorers"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://nvwaterandfire.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://nvwaterandfire.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/nv/sparks/profile/water-mitigation/nevada-water-and-fire-restoration-llc-1126-90022824/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Nevada+Water+%26+Fire+Restoration+890+E+Greg+St+Sparks"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=nvwaterandfire.com"
+      }
+    ],
+    "notes": "afterHoursGap set false: they advertise 24/7 live answering and a reviewer says they 'always gotten a live person on the phone', so an after-hours gap is not evident (they may already use an answering arrangement; unknown). Also serves commercial and educational facilities, but residential is prominent. Financing not mentioned. Employee count not published. Verified 2026-09-25."
+  },
+  {
+    "company": "Power and Performance Air",
+    "website": "https://www.itshotinbakersfield.com",
+    "vertical": "hvac",
+    "city": "Bakersfield",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Open 24 hours (Google); website says '24-hour emergency service available'. No staffed office hours published",
+    "hoursSource": "Google Maps business profile; official website home page",
+    "phone": "(661) 631-1743",
+    "phoneSource": "Official website 'Call Now' tel link and footer; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 279,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 18 ads for itshotinbakersfield.com, advertiser 'Power and Performance Air' (US).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": false,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a locally owned and operated service and repair company'. Also sells HVAC parts over the counter and does appliance repair. No parent brand found. Owner not named on site, Google profile or BBB",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews name several techs (Christian, Pierce, Mathew, Justin, Edgar, Kameron); likely ~5–15",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Simple Webflow-style site with a basic contact form; no chat, booking, review or call-tracking widget found in raw HTML. Gmail address for email",
+    "sophisticatedContactCenter": false,
+    "dmName": null,
+    "dmTitle": null,
+    "dmSource": null,
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 18 Google ads running and a site built around 'Call Now' and 24-hour emergency service, who picks up when a Bakersfield AC dies at 9pm in July and the techs are all out?",
+    "hooks": [
+      "4.8 stars on 279 Google reviews; reviewers praise honest second opinions",
+      "Running Google ads (18 in the Ads Transparency Center)",
+      "Site advertises 24-hour emergency service with 'Call Now' as the main action",
+      "Also sells HVAC parts over the counter, so the phone gets parts questions too",
+      "No chat or online booking on the site"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.itshotinbakersfield.com/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Power+%26+Performance+Air+1400+Easton+Dr+Bakersfield"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=itshotinbakersfield.com"
+      }
+    ],
+    "notes": "Decision maker not verified: no owner named on website, Google profile (no owner replies seen) or BBB (no BBB listing found). A Yelp listing shows a 'Mike M.' as Business Owner, and third-party aggregators name others; neither is an approved source, so dmName is null. Founding year not on site (a PitchBook snippet says 2005, unverified). Financing and free estimates not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "ACT Heating & Cooling Inc.",
+    "website": "https://actheatingandcooling.com",
+    "vertical": "hvac",
+    "city": "Billings",
+    "region": "MT",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Mon–Thu 8am–4pm, Fri 8am–3:30pm, Sat–Sun closed (Google). Website advertises 'Emergency service and expert repairs'",
+    "hoursSource": "Google Maps business profile hours table; official website home page",
+    "phone": "(406) 248-5732",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile. Site also shows (406) 237-0860 only in a 'call ahead before placing your order' notice for filter/parts orders",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 143,
+    "latestReviewAge": "3 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for actheatingandcooling.com (US). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": false,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founded 1992 by Pat and Penni Casey (About page). Pat Casey signs the owner replies on Google reviews; a reviewer says 'Penny is always very pleasant on the phone'. Specializes in residential replacement and service; no parent brand found",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews mention office staff plus several techs/installers (Brandon, Drew, Chris, Taylor, Austin); likely ~10–20",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "'Book Online' button (/book), 'Request an Estimate' and financing pages; no chat, Podium or call-center widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Pat Casey",
+    "dmTitle": "Co-founder / Owner (with Penni Casey)",
+    "dmSource": "https://actheatingandcooling.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 4pm (3:30 on Fridays) and all weekend, yet the site promises emergency service: who answers when a Billings furnace quits on a January Saturday?",
+    "hooks": [
+      "Founded 1992 by Pat and Penni Casey; Pat signs every review reply himself",
+      "4.9 stars on 143 Google reviews",
+      "Office hours are Mon–Thu 8–4 and Fri 8–3:30, closed weekends",
+      "Site says 'When It Breaks, We’re There' with emergency service",
+      "Over 25,000 residential clients claimed"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://actheatingandcooling.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://actheatingandcooling.com/about/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/ACT+Heating+%26+Cooling+6427+Western+Wy+Billings"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=actheatingandcooling.com"
+      }
+    ],
+    "notes": "Site says 'emergency service' but does not explicitly claim 24/7, so emergency247=false while afterHoursGap=true (emergency promise vs. short weekday office hours). The About page text was readable in raw HTML though the rendered page showed a password prompt. Pat's exact title not stated; 'co-founder' per About page, 'owner' per Google owner replies. Free estimates not explicitly stated (has 'Request an Estimate'). Verified 2026-09-25."
+  },
+  {
+    "company": "ISO Plumbing & Mechanical, LLC",
+    "website": "https://isoplumbing.com",
+    "vertical": "plumbing",
+    "city": "Salem",
+    "region": "OR",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 7am–4pm, Sat–Sun closed (Google); website advertises '24/7 Emergency Service'",
+    "hoursSource": "Google Maps business profile hours table; official website home page",
+    "phone": "(971) 719-2896",
+    "phoneSource": "Official website header and tel links ('Or call (971) 719-2896'); also the BBB phone. Google Business Profile shows a different number, (503) 217-4968",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 170,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for isoplumbing.com (US). A reviewer mentions seeing ISO's social-media advertisements. Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": false,
+    "onlineBooking": null,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family Owned & Operated', serving Salem for 10+ years, CCB #218186. BBB lists Frank Slinger as Owner (business started 11/17/2019, BBB address in Lebanon, OR). Reviewers name 'the owner Frank' and Barbara. No parent brand found",
+    "franchise": false,
+    "employeesEstimate": "unknown; owner plus a crew and office (reviews mention Frank, Barbara and 'the crew'); likely ~5–15",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Housecall Pro references in homepage HTML (likely scheduling/payments); no chat, Podium or call-center widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Frank Slinger",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/or/lebanon/profile/plumbing-renovation/iso-plumbing-mechanical-llc-1296-1000177507/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 24/7 emergency service but the Google listing shows 7–4 on weekdays and closed weekends: who catches a Saturday burst-pipe call from Monmouth or Keizer?",
+    "hooks": [
+      "Family-owned; Frank Slinger is the owner and reviewers name him directly",
+      "4.9 stars on 170 Google reviews, many for whole-house repipes",
+      "Google hours are Mon–Fri 7–4 and closed weekends, while the site says 24/7 Emergency Service",
+      "Offers financing and maintenance plans",
+      "Serves Salem and the Willamette Valley, including Monmouth"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://isoplumbing.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/or/lebanon/profile/plumbing-renovation/iso-plumbing-mechanical-llc-1296-1000177507/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/ISO+Plumbing+%26+Mechanical+2345+McGilchrist+St+SE+Salem"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=isoplumbing.com"
+      }
+    ],
+    "notes": "freeEstimate=false because the site offers a paid-sounding 'diagnostic appointment' and flat-rate pricing, not free estimates (not explicitly priced; treat as uncertain). onlineBooking null: Housecall Pro is present in HTML but no visible 'Book Online' button was confirmed. Site says '10+ years' while BBB start date is 2019 (LLC may be newer than the business). Verified 2026-09-25."
+  },
+  {
+    "company": "Smith Plumbing, Heating and Cooling",
+    "website": "https://www.smithservicesaz.com",
+    "vertical": "plumbing",
+    "city": "Mesa",
+    "region": "AZ",
+    "country": "US",
+    "timezone": "America/Phoenix",
+    "hours": "Open 24 hours (Google); website advertises 24/7/365 service 'during the day or night or on the weekends', typically responding within an hour. No staffed office hours published",
+    "hoursSource": "Google Maps business profile; official website home page",
+    "phone": "(480) 827-9111",
+    "phoneSource": "Official website tel links (7 instances); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 233,
+    "latestReviewAge": "4 months ago (newest seen among 'Most relevant' reviews; owner replies dated 2 weeks ago)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 11 ads for smithservicesaz.com, advertiser 'Smith Plumbing, LLC' (US).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family Owned Since 1968'. BBB lists Garron Ronald Cadiente as Member (business started 1/1/1968; alternate names 'Smith Plumbing' and 'Central Arizona Suppy Inc'). A Garron is also named in a review as one of the techs, suggesting a hands-on owner. No parent brand found",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews and site name several techs (Robbie, Garron, Braden, Mike Clark) plus a marketing person; likely ~10–25",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat, booking, Podium or call-center widget found in raw homepage HTML; 'free consultation' and financing pages",
+    "sophisticatedContactCenter": false,
+    "dmName": "Garron Ronald Cadiente",
+    "dmTitle": "Member (LLC principal)",
+    "dmSource": "https://www.bbb.org/us/az/mesa/profile/plumber/smith-plumbing-heating-cooling-1126-8000981/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 24/7/365 plumbing with a response inside an hour, and 11 Google ads feed that promise: who answers the phone at midnight when the tech on call is already under a slab?",
+    "hooks": [
+      "Family-owned since 1968, one of Mesa's oldest plumbing shops",
+      "4.9 stars on 233 Google reviews",
+      "Promises 24/7/365 service, typically responding within an hour",
+      "Running Google ads (11 in the Ads Transparency Center)",
+      "Also does heating/cooling, gas lines and new construction"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.smithservicesaz.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://smithservicesaz.com/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/az/mesa/profile/plumber/smith-plumbing-heating-cooling-1126-8000981/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Smith+Plumbing+Heating+and+Cooling+5135+E+Ingram+St+Mesa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=smithservicesaz.com"
+      }
+    ],
+    "notes": "Garron Cadiente's exact role (owner vs. one of several members) is not stated beyond BBB 'Member'; confirm on the call. recentReviews null: top 'Most relevant' reviews were 4–7 months old; the owner replied to them in bulk 2 weeks ago. Also does commercial and new-construction work, but residential service is prominent. Staffed hours unknown, so afterHoursGap is null. Verified 2026-09-25."
+  },
+  {
+    "company": "Mears Roofing LLC",
+    "website": "http://www.mearsroofs.com",
+    "vertical": "roofing",
+    "city": "Tacoma",
+    "region": "WA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 8am–4pm, Sat–Sun closed",
+    "hoursSource": "Google Maps business profile hours table",
+    "phone": "(253) 236-2136",
+    "phoneSource": "Official website header ('Office: 253-236-2136') and 'Call Us Today' blocks; matches Google Maps business profile. Site also lists a company 'Cell: 206-327-2696' in the header",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 121,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 3 ads for mearsroofs.com, run under advertiser 'Channel Fusion' (appears to be a marketing agency account), US.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family owned and operated, founded ~2015 by Jackie Mears ('Owner Operator', founder) with co-owner Ben Mears (website). Google profile 'Identifies as women-owned'. WA License # MEARSRL855BL. No parent brand",
+    "franchise": false,
+    "employeesEstimate": "unknown; husband-and-wife owners plus crews (reviews mention 'techs' and 'team'); likely ~5–15",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Plain website with office and cell numbers and a contact page; no chat, booking, Podium or review widget found in raw HTML. Ads run through an agency ('Channel Fusion')",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jackie Mears",
+    "dmTitle": "Founder / Owner Operator (co-owner Ben Mears does the estimates)",
+    "dmSource": "http://www.mearsroofs.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Ben does the roof inspections himself and a reviewer says he answered his cell on a weekend: how many estimate requests reach the 8–4 office line while he is up on a roof?",
+    "hooks": [
+      "Women-owned family business: Jackie Mears founded it with co-owner Ben Mears",
+      "4.9 stars on 121 Google reviews; reviewers say Ben is never pushy",
+      "Office hours are Mon–Fri 8–4, closed weekends",
+      "Also does roof inspections for real-estate transactions, which are deadline-driven",
+      "Running a small Google ads campaign through an agency"
+    ],
+    "sources": [
+      {
+        "label": "Home/About page",
+        "url": "http://www.mearsroofs.com/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Mears+Roofing+LLC+7224+46th+Ave+E+Tacoma"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=mearsroofs.com"
+      }
+    ],
+    "notes": "No 24/7 or emergency claim on the site, so emergency247=false and afterHoursGap=false; the angle is missed estimate/real-estate calls during short office hours. The 206-327-2696 'Cell' is a company number not attributed to a named person, so it is not recorded as a direct line. Google's review summary surfaces one negative snippet ('They should not even offer this service if they dont know what they are doing'), context unknown. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Roofing and More, LLC",
+    "website": "https://www.roofingandmorellc.com",
+    "vertical": "roofing",
+    "city": "Jurupa Valley (Riverside / Inland Empire)",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Open 24 hours (Google). Website mentions emergency repairs but publishes no office hours",
+    "hoursSource": "Google Maps business profile; official website home page",
+    "phone": "(951) 720-1209",
+    "phoneSource": "Official website tel links (8 instances); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 192,
+    "latestReviewAge": "5 months ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 10 ads for roofingandmorellc.com, verified advertiser 'Carmel Alejandro Gomez' (US).",
+    "emergency247": null,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a father-and-son operation... This is not a franchise. There is no call center. When you call, you get Alejandro.' BBB lists Alejandro Gomez as Owner (business started 1/26/2021). Google profile 'Identifies as Latino-owned'. CSLB LIC# 1082733 on site. GAF Master Elite",
+    "franchise": false,
+    "employeesEstimate": "unknown; father-and-son owners plus crews (reviews name Alejandro, José Higuera, Ernesto); likely ~5–15",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Single-page site with phone CTAs and a free-inspection offer; no chat, booking, Podium or call-center widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Alejandro Gomez",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ca/jurupa-valley/profile/roofing-contractors/roofing-and-more-llc-1126-850079554/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 'There is no call center. When you call, you get Alejandro': with 10 Google ads running across the IE, OC and LA, what happens to the calls that arrive while he is on a roof or mid-estimate?",
+    "hooks": [
+      "Father-and-son shop; Alejandro Gomez is the owner and the site says every call reaches him",
+      "4.8 stars on 192 Google reviews",
+      "Running Google ads (10 in the Ads Transparency Center)",
+      "GAF Master Elite with 0% financing for 12 months and free inspections",
+      "Covers the Inland Empire, Orange County and LA from Jurupa Valley"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.roofingandmorellc.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ca/jurupa-valley/profile/roofing-contractors/roofing-and-more-llc-1126-850079554/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Roofing+and+More+LLC+10935+Limonite+Ave"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=roofingandmorellc.com"
+      }
+    ],
+    "notes": "Google shows 'Open 24 hours' but the site makes no explicit 24/7 claim, so emergency247 and afterHoursGap are null. recentReviews null: top 'Most relevant' reviews were 5–6 months old. One review mentions hiring 'United Builders GC' while praising Alejandro; relationship to Roofing and More unknown. Also does some commercial/apartment work. Verified 2026-09-25."
+  },
+  {
+    "company": "Doug Palmer Electric, LLC",
+    "website": "https://dougpalmerelectric.com",
+    "vertical": "electrical",
+    "city": "Eugene",
+    "region": "OR",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Daily 8am–5pm (Google); website FAQ says 'We are available 24/7 for your electrical needs'",
+    "hoursSource": "Google Maps business profile hours table; official website home page FAQ",
+    "phone": "(541) 434-5600",
+    "phoneSource": "Official website tel links; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 347,
+    "latestReviewAge": "3 months ago (newest seen among 'Most relevant' reviews; owner post on profile dated Sep 9, 2026)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for dougpalmerelectric.com (US). Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": null,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: owned by Brian Schkeryantz and Eric Petschauer (brothers-in-law), who bought Doug Palmer Electric in 2025; they also own Eugene firms Emerald Excavating and Ehlers Construction. Company has served Lane County 25–30+ years. Local owners, not a PE platform",
+    "franchise": false,
+    "employeesEstimate": "unknown; office staff plus 'long-tenured journeyman electricians' (reviews name Justin and others); likely ~10–20",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Housecall Pro (Google 'Book online' and references in HTML) and NiceJob (review requests) found in raw homepage HTML; no Podium or call-center widget",
+    "sophisticatedContactCenter": false,
+    "dmName": "Brian Schkeryantz",
+    "dmTitle": "Co-owner (with Eric Petschauer)",
+    "dmSource": "https://dougpalmerelectric.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site says 'We are available 24/7' but Google lists 8–5: now that the new owners also run an excavating and a construction company, who is covering the electrical line after 5pm?",
+    "hooks": [
+      "New local owners since 2025: Brian Schkeryantz and Eric Petschauer, who also own Emerald Excavating and Ehlers Construction",
+      "5.0 stars on 347 Google reviews",
+      "Website FAQ promises 24/7 availability while Google hours are 8–5",
+      "Pushing EV-charger installs with free estimates across Lane County",
+      "No Google ads running"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://dougpalmerelectric.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://dougpalmerelectric.com/about/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Doug+Palmer+Electric+2950+Allane+Ln+Eugene"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=dougpalmerelectric.com"
+      }
+    ],
+    "notes": "Changed hands in 2025; owners run three businesses, so the decision maker may be either partner (Brian listed first on the About page; titles not specified). Also does commercial work. chatOrText null: NiceJob is present but no text/chat widget confirmed. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Makena Electric",
+    "website": "https://www.makenaelectric.com",
+    "vertical": "electrical",
+    "city": "Huntington Beach (Orange County)",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 8am–5pm, Sat 8am–12pm, Sun closed",
+    "hoursSource": "Google Maps business profile hours table",
+    "phone": "(714) 960-6756",
+    "phoneSource": "Official website 'Call Now For a Free Quote' tel links; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 100,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; profile photos added 2 days ago and owner post dated Aug 28, 2026)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for makenaelectric.com (US). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Owner-operated; Google reviewers refer to 'Andre, the owner', who answers calls personally (including a Sunday morning). Google profile 'Identifies as Black-owned'. CSLB C-10 License No. 954799 on site. No parent brand",
+    "franchise": false,
+    "employeesEstimate": "unknown; owner-led small crew ('our team'); likely ~3–8",
+    "employeeBand": "3-4",
+    "locations": 1,
+    "existingTools": "Wix site with the Wix visitor chat widget (wix_visitors) in raw HTML and a free-quote form promising contact 'within one business day'; no Podium, booking or call-center widget",
+    "sophisticatedContactCenter": false,
+    "dmName": "Andre",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.google.com/maps/search/Makena+Electric+9121+Atlanta+Ave+Huntington+Beach",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Reviewers say Andre personally picked up on a Sunday morning and was the only one of four electricians to call back: how many calls go unanswered when he is the one holding the phone and the tools?",
+    "hooks": [
+      "Owner Andre answers the phone himself; a reviewer reached him on a Sunday morning",
+      "5.0 stars on 100 Google reviews",
+      "Hours are Mon–Fri 8–5 and Saturday 8–noon, but the site pitches emergency electrical repairs",
+      "A reviewer found him via ChatGPT's list of Enphase installers; does EV chargers and panel upgrades",
+      "Free-quote form promises a reply within one business day"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.makenaelectric.com/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Makena+Electric+9121+Atlanta+Ave+Huntington+Beach"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=makenaelectric.com"
+      }
+    ],
+    "notes": "Owner surname not verified from an approved source: only third-party aggregators (ZoomInfo/BuildZoom) show a surname, so dmName is the first name only; confirm on the call or via the CSLB record for lic. 954799. Site pitches 'emergency electrical repairs' but makes no 24/7 claim (emergency247=false; afterHoursGap=true on the emergency pitch vs. short hours). Also does light commercial and multi-family work. No BBB listing found. Verified 2026-09-25."
+  },
+  {
+    "company": "George & Sons Garage Doors",
+    "website": "https://www.georgeandsonsdoors.com",
+    "vertical": "garage-doors",
+    "city": "Reno",
+    "region": "NV",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 8am–5pm, Sat 8am–1pm, Sun closed (Google); website says '24/7 service available' for repairs",
+    "hoursSource": "Google Maps business profile hours table; official website home page",
+    "phone": "(775) 324-3667",
+    "phoneSource": "Official website header and tel links (Reno); matches Google Maps business profile. Site also lists (775) 883-3667, apparently the Carson City line",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 653,
+    "latestReviewAge": "a month ago (newest seen among 'Most relevant' reviews; owner replies 3 weeks ago)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 3 ads for georgeandsonsdoors.com, advertiser 'George & Sons Inc.' (US).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: James George started the business with his family in 2012 after decades in the industry; 'local, family-owned and operated'; owner has 38+ years of experience. Locations in Reno and Carson City. No parent brand found (unlike nearby Toni's, now part of A+ Garage Doors)",
+    "franchise": false,
+    "employeesEstimate": "unknown; front office plus several technicians/installers (reviews name Harley and others); likely ~10–25",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "No chat, booking, Podium or review widget found in raw homepage HTML; free-estimate form",
+    "sophisticatedContactCenter": false,
+    "dmName": "James George",
+    "dmTitle": "Founder / Owner",
+    "dmSource": "https://www.georgeandsonsdoors.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site offers 24/7 repair service, but the office closes at 5 on weekdays, 1pm Saturday and all Sunday: who answers when a Reno door is stuck open at 9pm?",
+    "hooks": [
+      "Family business James George founded in 2012, with Reno and Carson City locations",
+      "4.9 stars on 653 Google reviews",
+      "Office hours are Mon–Fri 8–5 and Sat 8–1, while the site says 24/7 service is available",
+      "Running Google ads (3 in the Ads Transparency Center)",
+      "Brands itself on 'Quality Products, Honest Service' and says it has no convenience fees"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.georgeandsonsdoors.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.georgeandsonsdoors.com/about-us/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/George+%26+Sons+Garage+Doors+5355+Capital+Ct+Reno"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=georgeandsonsdoors.com"
+      }
+    ],
+    "notes": "James George's current title is not stated; 'founder' per About page, owner assumed from 'our owner has more than 38 years of experience'. Also serves commercial doors, but residential is prominent. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "King Door Co., Inc.",
+    "website": "https://kingdoor.com",
+    "vertical": "garage-doors",
+    "city": "Bakersfield",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Service Mon–Sat 8am–5pm; office/showroom Mon–Fri 8am–5pm; '24-Hour Emergency Service Available' (website). Google shows 'Open 24 hours'",
+    "hoursSource": "Official website Contact page; Google Maps business profile",
+    "phone": "(661) 397-2744",
+    "phoneSource": "Official website header and tel links. Google Business Profile shows a different number, (661) 399-2312 (likely a tracking line)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 413,
+    "latestReviewAge": "3 months ago (newest seen among 'Most relevant' reviews; owner post dated Sep 1, 2026)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 20 ads for kingdoor.com, advertiser 'King Door Company, Inc.' (US).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: founded 1985 by Roman Ruiz, 'the proud owner', who started with one truck and now runs 11 service trucks; listed as President/Owner. Serves Kern and Tulare counties. No parent brand found",
+    "franchise": false,
+    "employeesEstimate": "~15–25 (11 service trucks plus customer-service reps, installers and showroom staff per About page)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Podium widget (webchat/text) in raw homepage HTML; digital contact form; in-house 'customer service representatives' mentioned on About page",
+    "sophisticatedContactCenter": false,
+    "dmName": "Roman Ruiz",
+    "dmTitle": "President / Owner (founder)",
+    "dmSource": "https://kingdoor.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 20 Google ads running and '24-Hour Emergency Service' advertised, but the office open Mon–Fri 8–5, who takes the call when a door comes off its track in Visalia on a Sunday night?",
+    "hooks": [
+      "Roman Ruiz founded it in 1985 with one truck and now runs 11",
+      "4.9 stars on 413 Google reviews; reviewers stress there is no commission selling",
+      "Office Mon–Fri 8–5 and service Mon–Sat 8–5, with 24-hour emergency service advertised",
+      "Running Google ads (20 in the Ads Transparency Center)",
+      "Covers Kern and Tulare counties, from Tehachapi to Porterville"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://kingdoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://kingdoor.com/about-us/"
+      },
+      {
+        "label": "Contact page (hours)",
+        "url": "https://kingdoor.com/contact/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/King+Door+Co+7450+District+Blvd+Bakersfield"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=kingdoor.com"
+      }
+    ],
+    "notes": "Uses Podium (chatOrText=true), so after-hours web leads may already be captured by text; phone coverage after hours is unknown. Also sells commercial doors, but residential is prominent. Free estimates not explicitly confirmed on the pages read. Verified 2026-09-25."
+  },
+  {
+    "company": "AquaKlear Pools LLC",
+    "website": "https://www.aquaklearpools.com",
+    "vertical": "pool",
+    "city": "Chandler",
+    "region": "AZ",
+    "country": "US",
+    "timezone": "America/Phoenix",
+    "hours": "Mon–Fri 9am–5pm, Sat–Sun closed (Google); website says 'We also provide emergency service'",
+    "hoursSource": "Google Maps business profile hours table; official website home page",
+    "phone": "(480) 705-9444",
+    "phoneSource": "Official website header tel link; matches Google Maps business profile and BBB. Website footer also lists (480) 818-3331",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 135,
+    "latestReviewAge": "a month ago (newest seen among 'Most relevant' reviews; newest-sort not used)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for aquaklearpools.com (US). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "BBB lists Rasheed Rahaman as CEO/Owner and Andromeda Rahaman as Office Manager (business started 7/24/2017). Reviewers describe a family-owned, father-and-son operation and name Rasheed on nearly every job. No parent brand",
+    "franchise": false,
+    "employeesEstimate": "unknown; owner couple plus a service team ('Rasheed and his team'); likely ~5–10",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Website quote form (asks for a callback) and Trustindex review widget; no chat, booking or Podium found. Site sits behind bot protection that blocks curl, so raw-HTML widget check was done in the browser only",
+    "sophisticatedContactCenter": false,
+    "dmName": "Rasheed Rahaman",
+    "dmTitle": "CEO / Owner",
+    "dmSource": "https://www.bbb.org/us/az/chandler/profile/pool-maintenance/aquaklear-pools-llc-1126-1000067814/details",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Repairs and emergency service are advertised, but the office is open 9–5 on weekdays only: when a pump dies on a 115-degree Saturday in Sun Lakes, does that call reach Rasheed or a voicemail?",
+    "hooks": [
+      "Family business: Rasheed Rahaman owns it and Andromeda Rahaman runs the office",
+      "5.0 stars on 135 Google reviews; reviewers name Rasheed on nearly every job",
+      "Office hours are Mon–Fri 9–5 and closed weekends, while the site offers emergency service",
+      "Does equipment repair and installs (pumps, heaters, salt cells, automation), not just weekly cleaning",
+      "Serves Chandler, Sun Lakes and the southeast Valley"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.aquaklearpools.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.aquaklearpools.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/az/chandler/profile/pool-maintenance/aquaklear-pools-llc-1126-1000067814/details"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Aquaklear+Pools+LLC+123+W+Chandler+Heights+Rd"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=aquaklearpools.com"
+      }
+    ],
+    "notes": "Site offers emergency service but no 24/7 claim (emergency247=false, afterHoursGap=true on emergency vs. 9–5 weekday hours). phonePrimaryCta=false: the site leans on a quote form, with the number in the header. Purpose of the second number (480) 818-3331 unknown. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Kodiak Pest Control, Inc.",
+    "website": "https://www.kodiakpestcontrol.com",
+    "vertical": "pest",
+    "city": "Billings (field office; HQ Lovell, WY)",
+    "region": "MT",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Billings office Mon–Fri 8am–4:30pm per website (Google shows Mon–Fri 8am–5pm), Sat–Sun closed",
+    "hoursSource": "Official website About page office list; Google Maps business profile hours table",
+    "phone": "(406) 426-2009",
+    "phoneSource": "Official website About page lists (406) 426-2009 for the Billings office and (307) 298-1512 as the main/Wyoming line. Google Business Profile for Billings shows a different number, (406) 642-4951",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 393,
+    "latestReviewAge": "2 weeks ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for kodiakpestcontrol.com (US). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: Jacob Haslem (Owner/Operator) founded Kodiak in May 2019; wife Whitney Haslem is co-owner of Kodiak Pest Control, Inc. 'Local, family owned small business' and explicitly contrasts itself with big franchises. Offices in Lovell (HQ), Cody and Powell, WY and Billings, MT",
+    "franchise": false,
+    "employeesEstimate": "~5–15 (About page names owners plus technicians PC Oberholzer and Joshua Mangus; reviews name others)",
+    "employeeBand": "5-15",
+    "locations": 4,
+    "existingTools": "Customer portal link and a quote form stating 'Current response time ~10 minutes during business hours'; no chat, booking or Podium found (site blocks curl; checked in browser)",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jacob Haslem",
+    "dmTitle": "Owner / Operator (founder)",
+    "dmSource": "https://www.kodiakpestcontrol.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises a ~10-minute response 'during business hours' and every office closes at 4:30: who answers the Billings line when a homeowner finds a wasp nest or mice on a Saturday?",
+    "hooks": [
+      "Family-owned: Jacob Haslem founded it in 2019 and co-owns it with Whitney",
+      "4.9 stars on 393 Google reviews for the Billings location alone",
+      "Four offices (Lovell, Cody, Powell, Billings), all Mon–Fri 8–4:30",
+      "Site pushes 'Call for same-day service'",
+      "Positions itself against big franchises"
+    ],
+    "sources": [
+      {
+        "label": "About page",
+        "url": "https://www.kodiakpestcontrol.com/about-us/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Kodiak+Pest+Control+182+S+32nd+St+W+Billings"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=kodiakpestcontrol.com"
+      }
+    ],
+    "notes": "Pest is lower urgency and there is no 24/7 or emergency claim, so afterHoursGap=false; the angle is same-day demand and weekend calls. Jacob also posts content and still runs jobs himself (a reviewer names him). HQ is in Wyoming; Billings is a field office with its own Google profile. Verified 2026-09-25."
   }
 ]

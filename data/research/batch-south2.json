@@ -1,0 +1,582 @@
+[
+  {
+    "company": "Oklahoma Disaster Restoration (Oklahoma Disaster Restoration and Cleaning Specialists, Inc.)",
+    "website": "https://okdisaster.com",
+    "vertical": "restoration",
+    "city": "Tulsa",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "General office Mon–Fri 8am–5pm; advertises 'Open 24/7 - 365' for emergencies (website). Google profile shows Open 24 hours",
+    "hoursSource": "Official website contact page; Google Maps business profile",
+    "phone": "(918) 622-7641",
+    "phoneSource": "Official website header and contact page ('Call 24/7: (918) 622-7641'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 146,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain okdisaster.com): 16 ads, advertiser 'Oklahoma Disaster Restoration and Cleaning Specialists, Inc.' (verified). Recency of the ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family-owned and locally operated' since 1988; About page names Tammy Stokes (Owner & General Manager) and Jay Stokes (Owner). Footer says 'Proud member of Restoration Affiliates' (a network of independent restorers, not an owner).",
+    "franchise": false,
+    "employeesEstimate": "unknown; About page shows a leadership team with several division managers (likely 20+), no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with 'Request Callback' form; no chat, booking, Podium/Birdeye or similar widget in page source. Site nav has a 'Financing' page. Owner (Tammy) replies personally to Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Tammy Stokes",
+    "dmTitle": "Owner & General Manager",
+    "dmSource": "https://okdisaster.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is staffed Mon–Fri 8–5 but the site promises 'Open 24/7 - 365'; who answers (918) 622-7641 when a Tulsa basement floods at 2am on a Saturday?",
+    "hooks": [
+      "Family owned in Tulsa since 1988; Tammy and Jay Stokes are the owners",
+      "Contact page: open 24/7-365, but general office hours are Mon–Fri 8am–5pm",
+      "4.7 stars on 146 Google reviews; Tammy replies to reviews by name",
+      "Runs Google Ads (16 ads in the Transparency Center)",
+      "Does residential and commercial water, fire, mold, storm and reconstruction"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://okdisaster.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://okdisaster.com/about-us/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://okdisaster.com/contact-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Oklahoma+Disaster+Restoration+Tulsa+OK"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=okdisaster.com"
+      }
+    ],
+    "notes": "recentReviews null: only default-sorted reviews checked (several 2 months old, owner replies a month ago). Free estimates not stated. Employee count not published. Also does a lot of commercial work (emergency response plans), but residential is a listed service line. Verified 2026-09-25."
+  },
+  {
+    "company": "Hard Knox Plumbing",
+    "website": "https://www.hardknoxplumbing.com",
+    "vertical": "plumbing",
+    "city": "Knoxville",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours, 7 days a week (website and Google); site notes 'Technicians are on the road most of the day'",
+    "hoursSource": "Official website contact/about pages; Google Maps business profile",
+    "phone": "(865) 765-8946",
+    "phoneSource": "Official website header/CTA ('865.765.8946', call or text); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 396,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain hardknoxplumbing.com): 8 ads, advertiser 'Hard Knox Plumbing' (verified). Recency not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": true,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: founded in Knoxville in 2023 by Danny Ferris and Jarrett Mohn (co-owners and licensed plumbers); 'No franchise, no call center, no out-of-state corporate owner.'",
+    "franchise": false,
+    "employeesEstimate": "7 (About page: 'Team size 7 employees')",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Housecall Pro online booking embedded ('Book online'); phone line advertised as call or text. No Podium/Birdeye/chat widget found in page source. Owners reply to Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Danny Ferris / Jarrett Mohn",
+    "dmTitle": "Co-Owners & Licensed Plumbers",
+    "dmSource": "https://www.hardknoxplumbing.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises a real person answers 865.765.8946 24/7, and the two owners are also working plumbers; who picks up when both are under a house at 11pm?",
+    "hooks": [
+      "Founded in 2023 by Danny Ferris and Jarrett Mohn; seven people on the team",
+      "Promises 'a real person answers 24 hours a day' with no call center",
+      "5.0 stars on 396 Google reviews in about three years",
+      "Runs Google Ads and takes Housecall Pro online bookings",
+      "Site says 'Technicians are on the road most of the day, call ahead'"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.hardknoxplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.hardknoxplumbing.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.hardknoxplumbing.com/contact/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Hard+Knox+Plumbing+Knoxville+TN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=hardknoxplumbing.com"
+      }
+    ],
+    "notes": "afterHoursGap false: the site claims live 24/7 answering, so no stated gap; how it is staffed is unknown. Free estimates not stated. Two co-owners; which one handles vendors is unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "Royle Plumbing",
+    "website": "https://royleplumbing.com",
+    "vertical": "plumbing",
+    "city": "Memphis",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Office Mon–Fri 8am–5pm; emergency service advertised 24/7 (website contact page). Google profile shows Open 24 hours",
+    "hoursSource": "Official website contact page; Google Maps business profile",
+    "phone": "(901) 446-2052",
+    "phoneSource": "Official website header/CTA ('Call Now: (901) 446-2052'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 170,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain royleplumbing.com): 13 ads, advertiser 'Daniel Royle' (verified). Recency not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: 'Royle Plumbing isn't a franchise'; founded by Danny Royle, a Memphis homeowner who became a Master Plumber. Site: 'A local Memphis family serving Memphis families.' Ads account is in the name Daniel Royle.",
+    "franchise": false,
+    "employeesEstimate": "unknown; small (reviews name Danny personally), no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "'Book Online' goes to a client portal (portal.royleplumbing.com; platform not identified). Web form promises reply 'within 1 business hour'. No chat/Podium/Birdeye widget in page scripts. Owner replies to nearly every Google review.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Danny (Daniel) Royle",
+    "dmTitle": "Founder, Master Plumber",
+    "dmSource": "https://royleplumbing.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office runs Mon–Fri 8–5 but the site says 'We're available 24/7 for Memphis families'; when Danny is on a job or it's after 5, who answers a burst-pipe call?",
+    "hooks": [
+      "Founded by Danny Royle, Master Plumber; 'isn't a franchise'",
+      "Office Mon–Fri 8–5, yet 24/7 emergency service advertised on every page",
+      "5.0 stars on 170 Google reviews, owner replies to nearly all",
+      "Runs Google Ads under Daniel Royle's name (13 ads)",
+      "Serves Memphis and North Mississippi (25-mile radius); CastleCare membership plan"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://royleplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://royleplumbing.com/about"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://royleplumbing.com/contact"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Royle+Plumbing+Memphis+TN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=royleplumbing.com"
+      }
+    ],
+    "notes": "Site is JavaScript-rendered, so it was read in the browser. Financing and free estimates not mentioned. Google profile is a service-area listing (no public address). Verified 2026-09-25."
+  },
+  {
+    "company": "Patriot Restoration",
+    "website": "https://patriotrestorationtn.com",
+    "vertical": "restoration",
+    "city": "Knoxville",
+    "region": "TN",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google); website: 'Available 24/7 for emergencies. One call connects you to a live technician'. No separate office hours published",
+    "hoursSource": "Google Maps business profile; official website contact page",
+    "phone": "(865) 346-5934",
+    "phoneSource": "Official website header, contact and about pages ('Call Us 24/7 (865) 346-5934'). Google Maps profile shows a DIFFERENT number, (865) 813-8072 (likely a call-tracking number)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 5,
+    "googleReviews": 317,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain patriotrestorationtn.com): 29 ads including video, advertiser 'Patriot Restoration' (verified). Site also loads the Google Ads conversion tag. Recency not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: 'locally owned', 'Local Family Owned'; T.J. Wiberley is 'the founder and President', born and raised in Knoxville, UT graduate. Kevin Karl is Vice President.",
+    "franchise": false,
+    "employeesEstimate": "~10–20 (About page lists leadership, an office director, a coordinator and several named field technicians)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Custom site with forms and 'FREE ESTIMATE' CTA; no chat, booking, Podium/Birdeye or similar widget in page scripts (only Facebook pixel, Google Tag Manager, Google Ads). Reviewers mention a dispatcher (Tammy). Owner replies to Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "T.J. Wiberley",
+    "dmTitle": "Founder & President",
+    "dmSource": "https://patriotrestorationtn.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Your Google listing rings (865) 813-8072 while the site promises one call to (865) 346-5934 reaches a live technician 24/7; do both lines land with the same person at 2am?",
+    "hooks": [
+      "Founded by Knoxville native T.J. Wiberley, locally and family owned",
+      "5.0 stars on 317 Google reviews; reviewers name the dispatcher and techs",
+      "Site promises 'one call connects you to a live technician — not a machine'",
+      "Google profile number differs from the website number",
+      "Heavy Google Ads presence (29 ads incl. video)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://patriotrestorationtn.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://patriotrestorationtn.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://patriotrestorationtn.com/contact/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Patriot+Restoration+Knoxville+TN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=patriotrestorationtn.com"
+      }
+    ],
+    "notes": "Not to be confused with other 'Patriot Restoration' companies elsewhere; this is the Knoxville one (2804 Sutherland Ave). afterHoursGap null: no limited office hours published, and the site claims live 24/7 answering. Financing not mentioned. Also does commercial losses. Verified 2026-09-25."
+  },
+  {
+    "company": "Aspen Electrical Services, LLC",
+    "website": "https://www.aspenelectricalservices.com",
+    "vertical": "electrical",
+    "city": "Tulsa",
+    "region": "OK",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google); website advertises 24/7 emergency services. No office hours published",
+    "hoursSource": "Google Maps business profile; official website",
+    "phone": "(918) 277-9119",
+    "phoneSource": "Official website header ('Call Us NOW - 918-277-9119'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 427,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain aspenelectricalservices.com): 19 ads, advertiser 'ASPEN ELECTRICAL SERVICES, L.L.C.' (verified). Recency not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: 'Family Owned & Operated'; Jeremy Parchman, a licensed electrician, founded Aspen in 2007 'with little more than a pickup truck' and oversees the team. Home page: 'Each call is answered by someone who appreciates you choosing a locally owned business.'",
+    "franchise": false,
+    "employeesEstimate": "20+ (About page: 'a team of over 20 full-time electricians')",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "Simple site with contact form and call CTA; no chat, booking, Podium/Birdeye or similar widget found in page source. No owner replies seen on the most recent Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jeremy Parchman",
+    "dmTitle": "Founder (licensed electrician)",
+    "dmSource": "https://www.aspenelectricalservices.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 20+ electricians in the field and a promise of 24/7 emergency service, who answers (918) 277-9119 when a panel sparks on a Sunday night?",
+    "hooks": [
+      "Founded in 2007 by Jeremy Parchman with 'little more than a pickup truck'",
+      "Now 20+ full-time electricians; family owned and operated",
+      "4.8 stars on 427 Google reviews",
+      "Runs Google Ads (19 ads) and advertises 24/7 emergency service",
+      "2026 promo: 10% off for seniors, first responders, teachers and others"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.aspenelectricalservices.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.aspenelectricalservices.com/about"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Aspen+Electrical+Services+LLC+Tulsa"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=aspenelectricalservices.com"
+      }
+    ],
+    "notes": "Does commercial, residential and solar work. Financing not mentioned. afterHoursGap null: no office hours published to compare against the 24/7 claim. freeEstimate based on 'free project consultation' and 'free estimates' on the contact page. Verified 2026-09-25."
+  },
+  {
+    "company": "Redland Electric LLC",
+    "website": "https://www.redlandelectric.com",
+    "vertical": "electrical",
+    "city": "Duncan (Greenville–Spartanburg, Upstate SC)",
+    "region": "SC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google Business Profile); website publishes no hours",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(864) 909-4441",
+    "phoneSource": "Official website (header/footer); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 253,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain redlandelectric.com): 1 ad, advertiser 'Redland Electric LLC' (verified). Light spend; recency not checked.",
+    "emergency247": null,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'locally owned and operated'; 'A message from the owner' signed David Tkach, Founder, Owner and Master Electrician; he completed a 5-year union apprenticeship before founding Redland.",
+    "franchise": false,
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Squarespace site with 'Schedule Appointment' form; Google profile shows a 'Book online' button. No chat, Podium/Birdeye or similar widget in page scripts. Owner replies to nearly every Google review.",
+    "sophisticatedContactCenter": false,
+    "dmName": "David Tkach",
+    "dmTitle": "Founder, Owner and Master Electrician",
+    "dmSource": "https://www.redlandelectric.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google lists Redland as open 24 hours and the site has an emergency electrician page; when David is on a job, who answers (864) 909-4441?",
+    "hooks": [
+      "Founded by master electrician David Tkach after a 5-year union apprenticeship",
+      "5.0 stars on 253 Google reviews; owner replies to nearly all",
+      "Serves Greenville, Spartanburg, Greer, Simpsonville and Anderson",
+      "Google profile shows Open 24 hours and a Book online button",
+      "Has an Emergency Electrician service page"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.redlandelectric.com/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Redland+Electric+LLC+Greenville+SC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=redlandelectric.com"
+      }
+    ],
+    "notes": "Address is 199 Thackston Rd, Duncan SC (between Greenville and Spartanburg). emergency247 null: site lists emergency electrician service but does not say 24/7; Google shows Open 24 hours. Financing not mentioned. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "SC Heating And Air",
+    "website": "https://scheatingandair.com",
+    "vertical": "hvac",
+    "city": "Columbia",
+    "region": "SC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google Business Profile); website offers emergency HVAC repair but publishes no hours",
+    "hoursSource": "Google Maps business profile",
+    "phone": "(803) 309-8475",
+    "phoneSource": "Official website header ('Call For Heating And Air Service! (803) 309-8475'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 123,
+    "latestReviewAge": "2 months ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain scheatingandair.com): 0 ads, 'No ads found'.",
+    "emergency247": null,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": null,
+    "ownershipNote": "Website header and copy brand the business around Sam Cassell ('Sam Cassell Heating & Air In The Midlands'; 'Sam Cassell can install a new AC unit or fix and repair your current one'). The site does not state an ownership title or founding year.",
+    "franchise": false,
+    "employeesEstimate": "unknown; appears small (single named technician-proprietor), no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Simple brochure site with a contact form and 'FREE Estimate' CTA; no chat, booking, Podium/Birdeye or similar widget in page source. Owner replies to recent Google reviews by name.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Sam Cassell",
+    "dmTitle": "Named proprietor/technician on website (title not stated)",
+    "dmSource": "https://scheatingandair.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google shows you open 24 hours and the site promises emergency AC and heat repair; when Sam is on a job in Irmo or Chapin, who answers (803) 309-8475?",
+    "hooks": [
+      "Site is built around Sam Cassell personally: 'Sam Cassell can install a new AC unit'",
+      "4.8 stars on 123 Google reviews; owner thanks reviewers by name",
+      "Serves Columbia, Irmo and Chapin; also installs home generators",
+      "No Google Ads running and no online booking or chat",
+      "Google profile lists Open 24 hours"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://scheatingandair.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://scheatingandair.com/contact"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/SC+Heating+And+Air+Columbia+SC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=scheatingandair.com"
+      }
+    ],
+    "notes": "locallyOwned null: very likely local (single named proprietor, 713 Tower Ln, Columbia) but the site does not say 'locally owned'. Sam Cassell's title is not stated anywhere checked; BBB and SC license lookup not done. emergency247 null: site offers emergency repair but does not say 24/7. Financing mentioned once in passing only. Verified 2026-09-25."
+  },
+  {
+    "company": "Shifflett Roofing, Inc. (Shifflett Roofing and Exteriors)",
+    "website": "https://www.shifflettroofing.com",
+    "vertical": "roofing",
+    "city": "New Orleans",
+    "region": "LA",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Sat 8:30am–7pm, Sun closed (Google); website header says '24-Hours: (504) 329-5665' and 'on-call 24-hours a day'",
+    "hoursSource": "Google Maps business profile; official website",
+    "phone": "(504) 329-5665",
+    "phoneSource": "Official website header ('24-Hours: (504) 329-5665'); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 259,
+    "latestReviewAge": "3 weeks ago (newest among the 'most relevant' reviews shown)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain shifflettroofing.com): 9 ads, advertiser 'Timothy Shifflett' (verified). Recency not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Locally Owned and Operated' roofing, siding and gutter experts 'Since 1999'. The About page title reads 'Tim Shifflett' and the Google Ads account is verified as 'Timothy Shifflett'.",
+    "franchise": false,
+    "employeesEstimate": "unknown; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with 'Free Quote' form; no chat, booking, Podium/Birdeye or similar widget found in page source. No owner replies seen on the latest Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Tim (Timothy) Shifflett",
+    "dmTitle": "Principal; likely owner (name on About page title and verified Google Ads account)",
+    "dmSource": "https://www.shifflettroofing.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site advertises a 24-hour line and 24-hour emergency support, while Google shows you closed Sundays and after 7pm; who picks up (504) 329-5665 when a storm opens a roof on a Saturday night?",
+    "hooks": [
+      "Locally owned New Orleans roofer since 1999",
+      "Website header: '24-Hours: (504) 329-5665'; Google hours Mon–Sat 8:30–7",
+      "4.9 stars on 259 Google reviews",
+      "Runs Google Ads under Timothy Shifflett's name (9 ads)",
+      "Does FORTIFIED roofs, insurance claims, financing and free quotes"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.shifflettroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.shifflettroofing.com/about-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Shifflett+Roofing+New+Orleans"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=shifflettroofing.com"
+      }
+    ],
+    "notes": "Tim Shifflett's exact title is not stated on the site; ownership inferred from the About page title and the ads account name, so confirm on the call. Google address is 201 St Charles Ave (downtown office building), possibly a mailing/office address. Employee count unknown. Verified 2026-09-25."
+  }
+]
