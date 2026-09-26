@@ -7,7 +7,7 @@ import type { Store } from '../lib/store'
 import { addBusinessDays, cadenceFollowUp, localTime, relDay, tzShort } from '../lib/time'
 import { attempts } from '../lib/script'
 import { VERTICALS } from '../lib/verticals'
-import { Button, cx, Pill, PRIORITY_TONE, ScoreRing, STATUS_META, StatusPill, WindowDot } from './ui'
+import { Button, cx, LinkedInPill, Pill, PRIORITY_TONE, ScoreRing, STATUS_META, StatusPill, WindowDot } from './ui'
 import { EditableText, TriToggle } from './Editable'
 import { ScriptView } from './ScriptView'
 
@@ -63,6 +63,12 @@ export function LeadPanel({ lead: l, score, store, now, onClose, onNext }: { lea
           <a href={l.website} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1.5 rounded-lg border border-line px-2.5 py-1.5 text-[13px] text-ink-2 hover:text-ink">
             <Globe size={14} /> Website
           </a>
+          {l.linkedin?.url && (
+            <a href={l.linkedin.url} target="_blank" rel="noreferrer" title={l.linkedin.note}
+              className="inline-flex items-center gap-1.5 rounded-lg border border-line px-2.5 py-1.5 text-[13px] text-ink-2 hover:text-ink">
+              <LinkedInPill li={l.linkedin} /> {l.linkedin.status === 'sent' || l.linkedin.status === 'connected' ? '' : 'LinkedIn'}
+            </a>
+          )}
           <div className="ml-auto text-right text-[12px] leading-snug text-ink-3">
             <div>{l.phoneSource ?? 'Phone source not recorded'}</div>
             {l.directLine && <div className="text-ink-2">Direct: <span className="tnum font-medium">{l.directLine}</span> ({l.directLineSource})</div>}
@@ -251,6 +257,20 @@ function Research({ lead: l, score, patch, onDelete }: { lead: Lead; score: Scor
           ['Source', <EditableText value={l.dmSource} onSave={v => patch({ dmSource: v })} />],
           ['Direct line', <EditableText value={l.directLine} onSave={v => patch({ directLine: v })} mono placeholder="Only if the company publishes it" />],
           ['Direct line source', <EditableText value={l.directLineSource} onSave={v => patch({ directLineSource: v })} />],
+          ['LinkedIn', (
+            <div className="flex items-center gap-2 py-0.5 text-[13px]">
+              <select value={l.linkedin?.status ?? ''} onChange={e => patch({ linkedin: e.target.value ? { url: l.linkedin?.url ?? null, at: new Date().toISOString(), note: l.linkedin?.note, status: e.target.value as NonNullable<Lead['linkedin']>['status'] } : undefined })}
+                className="-mx-1.5 cursor-pointer rounded-md bg-transparent px-1 py-0.5 outline-none hover:bg-line-2">
+                <option value="">Not looked up</option>
+                <option value="sent">Invite sent</option>
+                <option value="connected">Connected</option>
+                <option value="not-found">No confident match</option>
+                <option value="skipped">Skipped</option>
+              </select>
+              {l.linkedin?.at && <span className="text-[12px] text-ink-3">{new Date(l.linkedin.at).toLocaleDateString()}</span>}
+              {l.linkedin?.note && <span className="truncate text-[12px] text-ink-3" title={l.linkedin.note}>· {l.linkedin.note}</span>}
+            </div>
+          )],
         ]} />
       </Section>
 

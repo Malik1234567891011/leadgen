@@ -81,6 +81,16 @@ export interface Lead {
   canadaCallReady: boolean
   notes: string
   activity: Activity[]
+  /** LinkedIn outreach to the decision maker. Absent = not looked up yet. */
+  linkedin?: LinkedIn
+}
+
+export interface LinkedIn {
+  /** sent = invite sent · connected = accepted · not-found = no confident profile match · skipped = deliberately not sent */
+  status: 'sent' | 'connected' | 'not-found' | 'skipped'
+  url: string | null
+  at: string // ISO
+  note?: string
 }
 
 export interface Settings {

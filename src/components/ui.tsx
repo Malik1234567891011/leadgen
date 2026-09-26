@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react'
-import type { CallStatus } from '../lib/types'
+import type { CallStatus, LinkedIn } from '../lib/types'
 import type { Priority } from '../lib/score'
 import type { Window } from '../lib/time'
 
@@ -91,4 +91,18 @@ export function Button({ children, onClick, variant = 'ghost', className, title,
 
 export function Kbd({ children }: { children: ReactNode }) {
   return <kbd className="rounded border border-line bg-panel-2 px-1 font-mono text-[10.5px] text-ink-3">{children}</kbd>
+}
+
+/** Shows LinkedIn outreach state. Nothing until someone has actually been contacted. */
+export function LinkedInPill({ li, compact }: { li?: LinkedIn; compact?: boolean }) {
+  if (!li || li.status === 'not-found' || li.status === 'skipped') return null
+  const label = li.status === 'connected' ? 'Connected' : 'Invite sent'
+  return (
+    <span title={`LinkedIn: ${label.toLowerCase()} ${new Date(li.at).toLocaleDateString()}`}
+      className={cx('inline-flex items-center gap-1 whitespace-nowrap rounded-full px-1.5 py-0.5 text-[11px] font-semibold',
+        li.status === 'connected' ? 'bg-blue text-white' : 'bg-blue-soft text-blue')}>
+      <span className="rounded-[3px] bg-blue px-[3px] text-[9px] leading-[12px] font-bold text-white">in</span>
+      {!compact && label}
+    </span>
+  )
 }

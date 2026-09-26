@@ -3,7 +3,7 @@ import type { Lead } from '../lib/types'
 import type { Scored } from '../lib/score'
 import { localTime, relDay, isoDate } from '../lib/time'
 import { VERTICALS } from '../lib/verticals'
-import { cx, Pill, ScoreRing, StatusPill, WindowDot } from './ui'
+import { cx, LinkedInPill, Pill, ScoreRing, StatusPill, WindowDot } from './ui'
 import type { View } from '../App'
 
 interface Props {
@@ -62,6 +62,7 @@ export function LeadList({ rows, selected, onSelect, compact, now, view, loaded,
                       <WindowDot w={t.window} /> <span className="tnum">{t.label}</span>
                     </div>
                   </div>
+                  <LinkedInPill li={l.linkedin} compact />
                   {l.dnc ? <Pill tone="bad"><Ban size={11} /> DNC</Pill> : due ? <Pill tone="warn">Due</Pill> : <StatusPill status={l.status} />}
                 </div>
               ) : (
@@ -88,6 +89,7 @@ export function LeadList({ rows, selected, onSelect, compact, now, view, loaded,
                     {l.signals.afterHoursGap && <Pill tone="accent">After-hours gap</Pill>}
                     {l.signals.emergency247 && !l.signals.afterHoursGap && <Pill>24/7</Pill>}
                     {l.signals.reviewResponseComplaints && <Pill tone="warn">Callback complaints</Pill>}
+                    <LinkedInPill li={l.linkedin} />
                     {score.disqualifiers.slice(0, 1).map(d => <Pill key={d} tone="bad">{d}</Pill>)}
                   </div>
                   <div className="min-w-0 text-[12.5px]">
