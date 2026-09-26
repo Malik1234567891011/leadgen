@@ -89,6 +89,65 @@ const TRADE: Partial<Record<Vertical, TradeCopy>> = {
     timing: 'Busiest in the first cold snap of the year, when springs break. Call before or after it.',
     shoulder: 'the spring',
   },
+  // A-tier: less research behind these lines. Same structure, trade-specific picture.
+  septic: {
+    trade: 'septic',
+    pain: 'When a septic backs up into the house, nobody waits for a callback. They call whoever answers, and a pump-out can turn into a much bigger repair.',
+    question: co => `When somebody calls ${co} on a Saturday with sewage coming up in the basement, what happens?`,
+    shoulder: 'the winter',
+  },
+  tree: {
+    trade: 'tree service',
+    pain: 'After a storm, the phone blows up with trees on roofs and driveways, and the big removal jobs go to whoever gets back to people first.',
+    question: co => `When a storm comes through at night and a tree’s on somebody’s house, what happens when they call ${co}?`,
+    quoteDriven: true,
+    timing: 'Never call right after a big storm. They’re out cutting. Come back a week later.',
+    shoulder: 'the winter',
+  },
+  foundation: {
+    trade: 'foundation and waterproofing',
+    pain: 'These are big-ticket jobs, and homeowners usually get two or three inspections. Whoever gets back to them first and follows up tends to win it.',
+    question: co => `When an inspection request comes in to ${co} after hours or on a weekend, how fast does somebody usually get back to them?`,
+    quoteDriven: true,
+    timing: 'Heavy-rain weeks are their busy season. Call after the rain, not during it.',
+    shoulder: 'the summer',
+  },
+  pool: {
+    trade: 'pool',
+    pain: 'Pool leads come in heavy in the spring, and a lot of them are quote requests that sit, while the homeowner calls the next pool company.',
+    question: co => `When a quote request or a “pool’s green and the pump died” call comes in to ${co} after hours, what happens?`,
+    quoteDriven: true,
+    timing: 'Late fall and winter are when pool owners have time to talk. Avoid the April–June rush.',
+    shoulder: 'the fall',
+  },
+  pest: {
+    trade: 'pest control',
+    pain: 'Pest calls are high volume, and every new customer is usually a recurring plan. When someone finds termites or mice on a Sunday, they call until someone picks up.',
+    question: co => `When someone calls ${co} on a weekend because they just found termites, what happens?`,
+    shoulder: 'the winter',
+  },
+  'windows-doors': {
+    trade: 'window and door',
+    pain: 'These are big quotes, and homeowners usually get three of them. The company that gets back first and follows up usually wins it.',
+    question: co => `When a quote request comes in to ${co} in the evening, how fast does somebody usually get back to them?`,
+    quoteDriven: true,
+    shoulder: 'the winter',
+  },
+  remodeling: {
+    trade: 'remodeling',
+    pain: 'Kitchen and bath leads are big tickets, and people usually reach out to a few companies at night, after work. Whoever gets back to them first gets the consult.',
+    question: co => `When a homeowner reaches out to ${co} at 9 at night about a bathroom remodel, what happens?`,
+    quoteDriven: true,
+    shoulder: 'a few months',
+  },
+  movers: {
+    trade: 'moving',
+    pain: 'People shopping for movers call three or four companies in a row, and whoever answers and quotes first usually books it.',
+    question: co => `When somebody calls ${co} for a quote in the evening or on a Sunday, what happens?`,
+    quoteDriven: true,
+    timing: 'Summer is peak moving season. Fall and winter are easier to get the owner on the phone.',
+    shoulder: 'the fall',
+  },
 }
 
 function tradeCopy(v: Vertical): TradeCopy {
