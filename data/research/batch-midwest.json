@@ -1,0 +1,1123 @@
+[
+  {
+    "company": "Rozga Plumbing Corporation",
+    "website": "https://www.rozgacorp.com",
+    "vertical": "plumbing",
+    "city": "West Allis (Milwaukee metro)",
+    "region": "WI",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Thu 7am–5pm; Fri 7am–4:30pm; Sat–Sun closed (Google Business Profile). Website advertises 24/7 emergency service",
+    "hoursSource": "Google Business Profile hours table; official website header ('24/7 Emergency Service Available')",
+    "phone": "(414) 258-9911",
+    "phoneSource": "Official website header/tel link (414-258-9911); matches Google Business Profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 809,
+    "latestReviewAge": "a week ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 1 ad for rozgacorp.com (US, any time), advertiser 'Rozga Plumbing Corporation', verified. Small footprint.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: locally owned, 'home-grown, family-owned business' since 1981 (founded by Bill Rozga per search snippet); BBB lists Sam Gillis as Owner",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews name several techs plus a sewer manager; BBB lists owner, controller and general manager",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat/text/booking widget found in website HTML (grep clean); service request form; Hearth financing. Google Business Profile shows a 'Book online' button",
+    "sophisticatedContactCenter": false,
+    "dmName": "Sam Gillis",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/wi/west-allis/profile/plumber/rozga-plumbing-0694-1000028453",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 'when you call us, a real person answers' and 24/7 emergency service, but Google lists the office closed evenings and weekends; who is that real person at 11pm on a Saturday?",
+    "hooks": [
+      "Serving Milwaukee since 1981; BBB lists Sam Gillis as owner",
+      "4.8 stars on 809 Google reviews, newest a week ago, owner replies to reviews",
+      "Website: 'When you call us, a real person answers' plus 24/7 emergency service",
+      "Google hours Mon–Fri only, closed weekends",
+      "Covers Milwaukee and Waukesha counties, Mequon to Oak Creek; Hearth financing up to $250k"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.rozgacorp.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.rozgacorp.com/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/wi/west-allis/profile/plumber/rozga-plumbing-0694-1000028453"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Rozga+Plumbing+West+Allis"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=rozgacorp.com"
+      }
+    ],
+    "notes": "Review count (809) is just above the 75–800 ideal band. Employee count not published; band is an estimate. Owner name comes from BBB only (not on company site). freeEstimate null: not mentioned on pages read. onlineBooking=true only because Google Business Profile shows a 'Book online' button; no booking widget on the website. Complaint check covered the ~8 newest Google reviews (all 5 stars). BBB also lists Tammy Waltz (Controller) and Angie Nowack (General Manager). Verified 2026-09-25."
+  },
+  {
+    "company": "Norske Electric, Inc.",
+    "website": "https://norskeelectric.com",
+    "vertical": "electrical",
+    "city": "Hamel (Minneapolis–St. Paul metro)",
+    "region": "MN",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Website says 'Hours: Open 24/7'; Google Business Profile (Hamel) showed 'Closed · Opens 7 AM Mon' on a Friday evening, i.e. not staffed evenings/weekends",
+    "hoursSource": "Official website footer; Google Maps listing status line (full weekly table did not render)",
+    "phone": "(952) 443-4113",
+    "phoneSource": "Official website header ('Call Now: (952) 443-4113') and tel link; matches Google Business Profile (both Hamel and Savage listings) and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 804,
+    "latestReviewAge": "9 hours ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 25 ads for norskeelectric.com (US, any time); advertiser shown is 'The Star Tribune Media Co., LLC' (verified), i.e. ads are bought through the Star Tribune's agency arm rather than a Norske account",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: founded by local electricians, serving the Twin Cities 20+ years; BBB lists Brevik Tharaldson as Owner (business started 2008). Not described as family owned",
+    "franchise": false,
+    "employeesEstimate": "unknown; newest reviews name at least 4 different electricians (Mason, Brett, Andrew, etc.) and there are two offices",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "No chat/text/booking widget in website HTML (grep clean); 'Get A Quote' form; Google Business Profile shows a 'Book online' button; a Birdeye review page exists for the business",
+    "sophisticatedContactCenter": false,
+    "dmName": "Brevik Tharaldson",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/mn/hamel/profile/electrician/norske-electric-inc-0704-96176055",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The website says 'Open 24/7' and runs 25+ Google ads through the Star Tribune, but the Google listing shows the office closed until Monday; who answers an emergency panel call on a Saturday night?",
+    "hooks": [
+      "5.0 stars on 804 Google reviews, several in the last day",
+      "Two offices: Hamel (main) and Savage (south metro, 65 reviews)",
+      "Website footer: 'Hours: Open 24/7'; Google listing: closed until 7am Monday",
+      "25 Google ads in the Transparency Center, bought via The Star Tribune Media Co.",
+      "BBB lists owner Brevik Tharaldson; A+ rated, accredited since 2014"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://norskeelectric.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://norskeelectric.com/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mn/hamel/profile/electrician/norske-electric-inc-0704-96176055"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Norske+Electric+Hamel+MN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=norskeelectric.com"
+      }
+    ],
+    "notes": "Review count 804 is right at the top of the ideal band. The weekly Google hours table would not render; the gap is inferred from 'Closed · Opens 7 AM Mon' seen Friday evening, so exact weekday hours are unknown. Owner name from BBB (and a search snippet quoting the site), not verified on a page I fetched directly. Financing not mentioned on pages read. Mixed residential/commercial. onlineBooking=true only because Google shows a 'Book online' button. Verified 2026-09-25."
+  },
+  {
+    "company": "Galmiche & Sons Heating & Cooling",
+    "website": "https://www.galmicheandsons.com",
+    "vertical": "hvac",
+    "city": "St. Louis (Maryland Heights)",
+    "region": "MO",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 7am–4:30pm; Sat 7am–11am; Sun closed. Contact page adds 'we are available 24 hours for your emergency heating & air conditioning needs'",
+    "hoursSource": "Official website contact page; Google Business Profile hours table identical",
+    "phone": "(314) 993-1110",
+    "phoneSource": "Official website header and contact page (314-993-1110); matches Google Business Profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.5,
+    "googleReviews": 272,
+    "latestReviewAge": "3 days ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for galmicheandsons.com (US, any time).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family owned since 1950, founded by John 'Jack' Galmiche; son Jeffery V. Galmiche is President and CEO and the third generation now works in the business (About page)",
+    "franchise": false,
+    "employeesEstimate": "36 (About page: 'derives its strength and competence from 36 skilled employees'; union workforce)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "No chat/text/booking widget in website HTML (grep clean); 'Request a Free Quote' and service-request forms; Lennox dealer",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jeffery V. Galmiche",
+    "dmTitle": "President and CEO",
+    "dmSource": "https://www.galmicheandsons.com/about-us.html",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Office hours end at 4:30pm weekdays and 11am Saturday while the contact page promises 24-hour emergency heating and cooling help; how do no-heat calls get answered on a January Saturday afternoon?",
+    "hooks": [
+      "Family owned since 1950; Jeffery Galmiche is President/CEO and the third generation is now in the business",
+      "36 union employees serving homes and businesses across greater St. Louis",
+      "Office hours Mon–Fri 7–4:30, Sat 7–11, but 24-hour emergency service promised",
+      "4.5 stars on 272 Google reviews, newest 3 days ago",
+      "No Google ads in the Transparency Center"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.galmicheandsons.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.galmicheandsons.com/about-us.html"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.galmicheandsons.com/contact-galmiche.php"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Galmiche+%26+Sons+Heating+Cooling+St+Louis"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=galmicheandsons.com"
+      }
+    ],
+    "notes": "Serves both residential and commercial (commercial HVAC page, apartment association and home builders association memberships), so residential share is unknown. Financing not mentioned on pages read. 4.5 rating is lower than most peers; I read only the 6 newest reviews (all 5 stars). Verified 2026-09-25."
+  },
+  {
+    "company": "The Cleaning Source, LLC",
+    "website": "https://www.thecleaningsourcein.com",
+    "vertical": "restoration",
+    "city": "Indianapolis",
+    "region": "IN",
+    "country": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "hours": "Open 24 hours, 7 days (Google Business Profile); website says 24/7, 365 days, 'owner answers'",
+    "hoursSource": "Google Business Profile hours table; official website About page",
+    "phone": "(317) 853-9363",
+    "phoneSource": "Official website header and every CTA ('CALL 24/7, OWNER ANSWERS 317-853-9363'); also on BBB. Google Business Profile shows a DIFFERENT number, (463) 219-1408 (likely a tracking number; the site loads a LeadConnector number-pool script)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 243,
+    "latestReviewAge": "2 days ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 1 ad for thecleaningsourcein.com (US, any time), advertiser 'The Dibraco Agency' (verified), i.e. an agency runs their ads",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: locally owned, established 2012, 'one locally-owned crew, an owner who answers the phone'; started in junk removal and grew into restoration. BBB lists Darius McFadden as President (LLC started 2013)",
+    "franchise": false,
+    "employeesEstimate": "small crew; site says 'small enough that everyone knows what they're doing'; no count published",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "GoHighLevel/LeadConnector scripts on site (user session + call-tracking number pool); 'Text' option on the contact page; contact form; Dibraco Agency manages ads. No booking widget seen",
+    "sophisticatedContactCenter": false,
+    "dmName": "Darius McFadden",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/in/indianapolis/profile/cleaning-services/the-cleaning-source-llc-0382-90024453",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The whole site is built on 'call 24/7, owner answers'; what happens to a flooded-basement call when Darius is already on a job site or asleep at 3am?",
+    "hooks": [
+      "Headline promise: 'CALL 24/7, OWNER ANSWERS'",
+      "4.9 stars on 243 Google reviews; reviews name Darius as first to respond",
+      "Offers in-house financing with no credit check for costs insurance won't cover",
+      "Also runs junk removal; serves a 40-mile radius from Fishers to Mooresville",
+      "Google listing number (463) 219-1408 differs from the website's 317-853-9363"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.thecleaningsourcein.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.thecleaningsourcein.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/in/indianapolis/profile/cleaning-services/the-cleaning-source-llc-0382-90024453"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/The+Cleaning+Source+Indianapolis+restoration"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=thecleaningsourcein.com"
+      }
+    ],
+    "notes": "afterHoursGap=false: they claim live 24/7 answering by the owner, so no gap is proven; the angle is owner burden. Owner name from BBB only; the website never names him (reviews mention a 'Darius/Darious'). A second domain, the-cleaning-source.com, also appears in search for 'The Cleaning Source, LLC' and was not reviewed. Newest reviews include one 3-star (a month ago) about furniture handling, not phones. BBB address is 8210 Castleway Ct W vs Google 8120. Verified 2026-09-25."
+  },
+  {
+    "company": "Fine Restoration LLC",
+    "website": "https://fine-restoration.com",
+    "vertical": "restoration",
+    "city": "Blue Springs (Kansas City metro)",
+    "region": "MO",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours, 7 days (both Google listings); website says 24/7/365",
+    "hoursSource": "Google Business Profile (Blue Springs and Lee's Summit listings); official website",
+    "phone": "(816) 307-3972",
+    "phoneSource": "Official website header/CTAs (Blue Springs main line); matches Google Business Profile and BBB. Lee's Summit branch line (816) 282-0587 is on the website footer and matches its own Google listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 238,
+    "latestReviewAge": "4 days ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 6 ads for fine-restoration.com (US, any time), advertiser 'Maoz Fine', verified (owner runs the account in his own name)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'local, family-owned, full-service' restoration company; BBB lists Aviel Fine and Maoz Fine as owners (business started 2017). Team page also names Jason Erps as owner of the Lee's Summit location",
+    "franchise": false,
+    "employeesEstimate": "~8–12 (team page lists 8 people: 2 owners, managers, technicians, office manager)",
+    "employeeBand": "5-15",
+    "locations": 2,
+    "existingTools": "No chat/text/booking widget in website HTML (grep clean); phone-first site; owner replies to nearly every Google review",
+    "sophisticatedContactCenter": false,
+    "dmName": "Maoz Fine",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/mo/blue-springs/profile/water-damage-restoration/fine-restoration-0714-1000019960",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises a restoration expert dispatched 'within the hour', 24/7, from an 8-person team; who picks up the 2am burst-pipe call from the Google ads Maoz runs himself?",
+    "hooks": [
+      "Family-owned, two KC locations: Blue Springs (238 reviews, 4.8) and Lee's Summit (22 reviews)",
+      "Promises dispatch 'within the hour', 24/7/365",
+      "Owner Maoz Fine runs their Google ads account himself (6 ads)",
+      "Owners reply to almost every Google review",
+      "Free on-site estimate, no cancellation fee"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://fine-restoration.com/"
+      },
+      {
+        "label": "Team page",
+        "url": "https://fine-restoration.com/our-team/"
+      },
+      {
+        "label": "About page",
+        "url": "https://fine-restoration.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mo/blue-springs/profile/water-damage-restoration/fine-restoration-0714-1000019960"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Fine+Restoration+Blue+Springs+MO"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=fine-restoration.com"
+      }
+    ],
+    "notes": "afterHoursGap=false: claims 24/7 and Google shows open 24 hours; no staffed-hours gap proven. The angle is a small team covering 24/7 dispatch. The Lee's Summit location lists a separate owner (Jason Erps) on the team page; the relationship (partner vs licensee) is unclear, so buying authority may be split. 'Family-owned' is stated but the specific family relationship is not described. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Millard Roofing & Gutter",
+    "website": "https://millardroofing.net",
+    "vertical": "roofing",
+    "city": "Omaha",
+    "region": "NE",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 9am–5pm; Sat–Sun closed",
+    "hoursSource": "Official website contact block ('Business Hours Monday - Friday: 9:00am - 5:00pm'); Google Business Profile identical",
+    "phone": "(402) 492-9494",
+    "phoneSource": "Official website header and contact block; matches Google Business Profile and BBB. (402) 965-8001 on the site is the fax",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.5,
+    "googleReviews": 192,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": false,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for millardroofing.net (US, any time).",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Of course, I got ghosted by Jim Eggers. (Google review, ~4 months ago, 1 star)",
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'local, family-owned BBB A+ rated' Omaha contractor that 'started as a small, family-owned business' in 2001 (BBB gives 1994 as start date). Owner not named on site",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews name Justin, Cole, Kim, Jamie; BBB lists a VP/GM and an office manager; a data-broker revenue estimate was ignored",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "No chat/text/booking widget in website HTML (grep clean); 'Request Free Inspection' multi-step form; customer portal link",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jim Eggers",
+    "dmTitle": "Vice-President / General Manager",
+    "dmSource": "https://www.bbb.org/us/ne/omaha/profile/roofing-contractors/millard-roofing-gutter-0714-300020997",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Omaha hail storms hit in the evening and on weekends, but the office is staffed Mon–Fri 9–5 only; where do storm-damage inspection calls go on a Saturday after a hailstorm?",
+    "hooks": [
+      "Family-owned Omaha roofer since 2001; took an insurance dispute to the Nebraska Supreme Court in 2010",
+      "4.5 stars on 192 Google reviews",
+      "Office hours Mon–Fri 9–5, closed weekends",
+      "No Google ads running; relies on referrals and organic search",
+      "Roofing, siding, windows, doors and gutters; free roof inspections"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://millardroofing.net/"
+      },
+      {
+        "label": "About page",
+        "url": "https://millardroofing.net/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ne/omaha/profile/roofing-contractors/millard-roofing-gutter-0714-300020997"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Millard+Roofing+Omaha"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=millardroofing.net"
+      }
+    ],
+    "notes": "Owner is not named anywhere I checked; Jim Eggers (VP/GM per BBB) is the best available decision maker. Founding year conflicts: website says 2001, BBB says 1994. Review velocity is low (newest ~2 months), so recentReviews=false. Of the 6 newest reviews, one 2-star (siding subcontracted) and one 1-star (says the VP/GM stopped responding). Not advertised as 24/7, so afterHoursGap=false. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Cedar Septic and Sewer LLC",
+    "website": "https://www.cedarsepticandsewer.com",
+    "vertical": "septic",
+    "city": "Oak Grove (Twin Cities north metro)",
+    "region": "MN",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Google Business Profile: open 24 hours Mon–Sat, Sunday closed; website says 'We are available 24/7' for septic emergencies",
+    "hoursSource": "Google Business Profile hours table; official website contact block",
+    "phone": "(763) 218-1397",
+    "phoneSource": "Official website header and contact block (tel link); matches Google Business Profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 506,
+    "latestReviewAge": "a day ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 24 ads for cedarsepticandsewer.com (US, any time), advertiser 'Benjamin Mackedanz', verified (owner's own account)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'local, family owned and operated business... currently operating out of our home in Oak Grove'; Owner and Technician Ben Mackedanz, 15+ years' experience, MPCA License #4150",
+    "franchise": false,
+    "employeesEstimate": "~5–10; reviews name Ben, Donna (office/phone), Nick and Tony (techs)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Website offers 'call, text or book online'; online booking is a request form confirmed by callback; site hosted on a BunnyCDN custom build with embedded Google reviews; no third-party chat/booking widget (Podium, Jobber, Housecall etc.) detected",
+    "sophisticatedContactCenter": false,
+    "dmName": "Ben Mackedanz",
+    "dmTitle": "Owner and Technician",
+    "dmSource": "https://www.cedarsepticandsewer.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Ben is both the owner and a working technician, runs 24 Google ads himself and promises 24/7 septic emergency help; when Donna is off and Ben is under a tank, who answers a Sunday backup call (Google lists Sunday as closed)?",
+    "hooks": [
+      "Family owned, run out of the owner's home in Oak Grove; Ben Mackedanz is owner and technician",
+      "4.9 stars on 506 Google reviews, several in the last few days",
+      "Ben runs 24 Google ads under his own name",
+      "Website: 'available 24/7' but Google lists Sunday as closed",
+      "Also does sewer, drain cleaning, camera inspection and porta-potty rentals across Anoka County"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.cedarsepticandsewer.com/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Cedar+Septic+and+Sewer+Oak+Grove+MN"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=cedarsepticandsewer.com"
+      }
+    ],
+    "notes": "A-tier vertical (septic). afterHoursGap=null: Google shows 'Open 24 hours' Mon–Sat, so the only visible gap is Sunday, and whether calls are answered live is unknown. Already offers text and an online booking request form, which weakens the pure 'missed call' angle. Reviews name 'Donna' as the first phone contact. freeEstimate/financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "B & A Plumbing, Inc.",
+    "website": "https://baplumbing.com",
+    "vertical": "plumbing",
+    "city": "Schaumburg (Chicago NW suburbs)",
+    "region": "IL",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Office Mon–Fri 8am–4:30pm; Sat–Sun closed. Website: 'Emergency Service: 24/7/365'",
+    "hoursSource": "Official website header and contact block; Google Business Profile hours table identical",
+    "phone": "(847) 985-2444",
+    "phoneSource": "Official website header ('24/7 Emergency: (847) 985-2444') and tel links; matches Google Business Profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 108,
+    "latestReviewAge": "6 days ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for baplumbing.com (US, any time).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family owned and operated since 1978... Not a franchise. Not a corporate chain.' BBB lists Michael Culos as President and Bob Lewis as Vice President",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews repeatedly name one tech (Ian); also does commercial, industrial and municipal sewer/water main work, suggesting a crew beyond a handful",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "No chat/text/booking widget in website HTML (grep clean); 'Schedule Service' is a request form ('we will follow up to confirm'); downloadable PDF coupon",
+    "sophisticatedContactCenter": false,
+    "dmName": "Michael Culos",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/il/schaumburg/profile/air-conditioning-contractor/b-a-plumbing-inc-0654-88071103",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site headline pairs 'Office: Mon–Fri 8AM–4:30PM' with '24/7 Emergency' on the same number; who answers (847) 985-2444 for a burst pipe at 9pm or on a Sunday?",
+    "hooks": [
+      "Family owned since 1978, 'not a franchise, not a corporate chain'",
+      "Office Mon–Fri 8–4:30 but 24/7/365 emergency service on the same line",
+      "4.8 stars on 108 Google reviews, newest 6 days ago",
+      "Serves Cook, DuPage, Kane and Lake counties; residential plus commercial/municipal sewer work",
+      "Runs no Google ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://baplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://baplumbing.com/about.html"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/il/schaumburg/profile/air-conditioning-contractor/b-a-plumbing-inc-0654-88071103"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/B%26A+Plumbing+619+Estes+Ave+Schaumburg"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=baplumbing.com"
+      }
+    ],
+    "notes": "President name from BBB only; the site does not name the owning family, so how Michael Culos relates to the 1978 founders is unknown. BBB gives 2006 as the business start date (probable re-incorporation) and a B- rating with 1 complaint in 3 years. Among the 6 newest Google reviews: one 2-star about price ($190/hr) and one 1-star (2 weeks ago) about a leaking toilet whose full text I did not read; neither visibly mentions phones. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Balkan Door Company LLC",
+    "website": "https://www.balkandoorco.com",
+    "vertical": "garage-doors",
+    "city": "St. Francis (Milwaukee metro)",
+    "region": "WI",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed (Google Business Profile). Website headline: 'Milwaukee & SE Wisconsin's Premier 24/7 Garage Door Experts' with 24/7 emergency service",
+    "hoursSource": "Google Business Profile hours table; official website home page",
+    "phone": "(414) 336-4491",
+    "phoneSource": "Official website header and tel links; matches Google Business Profile. Site loads a CallRail swap script, so some visitors may see a tracking number",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 483,
+    "latestReviewAge": "a day ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for balkandoorco.com (US, any time).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'family-owned and operated garage door repair and service company' serving Milwaukee and SE Wisconsin; testimonials on the company site refer to 'Arnold (the Owner)' who also does installs",
+    "franchise": false,
+    "employeesEstimate": "small; reviews name Arnold (owner, installs), Cameron and Ryan (~3–8)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "CallRail call tracking (swap.js); 'Schedule' page is a web form, not live booking; financing page; no chat/text widget found in HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Arnold",
+    "dmTitle": "Owner (first name only; also installs doors)",
+    "dmSource": "https://www.balkandoorco.com/reviews",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site bills Balkan as Milwaukee's '24/7 Garage Door Experts' while Google shows Mon–Fri 8–5 and the owner is out installing doors himself; who takes a broken-spring call on a Saturday morning?",
+    "hooks": [
+      "Perfect 5.0 stars on 483 Google reviews, newest a day ago",
+      "Website: 'Premier 24/7 Garage Door Experts'; Google hours Mon–Fri 8–5, closed weekends",
+      "Owner Arnold does installs himself, per testimonials on their site",
+      "Covers Milwaukee to Kenosha, Waukesha, Oconomowoc and Mequon; offers financing",
+      "Runs no Google ads; growth is reviews and referrals"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.balkandoorco.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.balkandoorco.com/about-us/"
+      },
+      {
+        "label": "Reviews page",
+        "url": "https://www.balkandoorco.com/reviews"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Balkan+Door+Company+LLC+1650+E+Bolivar+Ave+Milwaukee"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=balkandoorco.com"
+      }
+    ],
+    "notes": "Owner's surname not found on any allowed source (no BBB profile found; site names him only as 'Arnold'). A Facebook snippet showed an unrelated 'Israel Trivino, President' with an Ontario PO box, apparently a comment or ad on their page, not verified and ignored. freeEstimate null (not stated). No owner replies seen on the newest Google reviews. Serves commercial doors too. Verified 2026-09-25."
+  },
+  {
+    "company": "F2 Garage Door Solutions, LLC",
+    "website": "https://f2company.com",
+    "vertical": "garage-doors",
+    "city": "St. Louis (Lemay)",
+    "region": "MO",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours, 7 days (Google Business Profile); website header: 'Same Day and 24x7 Garage Door Emergency Service'. No office hours published",
+    "hoursSource": "Google Business Profile hours table; official website header",
+    "phone": "(314) 749-1609",
+    "phoneSource": "Official website header, contact page and footer; matches Google Business Profile and BBB. Website also lists (314) 296-3473 as 'Main Office/Fax'",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 241,
+    "latestReviewAge": "2 weeks ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for f2company.com (US, any time).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family owned since 2006'; showroom at 1001 Lemay Ferry Rd; BBB confirms LLC started Nov 2006. Reviews refer to 'Frank and his staff'",
+    "franchise": false,
+    "employeesEstimate": "~5–10; reviews name Frank, Michelle (office/pricing), Jackson and Hollis (installers)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Simple static site with a contact form; no chat/text/booking widget or call tracking found in HTML; owner replies to most Google reviews",
+    "sophisticatedContactCenter": false,
+    "dmName": null,
+    "dmTitle": null,
+    "dmSource": null,
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With a showroom, an office line and a separate 24x7 emergency line all handled by a small family crew, who actually answers (314) 749-1609 when a door is stuck open at midnight?",
+    "hooks": [
+      "Family owned since 2006 with a showroom on Lemay Ferry Rd",
+      "Perfect 5.0 stars on 241 Google reviews; owner replies to reviews",
+      "Header promises 'Same Day and 24x7 Garage Door Emergency Service'",
+      "Reviews praise how fast they respond; 'Frank and his staff' named repeatedly",
+      "Member of Affton, Lemay and Fenton chambers; no Google ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://f2company.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://f2company.com/contact.html"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mo/saint-louis/profile/garage-doors/f2-garage-door-solutions-llc-0734-310356449"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/F2+Garage+Door+Solutions+1001+Lemay+Ferry+Rd"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=f2company.com"
+      }
+    ],
+    "notes": "Decision maker unknown: BBB lists no principal and the site names no owner. Customer reviews say 'Frank and his staff', so the owner is probably a Frank, but that is not confirmed by an allowed source, so dmName is null. afterHoursGap null: Google shows open 24 hours and no staffed hours are published. Financing not mentioned. BBB address (4940 Seibert Ave) differs from the showroom address. Verified 2026-09-25."
+  },
+  {
+    "company": "Leitner Electric Company, Inc.",
+    "website": "https://www.leitnerelectric.com",
+    "vertical": "electrical",
+    "city": "Blue Ash (Cincinnati)",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 7:30am–4pm; Sat–Sun closed. Website: 'After-hours emergency services are available until 10:00 pm', plus weekend emergency service",
+    "hoursSource": "Official website footer/contact block; Google Business Profile status 'Closed · Opens 7:30 AM Mon' (consistent)",
+    "phone": "(513) 351-9024",
+    "phoneSource": "Official website header ('Call or Text (513) 351-9024') and tel links; matches Google Business Profile and BBB. Northern Kentucky line (859) 282-9024 also on site",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 129,
+    "latestReviewAge": "6 days ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for leitnerelectric.com (US, any time).",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'family-owned and -operated business... serving Greater Cincinnati and Northern Kentucky since 1978'; BBB lists Mr. Perry Leitner as Owner (founded 1978); site notes Perry Leitner is NABCEP solar certified",
+    "franchise": false,
+    "employeesEstimate": "small; BBB says 2 employees (likely outdated); reviews name Perry, Jim and Connor; team page shows 3 'Bio Coming Soon' placeholders",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Hibu-built site (Duda platform, Yext listings) with a chat script in the page source and a 'Call or Text' number; request-service form; no booking widget",
+    "sophisticatedContactCenter": false,
+    "dmName": "Perry Leitner",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/oh/blue-ash/profile/electrician/leitner-electric-company-inc-0292-4160",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 4pm, but the site offers after-hours emergency service until 10pm and on weekends; with a crew this small, is Perry taking those evening outage calls himself?",
+    "hooks": [
+      "Family owned since 1978; Perry Leitner is owner (NABCEP-certified for solar)",
+      "Office Mon–Fri 7:30–4, emergency service until 10pm and on weekends",
+      "4.9 stars on 129 Google reviews; a recent review says the customer called Perry directly after a power line came down",
+      "Serves Greater Cincinnati and Northern Kentucky (separate 859 line)",
+      "Generac/GE generator dealer; no Google ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.leitnerelectric.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.leitnerelectric.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/oh/blue-ash/profile/electrician/leitner-electric-company-inc-0292-4160"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Leitner+Electric+Co+11260+Cornell+Park+Dr"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=leitnerelectric.com"
+      }
+    ],
+    "notes": "emergency247=false: after-hours service is advertised only until 10pm, plus weekends, not 24/7. The chat script in the page source is from the Hibu template; I could not confirm a live chat widget renders. Full weekly Google hours table did not render; the status line matches the website hours. Residential plus commercial (data wiring, fiber). freeEstimate and financing not stated. Verified 2026-09-25."
+  },
+  {
+    "company": "Turk Heating & Cooling, Inc.",
+    "website": "https://www.turkheating.com",
+    "vertical": "hvac",
+    "city": "Indianapolis (Franklin Township)",
+    "region": "IN",
+    "country": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "hours": "Mon–Fri 8am–6pm plus '24/7 Emergency Service' (website); Google Business Profile lists 'Open 24 hours'",
+    "hoursSource": "Official website hours block; Google Business Profile hours table",
+    "phone": "(317) 862-0001",
+    "phoneSource": "Official website header and tel links; matches Google Business Profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 300,
+    "latestReviewAge": "3 days ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for turkheating.com (US, any time).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Team page names Mark and Brenda Turk as owners; BBB lists Mark Turk (President) and Brenda Turk (Vice President), business started 2002. Reviewers describe it as local and family-run",
+    "franchise": false,
+    "employeesEstimate": "unknown; team page shows a technician group photo without names; reviews name several techs (e.g. Matt Moy)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Trane dealer template website (sos-apps platform); financing with approved credit; no chat/text/booking widget found in HTML; owner replies to most Google reviews",
+    "sophisticatedContactCenter": false,
+    "dmName": "Mark Turk",
+    "dmTitle": "Owner / President (co-owner with Brenda Turk)",
+    "dmSource": "https://www.turkheating.com/about/our-team/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Office hours are Mon–Fri 8–6, yet both the website and Google promise 24/7 emergency service; when a furnace quits at 2am in January, does the call reach a person or Mark's cell?",
+    "hooks": [
+      "Husband-and-wife owned: Mark and Brenda Turk (since 2002)",
+      "4.9 stars on 300 Google reviews, newest 3 days ago; they reply to reviews",
+      "Office Mon–Fri 8–6 but 24/7 emergency service on the same number",
+      "Trane dealer, all techs NATE certified, financing available",
+      "No Google ads; growth is reviews and referrals"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.turkheating.com/"
+      },
+      {
+        "label": "Team page",
+        "url": "https://www.turkheating.com/about/our-team/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/in/indianapolis/profile/heating-and-air-conditioning/turk-heating-cooling-inc-0382-32003229"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Turk+Heating+%26+Cooling+3440+S+Post+Rd+Indianapolis"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=turkheating.com"
+      }
+    ],
+    "notes": "afterHoursGap=true on the same basis as the Malco seed: website publishes limited staffed hours while Google and the site claim 24/7. The website does not itself say 'family owned'; ownership by the Turk couple comes from the team page and BBB. Employee count unknown. freeEstimate not stated. Verified 2026-09-25."
+  },
+  {
+    "company": "Priority Tree, LLC",
+    "website": "https://www.priority-tree.com",
+    "vertical": "tree",
+    "city": "Milford (Cincinnati metro)",
+    "region": "OH",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed; website footer adds '24/7 Emergency Service' and says customers can 'text after hours'",
+    "hoursSource": "Official website footer and process section; Google Business Profile hours table identical (8–5 weekdays, closed weekends)",
+    "phone": "(513) 872-8733",
+    "phoneSource": "Official website header, CTAs and footer (513-872-8733); matches Google Business Profile. Site schema also lists a Knoxville, TN line (865) 409-8733 for a second location",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 71,
+    "latestReviewAge": "a month ago",
+    "recentReviews": false,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 9 ads for priority-tree.com (US, any time), advertisers 'Priority Tree, LLC' (verified) and a second verified account in the owner's personal name",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "About page: locally owned, incorporated in 2015 by ISA Certified Arborist Andrew Wilson, Jr. (OH-7178A), who still works the hardest jobs himself; grew from 'one climber' to a full team",
+    "franchise": false,
+    "employeesEstimate": "unknown; 'a full team' with crane-capable rigging, spider lifts and grapple trucks; likely ~10–20",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "WordPress site with estimate request form; invites customers to text after hours; no chat/booking widget found in HTML; owner replies to most Google reviews",
+    "sophisticatedContactCenter": false,
+    "dmName": "Andrew Wilson, Jr.",
+    "dmTitle": "Founder / Owner, ISA Certified Arborist",
+    "dmSource": "https://www.priority-tree.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Storm calls about trees on houses come at night and on weekends, but the office is Mon–Fri 8–5 and after-hours contact is a text; who calls those homeowners back while Andrew is up in a tree?",
+    "hooks": [
+      "Founded 2015 by ISA Certified Arborist Andrew Wilson, Jr., who still climbs on the hardest jobs",
+      "Office Mon–Fri 8–5, '24/7 Emergency Service' in the footer, 'text after hours'",
+      "Running 9 Google ads",
+      "Crane-capable crew covering 7 counties across Ohio and Northern Kentucky; a second location in Knoxville, TN",
+      "4.9 stars on 71 Google reviews"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.priority-tree.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.priority-tree.com/about/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Priority+Tree+Cincinnati"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=priority-tree.com"
+      }
+    ],
+    "notes": "A-tier vertical (tree). 71 Google reviews is in the acceptable 40–74 band; velocity is low (newest a month ago), so recentReviews=false. The Knoxville, TN location appears only in the site's structured data (schema), not in visible Cincinnati content, so I have not verified it. The second ads advertiser name was cut off in the page text ('Andrew Marret Wi...'); presumed to be the owner but not confirmed. An earlier search snippet called it 'family owned and operated'; the site I read says 'locally owned' only. Verified 2026-09-25."
+  },
+  {
+    "company": "Olson Foundation Repair",
+    "website": "https://olsonfoundationrepair.com",
+    "vertical": "foundation",
+    "city": "Kansas City",
+    "region": "MO",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–4:30pm; Sat–Sun closed",
+    "hoursSource": "Google Business Profile hours table (no hours published on the website)",
+    "phone": "(913) 592-3300",
+    "phoneSource": "Official website header and tel link; matches Google Business Profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 97,
+    "latestReviewAge": "a month ago",
+    "recentReviews": false,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 14 ads for olsonfoundationrepair.com (US, any time), advertiser 'Jake Riordan', verified (the owner's own name per BBB)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'family-owned', serving Kansas City since 1986, BBB A+ accredited; BBB lists Jake Riordan as Owner and Peggy Stroud as Office Manager. A recent Google review also calls it a family-owned business",
+    "franchise": false,
+    "employeesEstimate": "unknown; BBB lists owner and office manager; crews not described",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "No chat/text/booking widget found in website HTML; 'get a free estimate' and 'schedule service now' forms; financing and pricing pages",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jake Riordan",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/mo/kansas-city/profile/foundation-repair/olson-foundation-repair-0714-94050093",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Jake is paying for 14 Google ads himself, but the phone is only staffed Mon–Fri 8–4:30; what happens to the homeowner who finds a wall crack or water in the basement on Saturday and calls?",
+    "hooks": [
+      "Family-owned, serving Kansas City since 1986; BBB A+ accredited",
+      "Owner Jake Riordan runs their Google ads account in his own name (14 ads)",
+      "Office Mon–Fri 8–4:30, closed weekends",
+      "4.7 stars on 97 Google reviews; owner replies to reviews",
+      "Foundation repair, polyjacking, waterproofing; free estimates and financing"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://olsonfoundationrepair.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://olsonfoundationrepair.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mo/kansas-city/profile/foundation-repair/olson-foundation-repair-0714-94050093"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Olson+Foundation+Repair+7500+Blue+Ridge+Blvd"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=olsonfoundationrepair.com"
+      }
+    ],
+    "notes": "A-tier vertical (foundation/waterproofing). Not advertised as 24/7, so afterHoursGap=false; the angle is ad-driven calls outside weekday hours. Whether the Riordan family is the 'family' in 'family-owned' is not stated. Review velocity is low (newest a month ago). Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "Billy's Roofing, LLC",
+    "website": "https://billysroofing.com",
+    "vertical": "roofing",
+    "city": "Livonia / Plymouth (Detroit western suburbs)",
+    "region": "MI",
+    "country": "US",
+    "timezone": "America/Detroit",
+    "hours": "Main office Mon–Fri 9am–5pm, Saturdays by appointment; Plymouth showroom Mon–Fri 9am–3:30pm; Livonia by appointment. Emergency repairs only 'Monday through Friday 9-5 and Saturdays by appointment'",
+    "hoursSource": "Official website contact and about pages; Google Business Profile (Livonia) shows Mon–Fri 9–5, closed weekends",
+    "phone": "(248) 478-7663",
+    "phoneSource": "Official website header/contact page main office line. Google Business Profile (Livonia listing) and BBB show a DIFFERENT number, (734) 421-9100, which the website lists as the Livonia showroom line; Plymouth showroom is (734) 945-5700",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 213,
+    "latestReviewAge": "4 weeks ago",
+    "recentReviews": false,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for billysroofing.com (US, any time).",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "a rude elderly woman is answering your phone screaming at people (Google review, ~2 months ago, 1 star)",
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'family owned roofing contractor serving Metro Detroit and Southeast Michigan since 1988' with offices in Livonia and Plymouth; BBB lists Ken Mills as President and Katelyn Mills as Project Manager",
+    "franchise": false,
+    "employeesEstimate": "unknown; reviews name Katelyn (estimates), Mariah, Chris and crew leader Charles; two showrooms",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "No chat/text/booking widget found in website HTML; contact form with 'how did you hear about us' field; owner replies to most Google reviews",
+    "sophisticatedContactCenter": false,
+    "dmName": "Ken Mills",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/mi/plymouth/profile/roofing-contractors/billys-roofing-llc-0372-32017663",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With three published numbers, weekday-only emergency repairs and a recent review complaining about how the phone is answered, how many storm-leak calls on evenings and weekends end up with another roofer?",
+    "hooks": [
+      "Family owned since 1988; Ken Mills is President, Katelyn Mills handles projects",
+      "Two showrooms (Livonia, Plymouth) and three different phone numbers",
+      "Emergency repairs only Mon–Fri 9–5 and Saturday by appointment",
+      "4.9 stars on 213 Google reviews; a recent 1-star is specifically about the phone greeting",
+      "Covers 60+ communities across Wayne, Oakland, Livingston and Washtenaw counties; financing offered"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://billysroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://billysroofing.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://billysroofing.com/contact/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/mi/plymouth/profile/roofing-contractors/billys-roofing-llc-0372-32017663"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Billy's+Roofing+27513+Grand+River+Ave"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=billysroofing.com"
+      }
+    ],
+    "notes": "Phone: (248) 478-7663 is the website's main office line; Google/BBB use the Livonia line (734) 421-9100, which is also on the website, so both are legitimate but callers from Google reach a different line. Not advertised as 24/7, so afterHoursGap=false; the angle is phone handling. The website does not name the owners; Ken and Katelyn Mills come from BBB, and their relationship is not stated. Review velocity moderate (newest ~4 weeks). Verified 2026-09-25."
+  }
+]

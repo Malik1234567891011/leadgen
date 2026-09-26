@@ -1,0 +1,1091 @@
+[
+  {
+    "company": "Property Damage Restoration Services (PDR Services) of Texas",
+    "website": "https://pdrservices.com",
+    "vertical": "restoration",
+    "city": "Cypress (Houston metro)",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google Business Profile); website and BBB say available 24/7 with a 90-minute response time",
+    "hoursSource": "Google Maps business profile; official website; BBB profile",
+    "phone": "(281) 550-6100",
+    "phoneSource": "Official website header/CTA ('Call 281.550.6100'); matches BBB, Yelp and Facebook. Google Maps profile shows a DIFFERENT number, (281) 846-1973 (likely a call-tracking number)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.7,
+    "googleReviews": 72,
+    "latestReviewAge": "a month ago (newest among the 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain pdrservices.com) shows ads ('2 ads') under advertisers 'Property Damage Restoration Services of Texas' and 'Kerri Stiles Torres' (likely an agency/individual payer). Recency of the ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'family owned and operated', serving Cypress and Greater Houston since 1992. BBB lists Mr. Gerald Alldredge as principal contact (BBB says founded 1993). Reviews praise 'Gerald and his team'.",
+    "franchise": false,
+    "employeesEstimate": "unknown; no team count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with contact form ('Receive a FREE Evaluation'); no chat, booking, Podium/Birdeye or similar widget found in page source. A Birdeye listing page exists (third-party profile, not an embedded widget). Owner replies to Google reviews.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Gerald Alldredge",
+    "dmTitle": "Principal contact (BBB); likely owner",
+    "dmSource": "https://www.bbb.org/us/tx/cypress/profile/fire-water-damage-restoration/property-damage-restoration-0915-77822",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Your Google listing and your website send callers to two different numbers for a 24/7, 90-minute-response promise; who picks up a 2am burst-pipe call, and do both lines land in the same place?",
+    "hooks": [
+      "Family owned, serving Cypress and Greater Houston since 1992",
+      "Promises 24/7 service with a 90-minute response time (BBB/website)",
+      "4.7 stars on 72 Google reviews; reviewers name Gerald and Jimmy",
+      "Google Maps number (281) 846-1973 differs from the website's (281) 550-6100",
+      "Covers Cypress, Katy, Tomball, The Woodlands, Spring, Magnolia and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://pdrservices.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://pdrservices.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/tx/cypress/profile/fire-water-damage-restoration/property-damage-restoration-0915-77822"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Property+Damage+Restoration+Services+Cypress+TX"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=pdrservices.com"
+      }
+    ],
+    "notes": "Review count (72) is at the low end of the ideal band. recentReviews null: only 'most relevant' reviews checked (newest shown was a month ago). Owner title not stated by BBB beyond principal contact; site does not name an owner. Financing not mentioned. Also does roofing/remodeling. afterHoursGap null: no limited office hours published. Verified 2026-09-25."
+  },
+  {
+    "company": "Air Texas A/C & Heating",
+    "website": "https://www.airtxac.com",
+    "vertical": "hvac",
+    "city": "San Antonio",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Office Mon–Fri 9am–5pm, Sat 10:30am–4:30pm (website); '24 Hour Emergency Service' 365 days a year advertised",
+    "hoursSource": "Official website; Google Maps profile consistent (shown closed, 'Opens 9 AM Mon')",
+    "phone": "(210) 602-7181",
+    "phoneSource": "Official website header/CTA; matches Google Maps business profile. Site also lists (210) 934-9085 once (purpose not verified)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 416,
+    "latestReviewAge": "2 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain airtxac.com): 22 ads, advertiser 'Blandford Air Llc'.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": true,
+    "chatOrText": true,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: family owned; 'Mark has owned and operated Air Texas since 1997', son Harrison joined after high school. Ads advertiser is Blandford Air LLC; site blog author is Harrison Blandford.",
+    "franchise": false,
+    "employeesEstimate": "unknown; small family operation, no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Housecall Pro online booking ('Book Now' links to book.housecallpro.com); LiveChat Inc (connect.livechatinc.com) referenced in page source; 'Call or Text Us Now' CTA; Google review widget.",
+    "sophisticatedContactCenter": false,
+    "dmName": "Mark Blandford",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.linkedin.com/in/mark-blandford-11095758/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is staffed 9–5 on weekdays and 10:30–4:30 on Saturday while the site promises 24-hour emergency service 365 days a year; who answers a no-AC call at 9pm in August?",
+    "hooks": [
+      "Mark has owned Air Texas since 1997; son Harrison works in the business",
+      "4.9 stars on 416 Google reviews",
+      "Office hours Mon–Fri 9–5, Sat 10:30–4:30, but advertises 24-hour emergency service",
+      "Running Google ads (22 in Ads Transparency Center)",
+      "Offers in-house financing; serves Cibolo, Schertz, New Braunfels, Bulverde and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.airtxac.com/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Air+Texas+AC+Heating+San+Antonio"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=airtxac.com"
+      },
+      {
+        "label": "LinkedIn (Mark Blandford, Owner)",
+        "url": "https://www.linkedin.com/in/mark-blandford-11095758/"
+      },
+      {
+        "label": "Site blog author page (Harrison Blandford)",
+        "url": "https://www.airtxac.com/blog/author/hblandford/"
+      }
+    ],
+    "notes": "Surname 'Blandford' comes from LinkedIn plus the ads advertiser name and blog author page; the site itself says only 'Mark'. Has online booking and a chat script, so less of a greenfield. Free estimates not confirmed. Employee count unknown. recentReviews null: newest-sorted reviews not checked. Verified 2026-09-25."
+  },
+  {
+    "company": "T.C.R. Rooter & Plumbing LLC",
+    "website": "https://tcrplumbing.com",
+    "vertical": "plumbing",
+    "city": "Raleigh",
+    "region": "NC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google Business Profile); website advertises 'Fast Reliable Service 24/7'; no office hours published",
+    "hoursSource": "Google Maps business profile (Raleigh listing); official website",
+    "phone": "(919) 467-2207",
+    "phoneSource": "Official website header ('CALL TODAY (919) 467-2207') and About page; matches Google Maps profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 116,
+    "latestReviewAge": "2 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain tcrplumbing.com): 0 ads, 'No ads found'. Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family owned and operated, founded 1993; About page lists Terry Ault (Owner) and Teri Ault (Co-Owner)",
+    "franchise": false,
+    "employeesEstimate": "~13 (About page team: 2 owners, 10 plumbers, 1 office manager)",
+    "employeeBand": "5-15",
+    "locations": 2,
+    "existingTools": "WordPress site; 'Schedule Now' goes to a contact form; no chat, text, booking or review-platform widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Terry Ault",
+    "dmTitle": "Owner",
+    "dmSource": "https://tcrplumbing.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With one office manager listed for two offices (Raleigh and Apex) and a 24/7 promise, who answers the (919) 467-2207 line when she's off or already on a call?",
+    "hooks": [
+      "Family owned since 1993; Terry and Teri Ault own it",
+      "Team page lists 10 plumbers and one office manager (Brittney)",
+      "Two offices: Raleigh (Departure Dr) and Apex (Classic Rd)",
+      "4.8 stars on 116 Google reviews for the Raleigh listing",
+      "No Google ads running per Ads Transparency Center"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://tcrplumbing.com/"
+      },
+      {
+        "label": "About page (team)",
+        "url": "https://tcrplumbing.com/about/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://tcrplumbing.com/contact/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/TCR+Rooter+and+Plumbing+Raleigh+NC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=tcrplumbing.com"
+      }
+    ],
+    "notes": "Review count is for the Raleigh Google listing only; the Apex location has its own listing (not checked). Site mentions 'free estimate' once in page source but I did not confirm the offer in context, so freeEstimate=null. Financing not mentioned. afterHoursGap null: no limited hours published. recentReviews null: newest-sorted reviews not checked; relevant reviews shown were 2–3 months old. Verified 2026-09-25."
+  },
+  {
+    "company": "Extreme Garage Door Service",
+    "website": "https://extremegaragedoorga.com",
+    "vertical": "garage-doors",
+    "city": "Jefferson / Gainesville (NE Atlanta metro)",
+    "region": "GA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Sat 7am–7pm, Sun 7am–2pm, plus '24/7 Emergency Line' (website); Google Maps profile shows 'Open 24 hours'",
+    "hoursSource": "Official website footer and FAQ; Google Maps business profile",
+    "phone": "(770) 349-9595",
+    "phoneSource": "Official website header, CTAs and footer ('Talk with the owner: 770-349-9595'). Google Maps profile shows a DIFFERENT number, (770) 796-4268 (likely a call-tracking number; CallRail script is on the site)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 105,
+    "latestReviewAge": "7 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain extremegaragedoorga.com): 32 ads, verified advertiser 'Bradley Dwayne Chatham'.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family-Owned Since 1997. Founded by Brad & Dwayne'; contact email is Brad@ExtremeGarageDoorGA.com. Two locations: Jefferson (126 Hampton Dr) and Gainesville (5418 Leisure Ln).",
+    "franchise": false,
+    "employeesEstimate": "unknown; small owner-led crew (site says 'talk with the owner')",
+    "employeeBand": "unknown",
+    "locations": 2,
+    "existingTools": "CallRail call tracking in page source; 'Request Fast Service' callback form ('we'll call you right back'); no chat, text or online booking widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Brad Chatham",
+    "dmTitle": "Co-founder / owner",
+    "dmSource": "https://extremegaragedoorga.com/ (founder 'Brad', Brad@ email); surname from Google Ads verified advertiser 'Bradley Dwayne Chatham' at https://adstransparency.google.com/?region=US&domain=extremegaragedoorga.com",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site tells people to 'talk with the owner' on the same number that also runs a 24/7 emergency line and 32 Google ads; what happens to a midnight stuck-door call when Brad is on a job or asleep?",
+    "hooks": [
+      "Family owned since 1997, founded by Brad & Dwayne",
+      "Paying for Google ads: 32 in Ads Transparency Center",
+      "Office hours Mon–Sat 7am–7pm, Sun 7am–2pm, plus a 24/7 emergency line with 'no after-hours surcharge'",
+      "Promises a 20–40 minute response",
+      "Two locations (Jefferson and Gainesville) covering NE metro Atlanta and now Rabun County"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://extremegaragedoorga.com/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Extreme+Garage+Door+Jefferson+GA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=extremegaragedoorga.com"
+      }
+    ],
+    "notes": "Owner surname: the website only says 'Brad & Dwayne'; the Google Ads advertiser is 'Bradley Dwayne Chatham', which may mean Brad and Dwayne are one person or that the ads account is in one founder's name. Confirm on the call. No BBB profile found by search. Newest relevant reviews were 7–8 months old, so review velocity may be low; recentReviews null. Financing not mentioned. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "Tripp Electric, Inc.",
+    "website": "https://www.trippelectric.com",
+    "vertical": "electrical",
+    "city": "Raleigh",
+    "region": "NC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun appointment only; '24/7 Emergency Calls Available'; 'After Hours by Appointment Only'",
+    "hoursSource": "Official website contact block; Google Maps profile consistent (closed, 'Opens 8 AM Mon')",
+    "phone": "(919) 669-5525",
+    "phoneSource": "Official website header and contact block (used for both Triangle and Atlantic Beach areas); matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 76,
+    "latestReviewAge": "a month ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain trippelectric.com): 0 ads, 'No ads found'. Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": null,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Locally Owned and Operated', licensed and in business since 1996; 'About Tripp Electric's owner, Lee Jefferys', a North Carolina native and family man",
+    "franchise": false,
+    "employeesEstimate": "unknown; site refers to 'our team of electricians' without a count",
+    "employeeBand": "unknown",
+    "locations": 2,
+    "existingTools": "Thryv-built site; page source contains a Thryv webchat custom-widget hook (rendering depends on a config flag, not confirmed live); 'Call Now' CTAs; no online booking found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Lee Jefferys",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.trippelectric.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is open Mon–Fri 8–5 with weekends by appointment, yet the site offers 24/7 emergency calls across both the Triangle and the Atlantic Beach area on one number; who answers that number on a Saturday night?",
+    "hooks": [
+      "In business since 1996; owner Lee Jefferys is a North Carolina native",
+      "Office hours Mon–Fri 8am–5pm, weekends by appointment, but 24/7 emergency calls advertised",
+      "Serves both the Raleigh Triangle and the Atlantic Beach coast on one phone number",
+      "4.8 stars on 76 Google reviews",
+      "No Google ads running per Ads Transparency Center"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.trippelectric.com/"
+      },
+      {
+        "label": "Raleigh page",
+        "url": "https://www.trippelectric.com/raleigh"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Tripp+Electric+Raleigh+NC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=trippelectric.com"
+      }
+    ],
+    "notes": "locations=2 counts the Triangle and Atlantic Beach service areas the site lists separately; physical offices not confirmed. chatOrText null: Thryv webchat hook present in source but I could not confirm it renders. Free estimates and financing not mentioned. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "K&D Roofing & Construction Co., Inc.",
+    "website": "https://www.kanddroofing.com",
+    "vertical": "roofing",
+    "city": "Jacksonville Beach (Jacksonville metro)",
+    "region": "FL",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google Maps shows closed on the weekend, 'Opens 9 AM Mon'; website offers '24/7 Emergency Roofing Help' for storm damage and leaks; no office hours published on site",
+    "hoursSource": "Google Maps business profile; official website About page",
+    "phone": "(904) 541-1700",
+    "phoneSource": "Official website (home, About); matches Google Maps business profile and BBB. Site also shows (904) 223-6068 once (purpose not verified)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 253,
+    "latestReviewAge": "3 weeks ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain kanddroofing.com): 4 ads, advertiser 'Townsquare Media Inc' (a media/agency account running ads for them, not their own account).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Built on Family', three generations; founded in Ohio 1990, moved to Jacksonville 2003. About page names Rob and Angie (owners) and Megan (office manager). BBB lists Mr. Robert Hile, President.",
+    "franchise": false,
+    "employeesEstimate": "unknown; About page names 3 core staff plus crews; '7000+ roofs installed'",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with contact form and financing page; no chat, text, booking or review widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Robert (Rob) Hile",
+    "dmTitle": "President / Owner",
+    "dmSource": "https://www.bbb.org/us/fl/jax-bch/profile/roofing-contractors/kd-roofing-construction-co-inc-0403-29001137",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With one named office manager, weekend closures on Google, and a '24/7 Emergency Roofing Help' promise in hurricane country, who picks up when a storm hits Jacksonville Beach on a Saturday night?",
+    "hooks": [
+      "Family business since 1990 (Ohio), in Jacksonville since 2003; Rob and Angie own it",
+      "4.9 stars on 253 Google reviews, newest about 3 weeks ago",
+      "Reviews say Rob, the president, comes out to inspect leaks himself",
+      "Advertises 24/7 emergency roofing help; Google shows closed weekends",
+      "Offers free estimates and financing; GAF Master Elite"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.kanddroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.kanddroofing.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/fl/jax-bch/profile/roofing-contractors/kd-roofing-construction-co-inc-0403-29001137"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/K%26D+Roofing+Jacksonville+FL"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=kanddroofing.com"
+      }
+    ],
+    "notes": "BBB rating C with 2 closed complaints in 3 years and BBB says founded 1995 (site says 1990 in Ohio). Weekday Google hours only partially seen ('Opens 9 AM Mon'); closing time not captured. Employee count unknown. Ads run under Townsquare Media's account. Verified 2026-09-25."
+  },
+  {
+    "company": "Advanced Roofing Solutions",
+    "website": "https://www.advancedroofingsolutionsclt.com",
+    "vertical": "roofing",
+    "city": "Mint Hill (Charlotte metro)",
+    "region": "NC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google Maps shows closed on the weekend, 'Opens 8 AM Mon'; no hours published on website",
+    "hoursSource": "Google Maps search result listing",
+    "phone": "(980) 476-2425",
+    "phoneSource": "Official website header ('Call or Text: (980) 476-2425') and footer; matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 154,
+    "latestReviewAge": "3 days ago (per Google reviews embedded on the website)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain advancedroofingsolutionsclt.com): 7 ads, advertiser 'CMG Media Corporation' (a media company running ads on their behalf).",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Owner-Operator Jim Keating along with his sons, Michael and Taylor'; family-owned, established 2003, serving Greater Charlotte",
+    "franchise": false,
+    "employeesEstimate": "unknown; family-led with crews; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Website invites 'Call or Text' on the main number; contact form; embedded Google reviews widget; no chat, booking or CRM widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jim Keating",
+    "dmTitle": "Owner-Operator",
+    "dmSource": "https://www.advancedroofingsolutionsclt.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Reviews keep naming Michael and Jim as the people who respond, and the same number takes calls and texts; when a storm rolls through Charlotte and inspection requests spike, who is answering while they're up on roofs?",
+    "hooks": [
+      "Family business since 2003: Jim Keating with sons Michael and Taylor",
+      "4.9 stars on 154 Google reviews, several in the last week",
+      "Offers free roof inspections and insurance-claim help",
+      "Running Google ads (7 in Ads Transparency Center, via CMG Media)",
+      "Covers Charlotte to Gastonia, Lake Norman, Waxhaw and Fort Mill SC"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.advancedroofingsolutionsclt.com/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Advanced+Roofing+Solutions+4614+Wilgrove+Mint+Hill+Rd"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=advancedroofingsolutionsclt.com"
+      }
+    ],
+    "notes": "Not advertised as 24/7, so emergency247=false and afterHoursGap null; the pitch is storm surges and busy-owner coverage. A different business, 'Advanced Roofing Solutions, LLC.' ((910) 988-8245, 113 reviews), shows in the same Maps search; do not confuse them. Footer says '© Advanced Roofing, Inc.' Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Real Cool Heating & Air Conditioning (Real Cool - Heating, Air Conditioning & Indoor Air Quality, Inc.)",
+    "website": "https://www.realcoolhvac.com",
+    "vertical": "hvac",
+    "city": "Harrisburg (Charlotte metro)",
+    "region": "NC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; 'After Hours, Sat. & Sun. Emergency Service Available' (website). Google Maps profile lists 8am–12am every day",
+    "hoursSource": "Official website footer; Google Maps business profile hours table",
+    "phone": "(704) 537-9472",
+    "phoneSource": "Official website (header and footer); matches Google Maps business profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5,
+    "googleReviews": 165,
+    "latestReviewAge": "a month ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain realcoolhvac.com): 0 ads, 'No ads found'. Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'local family owned Charlotte, NC HVAC company'. BBB lists Mr. Michael Atkinson and Ms. Sonia Atkinson as co-owners; founded 2006; BBB accredited since 2010, A+",
+    "franchise": false,
+    "employeesEstimate": "3 (BBB profile)",
+    "employeeBand": "3-4",
+    "locations": 1,
+    "existingTools": "Basic site with contact page; no chat, text, booking or CRM widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Michael (Mike) Atkinson",
+    "dmTitle": "Co-Owner",
+    "dmSource": "https://bbb.org/charlotte/business-reviews/heating-and-air-conditioning/real-cool-heating-and-air-conditioning-in-charlotte-nc-237145",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With a three-person shop, office hours of 8–5 on weekdays and after-hours and weekend emergency service promised with 'no overtime rates', who answers when Mike is already on a no-heat call?",
+    "hooks": [
+      "Family owned by Mike and Sonia Atkinson since 2006; BBB A+ and accredited",
+      "5.0 stars on 165 Google reviews",
+      "Weekday office hours 8–5, but after-hours and weekend emergency service with no overtime rates",
+      "Google lists them open 8am to midnight every day, which doesn't match the site's 8–5",
+      "Offers financing; serves Harrisburg, Concord, Huntersville, Waxhaw and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.realcoolhvac.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://bbb.org/charlotte/business-reviews/heating-and-air-conditioning/real-cool-heating-and-air-conditioning-in-charlotte-nc-237145"
+      },
+      {
+        "label": "LinkedIn (Mike Atkinson, Owner)",
+        "url": "https://www.linkedin.com/in/mike-atkinson-02481744/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Real+Cool+Heating+and+Air+Conditioning+Charlotte+NC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=realcoolhvac.com"
+      }
+    ],
+    "notes": "Very small (BBB says 3 employees), at the bottom of the size range. Free estimates not stated. recentReviews null: newest-sorted reviews not checked. Verified 2026-09-25."
+  },
+  {
+    "company": "Cleaning & Restoration Specialist, Inc. (CRS San Antonio)",
+    "website": "https://sanantoniocrs.com",
+    "vertical": "restoration",
+    "city": "San Antonio",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Open 24 hours (Google Maps); website: available 24 hours a day, 7 days a week, 365 days a year, under-60-minute dispatch",
+    "hoursSource": "Google Maps business profile; official website",
+    "phone": "(210) 656-2112",
+    "phoneSource": "Official website header and CTAs ('Call 210-656-2112'); matches BBB. Google Maps profile shows a DIFFERENT number, (726) 217-7164 (likely a call-tracking number)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.8,
+    "googleReviews": 106,
+    "latestReviewAge": "a month ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain sanantoniocrs.com): 0 ads, 'No ads found'. Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: family-owned since 1989, founded by a husband-and-wife team; 'When you call, you will speak to one of the owners, Tom or Yolanda.' BBB lists Mr. Thomas Lott (President) and Mrs. Yolanda Lott (Vice President); BBB accredited, A+.",
+    "franchise": false,
+    "employeesEstimate": "unknown; owner-run with crews",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Website with a free-estimate form; no chat, text, booking or CRM widget found in page source; owners reply to Google reviews",
+    "sophisticatedContactCenter": false,
+    "dmName": "Thomas (Tom) Lott",
+    "dmTitle": "President / Co-owner",
+    "dmSource": "https://www.bbb.org/us/tx/san-antonio/profile/water-damage-restoration/cleaning-restoration-specialist-inc-0825-32045",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises that every caller reaches Tom or Yolanda, 24/7, with a crew dispatched in under 60 minutes; what happens to the next flood call while both owners are on a job site or asleep?",
+    "hooks": [
+      "Tom and Yolanda Lott, husband-and-wife owners, serving San Antonio since 1989",
+      "Website: 'When you call, you will speak to one of the owners, Tom or Yolanda'",
+      "Promises 24/7/365 response with technicians dispatched in under 60 minutes",
+      "4.8 stars on 106 Google reviews; owners reply to reviews",
+      "BBB A+ and accredited since 2014; no Google ads running"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://sanantoniocrs.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.sanantoniocrs.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/tx/san-antonio/profile/water-damage-restoration/cleaning-restoration-specialist-inc-0825-32045"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Cleaning+%26+Restoration+Specialist+Inc+4243+Gatecrest+San+Antonio"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=sanantoniocrs.com"
+      }
+    ],
+    "notes": "Founding year differs: website says 1989, BBB says 1993. afterHoursGap null: no limited hours published; the gap is owner capacity, not hours. Financing not mentioned. Employee count unknown. recentReviews null: newest-sorted reviews not checked. Verified 2026-09-25."
+  },
+  {
+    "company": "Plumb One, Inc.",
+    "website": "https://www.plumbone.com",
+    "vertical": "plumbing",
+    "city": "Moody (Birmingham metro)",
+    "region": "AL",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Website: 'Call for Service | 24/7 Emergency Services Available' (no office hours published); Google Maps: Open 24 hours",
+    "hoursSource": "Official website footer; Google Maps business profile",
+    "phone": "(205) 352-9010",
+    "phoneSource": "Official website header and CTAs (Hibu-built site). Google Maps profile and BBB show a DIFFERENT number, (205) 640-2848 (likely the company's main line; the website number may be a Hibu tracking number)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.8,
+    "googleReviews": 127,
+    "latestReviewAge": "3 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain plumbone.com): 3 ads, advertiser 'Yellow Book USA, Inc' (Hibu's legal entity, running ads on their behalf).",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Locally and Family-Owned, In Business Since 1997'. BBB lists Mr. Barry Isbell (President/Owner) and Ms. Robin Isbell (Business Manager); BBB accredited since 2009, A+.",
+    "franchise": false,
+    "employeesEstimate": "unknown; site claims 'over 30 years of combined experience'",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Hibu-built website with a 'Request Call Back' form; no chat, text, booking or CRM widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Barry Isbell",
+    "dmTitle": "President / Owner",
+    "dmSource": "https://www.bbb.org/us/al/moody/profile/plumber/plumb-one-inc-0463-90030712",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Your website, run by Hibu, and your Google listing send callers to two different numbers, and the site says 'Call for Service' with 24/7 emergencies; who picks up a burst-pipe call at night on either line?",
+    "hooks": [
+      "Family owned since 1997; Barry Isbell owns it and Robin Isbell runs the business side",
+      "4.8 stars on 127 Google reviews",
+      "Advertises 24/7 emergency plumbing; no office hours listed",
+      "Website number (205) 352-9010 differs from Google/BBB (205) 640-2848",
+      "Serves Birmingham, Hoover, Trussville, Pell City, Leeds and more; also does hydro-excavation and pipe lining"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.plumbone.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.plumbone.com/about"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/al/moody/profile/plumber/plumb-one-inc-0463-90030712"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Plumb+One+Birmingham+AL"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=plumbone.com"
+      }
+    ],
+    "notes": "Phone: per the rules, 'phone' is the website number; the Google/BBB number (205) 640-2848 is probably the real office line and may be the better one to dial. afterHoursGap null: no limited hours published. Free estimates and financing not stated. Employee count unknown. recentReviews null: newest-sorted reviews not checked; relevant ones shown were 3–5 months old. Verified 2026-09-25."
+  },
+  {
+    "company": "A-Lumination Electric, Inc.",
+    "website": "https://www.a-lumination.com",
+    "vertical": "electrical",
+    "city": "Orlando (Altamonte Springs office)",
+    "region": "FL",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google Maps: 7am–6pm every day; website says 'our team is standing by 24/7' and has an Emergency Electrical service page",
+    "hoursSource": "Google Maps business profile hours table; official website About page",
+    "phone": "(407) 298-1412",
+    "phoneSource": "Official website header/footer ('Book Appointment (407) 298-1412'); matches Google Maps profile. BBB lists (407) 298-7430 (older/main line, not on the website)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.5,
+    "googleReviews": 281,
+    "latestReviewAge": "2 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain a-lumination.com): 22 ads, advertisers include 'A-Lumination Electric INC', 'EXPONENTIAL MEDIA, LLC' and 'Jess Bousa'.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": null,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: family-run electrical company since 1989. BBB lists Stephen Orsolits (President/Owner) and Diane Orsolits (Vice President); BBB accredited since 2010, A+, 1 complaint closed in 3 years. LinkedIn also lists Stephen Orsolits as owner.",
+    "franchise": false,
+    "employeesEstimate": "unknown; multiple technicians named in reviews",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "ConceptSEO-built site with 'Book Appointment' / 'Get an instant quote' CTAs (appear to lead to a quote/contact form; no third-party booking widget found in page source); Trustindex Google-reviews widget; no chat or text widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Stephen Orsolits",
+    "dmTitle": "President / Owner",
+    "dmSource": "https://www.bbb.org/us/fl/orlando/profile/electrical-contractors/a-lumination-electric-inc-0733-201419023/addressId/154733",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You're paying for 22 Google ads and say the team is 'standing by 24/7', but Google lists you 7am–6pm; where do the ad-driven calls that come in after 6pm go?",
+    "hooks": [
+      "Family-run since 1989; Stephen and Diane Orsolits own it",
+      "Running Google ads: 22 in Ads Transparency Center",
+      "Site says 'standing by 24/7'; Google hours are 7am–6pm",
+      "281 Google reviews at 4.5 stars",
+      "BBB A+, accredited since 2010; offers financing and maintenance plans"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.a-lumination.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.a-lumination.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/fl/orlando/profile/electrical-contractors/a-lumination-electric-inc-0733-201419023/addressId/154733"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/A-Lumination+Electric+Altamonte+Springs+FL"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=a-lumination.com"
+      }
+    ],
+    "notes": "onlineBooking null: 'Book Appointment' CTA exists but I could not confirm it is real self-scheduling rather than a form. A 1-star review from about 3 months ago is about a quote experience, not missed calls. BBB address is 5817 Beggs Rd, Orlando; website footer shows 658 Douglas Ave, Altamonte Springs. Free estimates not confirmed. Verified 2026-09-25."
+  },
+  {
+    "company": "Helotes Overhead Garage Doors & Contracting LLC",
+    "website": "https://helotesoverheaddoors.com",
+    "vertical": "garage-doors",
+    "city": "Helotes (San Antonio metro)",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed (website and Google). About page: 'Available Late ... we offer after-hours service'",
+    "hoursSource": "Official website header/footer and About page; Google Maps hours table consistent",
+    "phone": "(210) 695-8983",
+    "phoneSource": "Official website header, About page and footer; matches Google Maps business profile. Site also shows (830) 688-0242 once (purpose not verified)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.3,
+    "googleReviews": 127,
+    "latestReviewAge": "3 months ago (newest among 'most relevant' reviews shown); website review widget shows a Google review dated March 27, 2026",
+    "recentReviews": false,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain helotesoverheaddoors.com): 1 ad, advertiser 'Helotes Overhead Garage Doors & Contracting LLC'.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": "I'm super disappointed with my experience. I had called to schedule a service and they said they'd... (1-star Google review, Nancy Hernandez, ~3 months ago; rest truncated, not read)",
+    "locallyOwned": true,
+    "ownershipNote": "Website: founded in 1985 by Tracy Dever; run by his son Nathan Dever, 'Second Generation Owner'; local and family-owned. Reviews also name Wes Dever.",
+    "franchise": false,
+    "employeesEstimate": "unknown; small family crew (Nathan and Wes Dever named in reviews); site has a careers page",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Website with 'Request a FREE Quote' form and Trustindex Google-review widget; no chat, text, booking or CRM widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Nathan Dever",
+    "dmTitle": "Second Generation Owner",
+    "dmSource": "https://helotesoverheaddoors.com/about-us",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 5pm on weekdays and all weekend, yet the site offers after-hours service for broken springs; who answers a Saturday call when a door won't open?",
+    "hooks": [
+      "Founded 1985 by Tracy Dever; son Nathan Dever now owns it",
+      "Office hours Mon–Fri 8–5, closed weekends, but after-hours service is offered",
+      "127 Google reviews at 4.3 stars; a recent 1-star review starts 'I had called to schedule a service...'",
+      "Running at least one Google ad",
+      "Serves Helotes and the greater San Antonio area"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://helotesoverheaddoors.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://helotesoverheaddoors.com/about-us"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Helotes+Overhead+Garage+Doors+Helotes+TX"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=helotesoverheaddoors.com"
+      }
+    ],
+    "notes": "Not advertised as 24/7 (emergency247=false), but after-hours service is offered while the office is closed, so afterHoursGap=true. The 1-star review mentions calling to schedule; I could not expand it, so reviewResponseComplaints is null until someone reads it in full. Rating 4.3 is weaker than the others. Review velocity looks low (newest relevant review ~3 months). Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Atlanta Arbor Tree Care Specialist, LLC",
+    "website": "https://www.atlantaarbor.com",
+    "vertical": "tree",
+    "city": "Marietta (Atlanta metro)",
+    "region": "GA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google Maps); website advertises '24/7 emergency response' for tree removal; no office hours published",
+    "hoursSource": "Google Maps business profile; official website",
+    "phone": "(770) 765-6555",
+    "phoneSource": "Official website header ('Call for more information 770-765-6555'). Google Maps profile shows a DIFFERENT number, (770) 762-6701 (likely a call-tracking number; CallRail script is on the site)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 536,
+    "latestReviewAge": "5 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain atlantaarbor.com): 5 ads, advertiser 'Atlanta Arbor Tree Care Specialist, LLC'.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founder-owned: website says 'Our founder, Josh Marotta'; team page lists Joshua Marotta (Owner) and Bethany Swafford (CEO). Serving metro Atlanta since 2014. Not described as family-owned on pages read.",
+    "franchise": false,
+    "employeesEstimate": "~15–30 (team page lists owner, CEO, fleet manager, two sales managers, several ISA arborists; site says 6 ISA Certified Arborists)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "CallRail call tracking in page source; 'Request a free estimate' form; no chat, text or booking widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Joshua (Josh) Marotta",
+    "dmTitle": "Owner / Founder, ISA Certified Arborist",
+    "dmSource": "https://www.atlantaarbor.com/team/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You promise 24/7 emergency removal when a tree is on a house or a power line, and you're running Google ads; when a storm drops 40 calls in one night, how many reach a person before the caller tries the next tree company?",
+    "hooks": [
+      "Founded by Josh Marotta in 2014; team of 6 ISA Certified Arborists including a Board Certified Master Arborist",
+      "4.9 stars on 536 Google reviews",
+      "Advertises 24/7 emergency tree removal across metro Atlanta",
+      "Google listing number (770) 762-6701 differs from the website's (770) 765-6555",
+      "Running Google ads (5 in Ads Transparency Center)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.atlantaarbor.com/"
+      },
+      {
+        "label": "Team page",
+        "url": "https://www.atlantaarbor.com/team/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Atlanta+Arbor+Tree+Care+Specialist+Marietta+GA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=atlantaarbor.com"
+      }
+    ],
+    "notes": "Has a CEO (Bethany Swafford) besides the owner; she may be the better contact for operations. afterHoursGap null: no limited hours published. Financing not mentioned. recentReviews null: relevant reviews shown were 5–7 months old; newest-sorted not checked. Verified 2026-09-25."
+  },
+  {
+    "company": "Fast Lane Septic Service",
+    "website": "https://fastlanesepticservice.com",
+    "vertical": "septic",
+    "city": "Wendell / Clayton (Raleigh metro)",
+    "region": "NC",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "'Monday - Sunday: Open 24 hours' (website footer); Google Maps: Open 24 hours",
+    "hoursSource": "Official website footer; Google Maps business profile",
+    "phone": "(919) 243-5557",
+    "phoneSource": "Official website header ('Schedule a Service 919-243-5557') and footer; matches Google Maps profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 193,
+    "latestReviewAge": "3 weeks ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain fastlanesepticservice.com): 0 ads, 'No ads found'. The alternate domain fastlanesepticservices.com and Local Services Ads were not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'a local family-owned small business in Clayton, NC', 'not some large septic company with franchises all over the country'. BBB lists Mr. Chris Lane as CEO; testimonials say 'call Chris with Fast Lane Septic Services'.",
+    "franchise": false,
+    "employeesEstimate": "unknown; likely small (owner-operator named in reviews)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Simple site; 'Schedule a Service' button goes to the contact form; no chat, text, booking or CRM widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Chris Lane",
+    "dmTitle": "CEO / owner",
+    "dmSource": "https://www.bbb.org/us/nc/wendell/profile/septic-tank-cleaning/fast-lane-septic-service-0593-90334083/addressId/154085",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site lists you open 24 hours, seven days a week, and reviewers say to 'call Chris'; when Chris is in the middle of pumping a tank, who answers a backed-up-septic call?",
+    "hooks": [
+      "Local family-owned septic business in Clayton/Wendell; Chris Lane runs it",
+      "4.9 stars on 193 Google reviews, newest about 3 weeks ago",
+      "Website says 'Monday - Sunday: Open 24 hours'",
+      "Free estimates; serves Johnston and Wake counties",
+      "No Google ads running per Ads Transparency Center"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://fastlanesepticservice.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/nc/wendell/profile/septic-tank-cleaning/fast-lane-septic-service-0593-90334083/addressId/154085"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Fast+Lane+Septic+Services+NC"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=fastlanesepticservice.com"
+      }
+    ],
+    "notes": "The business shows up under two domains (fastlanesepticservice.com linked from Google Maps, fastlanesepticservices.com in search results) with the same content. Founding year and employee count unknown. afterHoursGap null: they claim 24-hour availability and no limited hours are published. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Align Foundation Repair, L.L.C.",
+    "website": "https://alignfoundationrepair.com",
+    "vertical": "foundation",
+    "city": "Garland (Dallas–Fort Worth)",
+    "region": "TX",
+    "country": "US",
+    "timezone": "America/Chicago",
+    "hours": "Mon–Fri 9am–5pm; Saturdays by appointment only; Sunday closed (website contact page). Header says 'Call us Anytime'",
+    "hoursSource": "Official website contact page; Google Maps consistent (closed, 'Opens 9 AM Sat')",
+    "phone": "(214) 710-2555",
+    "phoneSource": "Official website header ('Call us Anytime Dallas 214.710.2555') and contact page. Google Maps profile shows a DIFFERENT number, (214) 441-7955 (likely a call-tracking number; CallRail script is on the site). Contact page also lists (214) 239-8110 for Saturday appointments",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.6,
+    "googleReviews": 52,
+    "latestReviewAge": "2 months ago (newest among 'most relevant' reviews shown; newest-sorted list not checked)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center (US, domain alignfoundationrepair.com): 33 ads, advertiser 'Align Foundation Repair LLC'.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website: 'Family owned foundation repair company'; 'Align Foundation Repair, L.L.C. is owned and operated by Jason and Josh Spector', who grew up in the foundation industry",
+    "franchise": false,
+    "employeesEstimate": "unknown; runs its own crews; no count published",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "CallRail call tracking; contact/free-estimate form; no chat, text or booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jason Spector",
+    "dmTitle": "Co-owner (with Josh Spector)",
+    "dmSource": "https://alignfoundationrepair.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "You're running 33 Google ads and the header says 'Call us Anytime', but the office is 9–5 on weekdays; what happens to an estimate call that comes in at 7pm or on a Sunday?",
+    "hooks": [
+      "Family owned by brothers Jason and Josh Spector, who grew up in the foundation industry",
+      "Running Google ads: 33 in Ads Transparency Center",
+      "Header says 'Call us Anytime'; hours are Mon–Fri 9–5, Saturdays by appointment",
+      "Free estimates, financing, lifetime transferable piling warranty",
+      "Google listing number (214) 441-7955 differs from the website's (214) 710-2555"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://alignfoundationrepair.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://alignfoundationrepair.com/contact-us/"
+      },
+      {
+        "label": "Google Maps profile",
+        "url": "https://www.google.com/maps/search/Align+Foundation+Repair+417+Gautney+St+Garland+TX"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=alignfoundationrepair.com"
+      }
+    ],
+    "notes": "Only 52 Google reviews (acceptable band). Not a 24/7 emergency trade; afterHoursGap=true rests on 'Call us Anytime' vs 9–5 hours. Which brother is the primary decision maker is unknown. A separate, permanently closed listing 'Align Foundation Repair, L.L.C.' also appears on Maps. Verified 2026-09-25."
+  }
+]

@@ -1,0 +1,1163 @@
+[
+  {
+    "company": "Carl's Door Service, Inc.",
+    "website": "https://www.carlsdoorservice.com",
+    "vertical": "garage-doors",
+    "city": "Baldwin",
+    "region": "MD",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Office Mon–Fri 7:30am–4pm; closed weekends; after-hours emergency calls go to an on-call technician (press 2)",
+    "hoursSource": "Official website contact page (Office Hours: Monday - Friday 7:30 A - 4:00 P) and After Hours Emergency Service page; Google Maps listing shows 'Opens 7:30 AM Mon' (checked Friday night)",
+    "phone": "(410) 557-8700",
+    "phoneSource": "Official website header, tel link and contact page; matches Google Maps listing, BBB and Yelp",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 154,
+    "latestReviewAge": "a month ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 5 ads for carlsdoorservice.com, advertiser 'Carl's Door Service, Inc.' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founded 1965 by Carl Whitacre in Forest Hill; 'still family owned and operated with the third generation working on staff' (About page)",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name several technicians, e.g. Hunter and Luke; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Squarespace site with Acuity Scheduling embed on /schedule (online appointment booking); SwipeSimple invoice payment link; no chat or text widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Michael Whitacre",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/md/baldwin/profile/garage-doors/carls-door-service-inc-0011-19010232",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 4pm on weekdays and after-hours emergency calls are routed to a single on-call technician via a phone menu; how many evening broken-spring or trapped-car calls turn into booked jobs versus voicemails?",
+    "hooks": [
+      "Family business since 1965, founded by Carl Whitacre; third generation now on staff",
+      "4.9 stars on 154 Google reviews",
+      "Office hours are Mon–Fri 7:30am–4pm, but the site offers after-hours emergency service ($400 first hour residential)",
+      "Running Google ads (5 ads in the Ads Transparency Center)",
+      "Serves Harford, Baltimore and Cecil counties plus Southern York County, PA"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.carlsdoorservice.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.carlsdoorservice.com/about"
+      },
+      {
+        "label": "Contact page (office hours)",
+        "url": "https://www.carlsdoorservice.com/contact-us"
+      },
+      {
+        "label": "After hours emergency page",
+        "url": "https://www.carlsdoorservice.com/after-hours-emergency-service"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/md/baldwin/profile/garage-doors/carls-door-service-inc-0011-19010232"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Carl's+Door+Service+2502+Greene+Rd+Baldwin+MD"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=carlsdoorservice.com"
+      }
+    ],
+    "notes": "Baldwin is in northern Baltimore County (Baltimore metro). Decision maker from BBB only (Michael Whitacre, President); a web-search summary claimed his children now own the business, which I could not confirm from an allowed source, so ask for the current owner on the call. latestReviewAge is from the default 'relevant' sort (newest photo was 21 days old); newest-first sort not checked. Financing not mentioned on pages read. Clopay dealer page lists slightly different hours (Mon–Fri 7:30–5, 1st/3rd Saturdays); website hours used. Verified 2026-09-25."
+  },
+  {
+    "company": "NJ Water and Mold",
+    "website": "https://njwaterandmold.com",
+    "vertical": "restoration",
+    "city": "Ridgefield",
+    "region": "NJ",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Open 24 hours (Google); website advertises 24/7 live calls",
+    "hoursSource": "Google Maps listing ('Open 24 hours'); official website ('24/7 Live calls', '24 hours a day')",
+    "phone": "(201) 370-9851",
+    "phoneSource": "Official website header, home and About pages; matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 135,
+    "latestReviewAge": "7 months ago",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 5 ads for njwaterandmold.com, advertiser 'NJ Water and Mold, LLC' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": false,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Established 2006 by Dennis and Ada Chinea; 'Family owned & operated since 2006' (website). Google listing 'Identifies as women-owned'",
+    "franchise": false,
+    "employeesEstimate": "unknown (About page team section lists 4 people: two owners, an office manager and a technician)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Quote request form; no chat, text, booking or call-tracking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Dennis Chinea",
+    "dmTitle": "Owner (co-owner with Ada Chinea)",
+    "dmSource": "https://njwaterandmold.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises '24/7 live calls' and a 60-minute arrival; with a small named office team, who actually picks up a 2am burst-pipe call, and how quickly does a crew get dispatched?",
+    "hooks": [
+      "Family owned since 2006; Dennis and Ada Chinea are the owners",
+      "4.9 stars on 135 Google reviews",
+      "Advertises '24/7 Live calls' and 'On our way in 60 minutes or less'",
+      "Running Google ads (5 ads in the Ads Transparency Center)",
+      "Serves Clifton, Secaucus, Teaneck, Hackensack, Jersey City and more across North and Central NJ"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://njwaterandmold.com/"
+      },
+      {
+        "label": "About page (owners and team)",
+        "url": "https://njwaterandmold.com/about-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/NJ+Water+and+Mold+1116+Edgewater+Ave"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=njwaterandmold.com"
+      }
+    ],
+    "notes": "afterHoursGap false because the site explicitly claims 24/7 live call answering; whether that is an owner's cell or an answering service is unknown. latestReviewAge is the newest review visible in Google's default 'relevant' sort; newest-first sort could not be loaded, so recentReviews is null. Financing not mentioned on pages read. Google shows the address as Ridgefield, NJ (1116 Edgewater Ave). Alternative NJ restoration lead considered: Jigsaw PMR (Westwood, 5.0 on 214 reviews, (201) 425-4855) but it has no Google ads and no owner named on any allowed source. Verified 2026-09-25."
+  },
+  {
+    "company": "Fontaine Mechanical Heating, Cooling, Plumbing",
+    "website": "https://fontaine-mechanical.com",
+    "vertical": "hvac",
+    "city": "Bristol",
+    "region": "CT",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Weekdays from 7:30am; closed weekends (Google). Closing time not confirmed on an official source; a web-search summary of a third-party listing gave Mon–Fri 7:30am–4:30pm",
+    "hoursSource": "Google Maps listing ('Closed · Opens 7:30 AM Mon', checked Friday night); website states 24/7 emergency service but publishes no office hours",
+    "phone": "(860) 589-4900",
+    "phoneSource": "Official website header and schema markup; matches Google Maps listing and BBB. 860-314-1204 on the site is the fax",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 295,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 12 ads for fontaine-mechanical.com, advertiser 'William FONTAINE' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Serving Bristol since 1986; owner Bill (William) Fontaine per BBB and the Google Ads advertiser name. Website does not explicitly say family owned",
+    "franchise": false,
+    "employeesEstimate": "~10–20 (reviews and site testimonials name at least 9 staff: office staff Kristin, techs Jay, Derek, Pat, Dante, Chadd, Garrett, Mike, Devin)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Service Fusion (field-service software) — 'Book Online Now' button and Customer Login link to app.servicefusion.com/fontaine; quote request form; no chat or text widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Bill Fontaine",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ct/bristol/profile/heating-and-air-conditioning/fontaine-mechanical-heating-air-conditioning-inc-0111-87125685",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They advertise 24-hour emergency plumbing, heating and cooling and run Google ads, but the office is closed weekends; who answers a no-heat or burst-pipe call on a Saturday night?",
+    "hooks": [
+      "Serving Bristol and surrounding Connecticut towns since 1986; Bill Fontaine is the owner",
+      "4.9 stars on 295 Google reviews, with reviews in the last few months",
+      "Website promises 24-hour emergency service; Google shows the office closed on weekends",
+      "Running Google ads (12 ads, advertiser William Fontaine)",
+      "Free estimates on equipment replacement; Heil Elite dealer; residential and commercial"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://fontaine-mechanical.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://fontaine-mechanical.com/about-fontaine-mechanical-bristol-ct/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ct/bristol/profile/heating-and-air-conditioning/fontaine-mechanical-heating-air-conditioning-inc-0111-87125685"
+      },
+      {
+        "label": "LinkedIn (Bill Fontaine, Owner)",
+        "url": "https://www.linkedin.com/in/bill-fontaine-359a6ab4/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Fontaine+Mechanical+75+Pleasant+Ave+Bristol+CT"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=fontaine-mechanical.com"
+      }
+    ],
+    "notes": "Bristol is in the Hartford metro. Closing time and weekday hours beyond the 7:30am opening not verified on an official source. The Service Fusion link may be a customer portal rather than true self-scheduling; labeled 'Book Online Now' on the site so onlineBooking=true. Financing not mentioned on pages read. The website's own review widget says 4.7 on 94 reviews (stale); Google Maps shows 4.9 on 295. The 'Our Team' page returned no staff content. Verified 2026-09-25."
+  },
+  {
+    "company": "Miceli Roofing",
+    "website": "https://www.miceliroofing.com",
+    "vertical": "roofing",
+    "city": "Cranston",
+    "region": "RI",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Weekdays from 8am; closed weekends (Google). Closing time not verified",
+    "hoursSource": "Google Maps listing ('Closed · Opens 8 AM Mon', checked Friday night); website publishes no office hours",
+    "phone": "(401) 433-7663",
+    "phoneSource": "Official website footer ('Call Our Office At (401) 433-7663', also shown as 401-433-ROOF); matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 189,
+    "latestReviewAge": "a month ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 11 ads for miceliroofing.com; advertisers shown include 'Janine Pedersen' and 'PMC Media Group' (their web/marketing agency)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family-owned and operated since 1960; owned and operated by John J. Miceli, son of founder Joseph F. Miceli (J. Miceli & Sons). Google listing 'Identifies as veteran-owned'",
+    "franchise": false,
+    "employeesEstimate": "unknown (multiple crews and an office team referenced in reviews; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site (PMC Media Group) with WPForms quote form; Financing and Careers pages; no chat, text or online booking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "John J. Miceli",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.miceliroofing.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They market emergency roof and ice-dam repair across RI and southern MA, but publish no after-hours coverage; when a storm leak call comes in on a weekend or at night, does it reach a person or a voicemail?",
+    "hooks": [
+      "Family-owned since 1960; John J. Miceli carries on his father Joseph's business",
+      "4.9 stars on 189 Google reviews; a reviewer says they responded within 4 hours for a storm emergency repair",
+      "Running Google ads (11 ads in the Ads Transparency Center)",
+      "Offers emergency roof repairs, ice dam and snow removal, and financing",
+      "Free replacement estimates; $99 repair visit fee credited toward the work"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.miceliroofing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.miceliroofing.com/about-us/"
+      },
+      {
+        "label": "Emergency roof repairs page",
+        "url": "https://www.miceliroofing.com/services/emergency-roof-repairs/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Miceli+Roofing+1422+Park+Ave+Cranston+RI"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=miceliroofing.com"
+      }
+    ],
+    "notes": "Cranston is in the Providence metro. The site advertises emergency roof repair but never says 24/7, so emergency247=false and afterHoursGap=null. Also serves commercial roofing across RI, MA, CT, southern VT and ME; residential is a clear part of the business. Janine Miceli is named alongside John in a review (role not stated); the Ads Transparency advertiser is 'Janine Pedersen'. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "Zacher Electric",
+    "website": "https://www.zacherelectric.com",
+    "vertical": "electrical",
+    "city": "Cheektowaga",
+    "region": "NY",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Weekdays from 8:30am; closed weekends (Google). Closing time not verified; website says 'staff available 24/7' for emergencies",
+    "hoursSource": "Google Maps listing ('Closed · Opens 8:30 AM Mon', checked Friday night); website 24-Hour Emergency Electrical Service page",
+    "phone": "(716) 839-9000",
+    "phoneSource": "Official website header, contact page and footer; matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.2,
+    "googleReviews": 82,
+    "latestReviewAge": "a month ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for zacherelectric.com. Site footer credits Hearst LocalEdge (marketing agency); any agency-run campaigns under another domain were not checked",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "First call LVM with no response and second call the answered and I gave details of job needed, but then no response. (Google review, a month ago; owner replied apologizing for the lack of follow-up)",
+    "locallyOwned": true,
+    "ownershipNote": "Family-run for 30+ years; 'owned and operated by Robert Zacher and his son, Robert Zacher Jr.' (About page)",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name several electricians, e.g. Eric and two Mikes; office contact Annette in an owner reply)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Duda-built site (Hearst LocalEdge) with a simple contact form; no chat, text, booking or call-tracking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Robert Zacher",
+    "dmTitle": "Owner (with son Robert Zacher Jr.)",
+    "dmSource": "https://www.zacherelectric.com/why-choose-us",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "A reviewer last month said she left a voicemail and never heard back, and the site promises staff available 24/7 while the office opens at 8:30 on weekdays; how are missed and after-hours calls followed up today?",
+    "hooks": [
+      "Family-run 30+ years; owned by Robert Zacher and his son Robert Zacher Jr.",
+      "A Google review from a month ago complains a voicemail got no response (owner apologized publicly)",
+      "Website promises 24-hour emergency service with 'staff available 24/7'; Google shows the office closed weekends",
+      "4.2 stars on 82 Google reviews",
+      "Serves Amherst, Williamsville, Clarence, Lancaster, Hamburg, Orchard Park, Tonawanda and more"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.zacherelectric.com/"
+      },
+      {
+        "label": "About / Why Choose Us page",
+        "url": "https://www.zacherelectric.com/why-choose-us"
+      },
+      {
+        "label": "24-Hour Emergency page",
+        "url": "https://www.zacherelectric.com/24-emergency-electrical-service"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.zacherelectric.com/contact-us"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Zacher+Electric+Buffalo+NY"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=zacherelectric.com"
+      }
+    ],
+    "notes": "Buffalo metro (Cheektowaga). Rating is lower (4.2) than most leads, which makes the missed-call angle more relevant. Free estimates and financing not mentioned on pages read (null). Also does commercial and new-construction electrical, but residential service is a clear focus. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "Freedom Plumbers & Pumpers",
+    "website": "https://freedomplumbers.com",
+    "vertical": "septic",
+    "city": "Manassas",
+    "region": "VA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google lists set business hours (checked Friday night: 'Closed · Opens 8 AM Sat'); full weekly hours not verified. Website advertises 24/7 emergency service",
+    "hoursSource": "Google Maps listing; official website header ('24/7 PLUMBING EMERGENCY') and contact page ('Emergency Services Available 24/7')",
+    "phone": "(703) 895-4109",
+    "phoneSource": "Official website header, tel links and contact page; matches Google Maps listing",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5.0,
+    "googleReviews": 86,
+    "latestReviewAge": null,
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 18 ads for freedomplumbers.com, advertiser 'Freedom Plumbers Corp' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": null,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Homepage says 'Family-owned'; About page names Ricky Salinas as Founder & President and 'proudly independent'. Google listing 'Identifies as Latino-owned'. Operating 25+ years per About page",
+    "franchise": false,
+    "employeesEstimate": "unknown (About page refers to a team and dispatch team; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress 'Simply Schedule Appointments' booking calendar on /simply-schedule/ (pick a day and time, then dispatch calls to confirm); Trustindex Google review widget; contact form; homepage says 'Call, Text or Message Online' but no text/chat widget was found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Ricky Salinas",
+    "dmTitle": "Founder & President",
+    "dmSource": "https://freedomplumbers.com/about-us-2/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They run 18 Google ads and promise 24/7 septic and sewer emergencies across five Northern Virginia counties, yet online bookings still wait for dispatch to call back; how fast does a backed-up sewer call at night get a human?",
+    "hooks": [
+      "Ricky Salinas is Founder & President; family-owned, 25+ years in Northern Virginia",
+      "5.0 stars on 86 Google reviews",
+      "Running Google ads (18 ads, advertiser Freedom Plumbers Corp)",
+      "Advertises 24/7 emergency service, free estimates, free second opinions and no weekend fees",
+      "Serves Manassas, Fairfax, Prince William, Loudoun and Arlington counties"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://freedomplumbers.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://freedomplumbers.com/about-us-2/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://freedomplumbers.com/contact/"
+      },
+      {
+        "label": "Simply Schedule booking page",
+        "url": "https://freedomplumbers.com/simply-schedule/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Freedom+Plumbers+%26+Pumpers+Manassas+VA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=freedomplumbers.com"
+      }
+    ],
+    "notes": "Classed as septic (A-tier): the business is primarily septic, sewer, grease-trap and drain work, with general plumbing too. Google listing is a service-area profile with no address and the review list did not load, so latestReviewAge and recentReviews are null (the site's Trustindex widget says 168 reviews and showed one Google review from 147 days ago). afterHoursGap is true because Google shows regular business hours while the site advertises 24/7; actual after-hours answering not verified. chatOrText null: 'Call, Text' is advertised but no widget found. Also serves commercial (grease traps). Verified 2026-09-25."
+  },
+  {
+    "company": "Paul Yonkers Plumbing and Heating Inc.",
+    "website": "https://www.paulyonkers.com",
+    "vertical": "plumbing",
+    "city": "Sea Cliff",
+    "region": "NY",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google lists 'Open 24 hours'; website says technicians on-call 24/7 and publishes a separate emergency line, (516) 727-0825. Office hours not published",
+    "hoursSource": "Google Maps listing; official website home, About and Contact pages",
+    "phone": "(516) 759-2601",
+    "phoneSource": "Official website header tel link and Contact page (Office: (516) 759-2601 or (516) 628-8229; Emergencies: (516) 727-0825); main number matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.6,
+    "googleReviews": 50,
+    "latestReviewAge": "6 months ago",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for paulyonkers.com",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "They reach out to me ask for a video... they told me they will get back soon with estimates. I never get estimate. (Google review, 6 months ago; owner replied he was out of the office and 'almost all prices are done by me')",
+    "locallyOwned": true,
+    "ownershipNote": "Family owned since 1981 (website); BBB lists Paul Yonkers as President with business start 1981-10-05. A web-search summary says Paul Yonkers Jr. is now co-owner (not confirmed from an allowed source)",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name technicians Anthony and Mike plus office staff; BBB lists only Paul Yonkers)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Squarespace site (Doukas Media) with 'Request an Appointment' form page; Gmail business email; separate published emergency line; no chat, text, booking or call-tracking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Paul Yonkers",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/ny/sea-cliff/profile/plumber/paul-yonkers-plumbing-heating-inc-0121-107172",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The owner said publicly that almost all quotes go through him and a request fell through while he was out; how many estimate requests and after-hours calls wait on one person today?",
+    "hooks": [
+      "Family owned since 1981 in Sea Cliff; Paul Yonkers is president",
+      "Owner reply to a review: 'almost all prices are done by me' after a customer never got an estimate",
+      "Advertises technicians on-call 24/7 with a separate emergency number",
+      "4.6 stars on 50 Google reviews",
+      "Plumbing, boilers, gas conversions and radiant heat across Long Island's North Shore"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.paulyonkers.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.paulyonkers.com/yonkers-about-us"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.paulyonkers.com/yonkers-contact-us"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ny/sea-cliff/profile/plumber/paul-yonkers-plumbing-heating-inc-0121-107172"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Paul+Yonkers+Plumbing+and+Heating+327+Glen+Cove+Ave+Sea+Cliff+NY"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=paulyonkers.com"
+      }
+    ],
+    "notes": "Long Island (Nassau County). Review count is at the low end (50). afterHoursGap null: they publish an emergency line and claim on-call techs 24/7, so the gap is the owner bottleneck on quotes rather than night coverage. The owner reply mentions his wife just had a baby, which suggests the younger Paul Yonkers (Jr.) may be the active owner; confirm on the call. latestReviewAge from default 'relevant' sort; recency not confirmed. Free estimate mentioned for oil-to-gas conversions. Verified 2026-09-25."
+  },
+  {
+    "company": "Freeport Garage Door Company Inc.",
+    "website": "https://www.freeportgaragedoor.com",
+    "vertical": "garage-doors",
+    "city": "Freeport",
+    "region": "NY",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Fri 8am–5pm; Saturday by appointment only (closed Saturdays in Jan, Feb, Jul, Aug); Sunday closed",
+    "hoursSource": "Official website footer (Business Hours); Google Maps listing shows 'Opens 8 AM Mon' (checked Friday night)",
+    "phone": "(516) 623-1928",
+    "phoneSource": "Official website header, tel links and footer; matches Google Maps listing. BBB lists a different number, (516) 223-4846",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.6,
+    "googleReviews": 128,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 6 ads for freeportgaragedoor.com, advertiser 'All Island Media, Inc' (an agency running ads on their behalf); date range not recorded",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Established 1959; 'independent contractor, remaining steadfast as a family-owned and operated business' (About page). BBB lists Karyn Winsky as Owner; LinkedIn lists Janet Amendolao as President",
+    "franchise": false,
+    "employeesEstimate": "unknown (own fleet of trucks and directly employed technicians and installers; reviews name techs Ben, Shaun, Michael and office staff Karen)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site with free-estimate form; no chat, text, booking or call-tracking widget found in page source. A recent reviewer mentions 'the call center' and text/call arrival updates, so some dispatch notification tool may be in use",
+    "sophisticatedContactCenter": false,
+    "dmName": "Karyn Winsky",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/ny/freeport/profile/garage-doors/freeport-garage-door-co-inc-0121-19160",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is open weekdays 8 to 5 with Saturdays by appointment only, and no emergency line is published; when a spring snaps on a Sunday or after 5pm and a car is stuck, where does that call go?",
+    "hooks": [
+      "Family-owned and independent since 1959, serving Nassau and Suffolk counties",
+      "4.6 stars on 128 Google reviews, newest a couple of months old",
+      "Hours are Mon–Fri 8–5, Saturday by appointment only, closed Sundays",
+      "Running Google ads through All Island Media (6 ads)",
+      "Offers free estimates; own trucks and in-house technicians"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.freeportgaragedoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.freeportgaragedoor.com/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ny/freeport/profile/garage-doors/freeport-garage-door-co-inc-0121-19160"
+      },
+      {
+        "label": "LinkedIn (Janet Amendolao, President)",
+        "url": "https://www.linkedin.com/in/janet-amendolao-7803743b/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Freeport+Garage+Door+20+Guy+Lombardo+Ave+Freeport+NY"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=freeportgaragedoor.com"
+      }
+    ],
+    "notes": "Long Island (Nassau County). Decision maker is uncertain: BBB says Karyn Winsky (Owner), LinkedIn says Janet Amendolao (President); ask for the owner on the call. BBB lists founding as 1968 and phone (516) 223-4846, both of which differ from the website (1959, (516) 623-1928). No 24/7 or emergency service is advertised, so emergency247=false and afterHoursGap=null. A 5-month-old review praises 'the call center', which may mean an answering service or a dispatcher. Financing not mentioned. Considered A Better Door Company (Center Moriches) but it has only 36 Google reviews and Google shows a different number than its website. Verified 2026-09-25."
+  },
+  {
+    "company": "J.P. McCurdy Electrical Services, Inc.",
+    "website": "https://www.mccurdyelectric.com",
+    "vertical": "electrical",
+    "city": "Lynn",
+    "region": "MA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google lists 'Open 24 hours'; website says the office is open Monday–Friday 'during our normal business hours' (times not published) plus 24/7 emergency service",
+    "hoursSource": "Google Maps listing; official website Contact and 24 Hour Emergency Service pages",
+    "phone": "(781) 595-7074",
+    "phoneSource": "Official website header, contact page and emergency page; matches Google Maps listing and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 73,
+    "latestReviewAge": "4 weeks ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for mccurdyelectric.com",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Owner and President John P. McCurdy (BBB; a Google review calls him 'John (the owner)'). Serving the North Shore since 1988 per website; incorporated 1999 per BBB. Family ownership not stated",
+    "franchise": false,
+    "employeesEstimate": "18 (BBB profile)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "WordPress (Divi) site with contact and estimate forms; no chat, text, booking or call-tracking widget found in page source. Office staff named in reviews: Judy, Beatriz, Alicia; field service manager Joe",
+    "sophisticatedContactCenter": false,
+    "dmName": "John P. McCurdy",
+    "dmTitle": "President / Owner",
+    "dmSource": "https://www.bbb.org/us/ma/lynn/profile/electrical-contractors/jp-mccurdy-electrical-services-inc-0021-91998/addressId/769957",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Their emergency page promises that anyone calling the service line at any hour 'will get a professional technician'; how does that on-call rotation hold up for 18 people across homes, businesses and security clients, and what happens to non-emergency calls after hours?",
+    "hooks": [
+      "John P. McCurdy is owner and president; about 18 employees (BBB)",
+      "4.9 stars on 73 Google reviews, several in the last month",
+      "Promises 24/7 emergency service where a technician answers the service line",
+      "Regional offices listed in Salem, Woburn, Danvers, Marblehead and Beverly, all on the same main number",
+      "Knob-and-tube replacement, generators, EV chargers, alarms and surveillance"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.mccurdyelectric.com/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.mccurdyelectric.com/contact/"
+      },
+      {
+        "label": "24 Hour Emergency page",
+        "url": "https://www.mccurdyelectric.com/24-hour-emergency-electrician-service/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ma/lynn/profile/electrical-contractors/jp-mccurdy-electrical-services-inc-0021-91998/addressId/769957"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/J.P.+McCurdy+Electrical+Services+330+Lynnway+Lynn+MA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=mccurdyelectric.com"
+      }
+    ],
+    "notes": "Boston North Shore suburbs. A second Google listing (17 Walnut Rd, Swampscott; 4.7 on 55 reviews) uses the same phone number; that is the accounting/billing office per the website, and review counts were not combined. The 'regional offices' on the contact page share the main number and may be service-area pages rather than staffed locations, so locations=1. afterHoursGap null because the site says a technician answers after hours. Also does commercial, industrial and security work. The site's About page URL returned 404. Verified 2026-09-25."
+  },
+  {
+    "company": "J&B Comfort Systems, Inc.",
+    "website": "https://www.jbcomfort.com",
+    "vertical": "hvac",
+    "city": "King of Prussia",
+    "region": "PA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google lists 'Open 24 hours'; website publishes a separate 'Daytime' line and an 'Emergency Service' line, implying staffed daytime hours (times not published)",
+    "hoursSource": "Google Maps listing; official website footer (Daytime: 610-738-9260; Emergency Service: 484-368-6133)",
+    "phone": "(610) 738-9260",
+    "phoneSource": "Official website header and footer ('Daytime'); matches Google Maps listing. Separate emergency line (484) 368-6133 published on the website",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 69,
+    "latestReviewAge": "3 months ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for jbcomfort.com",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": null,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founded 1986 by husband-and-wife John and Barbara DeLiberali; daughter Stacy DiAddezio is Business Manager; 'family-owned traditions' (About page)",
+    "franchise": false,
+    "employeesEstimate": "unknown (Our Staff page describes technicians and an administrative team; no count)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "Wix site; 'Schedule' page with Schedule Service / Schedule Maintenance / Request Estimate request forms (not real-time booking). Page source includes Wix Chat and Wix Bookings app definitions, but no live chat or bookable calendar was confirmed; no Podium/ServiceTitan/etc. found",
+    "sophisticatedContactCenter": false,
+    "dmName": "John DeLiberali",
+    "dmTitle": "Co-founder / Owner (with Barbara DeLiberali)",
+    "dmSource": "https://www.jbcomfort.com/about",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They split calls between a daytime office line and a separate emergency number; when a Main Line homeowner loses heat at night and dials the daytime number from Google, does anyone pick up?",
+    "hooks": [
+      "Family owned since 1986; founded by John and Barbara DeLiberali, daughter Stacy DiAddezio is business manager",
+      "4.9 stars on 69 Google reviews; reviewers praise Barbara on the phone",
+      "Separate daytime and emergency phone numbers; advertises 24/7 availability 'weekday, week night, or weekend'",
+      "Serves the Main Line and Chester, Delaware and Montgomery counties",
+      "Maintenance agreements with unlimited service calls; free installation estimates"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.jbcomfort.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.jbcomfort.com/about"
+      },
+      {
+        "label": "Emergency Service page",
+        "url": "https://www.jbcomfort.com/emergency-service"
+      },
+      {
+        "label": "Schedule page",
+        "url": "https://www.jbcomfort.com/schedule-appointment"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/J%26B+Comfort+Systems+King+of+Prussia+PA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=jbcomfort.com"
+      }
+    ],
+    "notes": "Philadelphia suburbs (Main Line). Address differs: website says 575 South Goddard Blvd, King of Prussia; Google Maps shows 23 Old Lancaster Rd, Devon. Google phone matches the website's daytime number. Office hours are not published, so afterHoursGap is inferred from the split daytime/emergency lines. chatOrText null because a Wix Chat app is present in page source but not confirmed visible. Financing not mentioned. Also does commercial HVAC. Verified 2026-09-25."
+  },
+  {
+    "company": "Mahon Plumbing",
+    "website": "https://www.marylandplumbingservices.com",
+    "vertical": "plumbing",
+    "city": "Baltimore",
+    "region": "MD",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Office Mon–Fri 8am–4pm; 24/7 emergency service advertised (Google lists 'Open 24 hours')",
+    "hoursSource": "Official website contact page (Office Hours: Monday – Friday: 8am – 4pm); Google Maps listing",
+    "phone": "(410) 766-8566",
+    "phoneSource": "Official website header, contact page and footer; matches Google Maps listing and BBB. Yelp shows a different number, (410) 636-7944",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 283,
+    "latestReviewAge": "2 months ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for marylandplumbingservices.com",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family-owned, serving the Baltimore/Anne Arundel area since 1994 (website). BBB lists Gregory P. Mahon as President and Chrissy Mahon as Office Manager",
+    "franchise": false,
+    "employeesEstimate": "unknown (a crew of technicians, company trucks and office staff; reviews name Chris, Tim and Jacob; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site (Adventure Web Digital) with 'Schedule a Service Call' request form; Financing and Coupons pages; no chat, text, booking or call-tracking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Gregory P. Mahon",
+    "dmTitle": "President",
+    "dmSource": "https://www.bbb.org/us/md/curtis-bay/profile/plumber/mahon-plumbing-inc-0011-90098481",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office is staffed 8 to 4 on weekdays while the site promises staff 24/7 for emergencies across five Maryland counties; who takes the burst-pipe or sewer-backup call at 9pm on a Saturday?",
+    "hooks": [
+      "Family-owned since 1994; Greg Mahon is president and Chrissy Mahon runs the office",
+      "4.9 stars on 283 Google reviews; a recent reviewer says Chris came out on a Sunday",
+      "Office hours Mon–Fri 8am–4pm, but advertises 24/7 emergency service",
+      "Plumbing, sewer, water main and utility work across Baltimore City and County, Anne Arundel, Howard and Queen Anne's",
+      "Offers financing and coupons"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.marylandplumbingservices.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.marylandplumbingservices.com/about-us/"
+      },
+      {
+        "label": "Contact page (office hours)",
+        "url": "https://www.marylandplumbingservices.com/contact-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/md/curtis-bay/profile/plumber/mahon-plumbing-inc-0011-90098481"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Mahon+Plumbing+6824+Fort+Smallwood+Rd+Baltimore+MD"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=marylandplumbingservices.com"
+      }
+    ],
+    "notes": "Baltimore metro (Curtis Bay). Also does commercial, new construction and utility contracting, but residential service is a clear focus. Free estimates: site mentions 'upfront and honest estimate' but not free, so null. Employee count unknown. Verified 2026-09-25."
+  },
+  {
+    "company": "ServicePros Cleaning & Restoration",
+    "website": "https://www.serviceproscleanup.com",
+    "vertical": "restoration",
+    "city": "Gaithersburg",
+    "region": "MD",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Mon–Sun 24 hours ('Available 24/7 Immediate Response')",
+    "hoursSource": "Official website contact page; Google Maps listing shows 'Open 24 hours'",
+    "phone": "(301) 252-7929",
+    "phoneSource": "Official website contact page ('Main Phone: 301-252-7929', also the most-repeated tel link on the home page). The site also shows (301) 383-9484 ('Call or Text') and (301) 923-4724 in the header. Google Maps listing shows a different number, (301) 719-5364",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.6,
+    "googleReviews": 115,
+    "latestReviewAge": "5 months ago",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 2 ads for serviceproscleanup.com, advertiser 'Yellow Book USA, Inc' (a directory/ad agency, i.e. Thryv/Yellow Pages) running them on the company's behalf",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "I cannot urge you strongly enough to stay away from this company. (Google review, 9 months ago; complaint about statements made by the team leader, not about missed calls; no owner reply seen)",
+    "locallyOwned": true,
+    "ownershipNote": "'Trusted local, family-owned, and veteran-owned company' serving MD, DC and VA since 2001; founder's note signed 'Natenael T.', owner (About page). Google listing 'Identifies as veteran-owned'",
+    "franchise": false,
+    "employeesEstimate": "unknown (reviews name a billing specialist, Ana, and team leaders; no count)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "CallRail call tracking (script in page source; several different phone numbers on site and Google); 'Call or Text' line advertised; Request Service form; no chat or online booking widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Natenael T.",
+    "dmTitle": "Owner / Founder",
+    "dmSource": "https://www.serviceproscleanup.com/about877bb33b",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They promise 24/7 immediate response across Maryland, DC and Northern Virginia with at least four different phone numbers in circulation; who answers each of those lines at 3am, and are all of them tracked back to a booked job?",
+    "hooks": [
+      "Family-owned and veteran-owned, serving MD, DC and VA since 2001; owner Natenael signs the founder's note",
+      "4.6 stars on 115 Google reviews",
+      "Advertises 24/7 immediate response and under-one-hour arrival",
+      "Ads run through Yellow Book USA (2 ads in the Ads Transparency Center)",
+      "Water, mold and fire restoration plus remodeling; bilingual English/Spanish service"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.serviceproscleanup.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.serviceproscleanup.com/about877bb33b"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://www.serviceproscleanup.com/contact"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/ServicePros+Cleaning+%26+Restoration+Gaithersburg+MD"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=serviceproscleanup.com"
+      }
+    ],
+    "notes": "DC/Montgomery County MD suburbs. Owner's full surname is not published on the site (only 'Natenael T.'); not verified on BBB or LinkedIn. Phone situation is messy: 301-252-7929 is labeled Main Phone on the contact page and is used most on the home page, but Google shows 301-719-5364 and the header shows 301-383-9484 and 301-923-4724 (likely CallRail tracking numbers). afterHoursGap null because they claim 24/7 staffing. Newest review seen in default sort was 5 months old; one reviewer mistakenly calls them 'Servpro' (they are not a SERVPRO franchise). Verified 2026-09-25."
+  },
+  {
+    "company": "C&C Family Roofing & Siding",
+    "website": "https://www.candcfamilyroofing.com",
+    "vertical": "roofing",
+    "city": "Hatboro",
+    "region": "PA",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Office Mon–Fri 8am–5pm; '24/7 Emergency Service' advertised (Google lists 'Open 24 hours')",
+    "hoursSource": "Official website footer ('Office Hours 24/7 Emergency Service Monday – Friday 8AM – 5PM'); Google Maps listing",
+    "phone": "(215) 322-8687",
+    "phoneSource": "Official website header and footer ('PA: 215-322-8687'; NJ office 609-737-5947). Google Maps listing for the Hatboro office shows a different number, (215) 709-3093 (likely a tracking number)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.7,
+    "googleReviews": 691,
+    "latestReviewAge": "3 weeks ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 54 ads for candcfamilyroofing.com, advertiser 'C & C Family Contractors Inc' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Not a great experience, no accountability for poor work overall... Project manager was supposed to come out to... (Google review, 3 months ago; owner replied a month later apologizing for the concerns and the communication)",
+    "locallyOwned": true,
+    "ownershipNote": "Founded about 30 years ago by Gary and Rhonda Selleck and named after their children Chelsea and Cole; 'family owned and operated' (home and team pages). Team page lists Gary Selleck as President/Owner and Chris Weselovs as Vice President/Owner",
+    "franchise": false,
+    "employeesEstimate": "~30 (team page lists about 30 named staff: owners, 7 project managers, service manager, technicians and office staff)",
+    "employeeBand": "16-50",
+    "locations": 2,
+    "existingTools": "Gatsby site with request-service/free-estimate forms and a reviews widget; no chat, text, booking or call-tracking script found in page source (but Google shows a different number than the site)",
+    "sophisticatedContactCenter": false,
+    "dmName": "Gary Selleck",
+    "dmTitle": "President / Owner",
+    "dmSource": "https://www.candcfamilyroofing.com/ccs-team/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They run 54 Google ads and advertise 24/7 emergency leak repair across Bucks, Montgomery and New Jersey, but the office is staffed 8 to 5 on weekdays; who answers a storm-leak call on a Saturday night, and does it reach a project manager?",
+    "hooks": [
+      "Family-owned for 30+ years; Gary Selleck founded it with his wife Rhonda and named it after their kids",
+      "4.7 stars on 691 Google reviews, newest a few weeks old",
+      "Heavy Google advertiser (54 ads in the Ads Transparency Center)",
+      "Office hours Mon–Fri 8–5, yet advertises 24/7 emergency service",
+      "Two offices: Hatboro, PA and Pennington, NJ; 0% financing and free estimates"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.candcfamilyroofing.com/"
+      },
+      {
+        "label": "Team page",
+        "url": "https://www.candcfamilyroofing.com/ccs-team/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/C%26C+Family+Roofing+PA"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=candcfamilyroofing.com"
+      }
+    ],
+    "notes": "Philadelphia suburbs (Montgomery County) plus a Pennington, NJ office. Near the top of the size band (~30 staff, 2 locations) and a heavy ad spender, so their phone handling may be more developed than the site shows; no contact-center evidence found. phonePrimaryCta false because the site leads with 'Request a Free Estimate' forms, though call buttons are prominent. Also does commercial roofing (VP Chris Weselovs). Verified 2026-09-25."
+  },
+  {
+    "company": "American A-1 Waterproofing",
+    "website": "https://americana1waterproofing.com",
+    "vertical": "foundation",
+    "city": "Haledon",
+    "region": "NJ",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Google lists set business hours including Saturday (checked Friday night: 'Closed · Opens 7 AM Sat'); full weekly hours not verified. Website publishes no hours",
+    "hoursSource": "Google Maps listing",
+    "phone": "(973) 942-7276",
+    "phoneSource": "Official website contact page ('Get In Touch! (973) 942-7276') and call buttons; matches Google Maps listing. A second number, 973-942-7626, appears once in the site source (possibly a typo or fax)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 97,
+    "latestReviewAge": "3 months ago",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for americana1waterproofing.com",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Do not waste your time, call Quality 1st, much more organized reputable company. (Google review summary snippet; review date not seen)",
+    "locallyOwned": true,
+    "ownershipNote": "Founded 1990 by Roland Achtau, who owned it 25 years; current owner Lubeth 'Lu' Manzo, a former laborer/foreman/salesman, took over about five years ago (About page). Locally owned and operated; the site calls itself family-owned in one place",
+    "franchise": false,
+    "employeesEstimate": "unknown (owner plus crews; reviews mention 'Lou and his crew/workers')",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress (Beaver Builder) site with Gravity Forms free-estimate and 'Request A Call Back' forms; embedded Google reviews; no chat, text, booking or call-tracking widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Lubeth \"Lu\" Manzo",
+    "dmTitle": "Owner",
+    "dmSource": "https://americana1waterproofing.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Reviewers praise how responsive Lu is personally, and the website leads with forms rather than a phone number; when the owner is on a job site, who answers a homeowner calling with water in the basement during a storm?",
+    "hooks": [
+      "Owner Lu Manzo worked his way up from laborer to owner, taking over from founder Roland Achtau",
+      "In business since 1990, based in Haledon and serving Bergen, Passaic, Essex, Union, Hudson and Somerset counties",
+      "4.8 stars on 97 Google reviews; reviewers say Lu is very responsive",
+      "25-year transferable warranty and free estimates",
+      "Interior/exterior waterproofing, foundation repair, mold remediation and drainage"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://americana1waterproofing.com/"
+      },
+      {
+        "label": "About page (owner)",
+        "url": "https://americana1waterproofing.com/about-us/"
+      },
+      {
+        "label": "Contact page",
+        "url": "https://americana1waterproofing.com/contact-us/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/American+A-1+Waterproofing+Haledon"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=americana1waterproofing.com"
+      }
+    ],
+    "notes": "North Jersey (Passaic County). Foundation/waterproofing (A-tier). No 24/7 or emergency service advertised, so emergency247=false and afterHoursGap=null. The negative quote is from Google's review-summary highlights; its date and context were not verified. phonePrimaryCta false: the hero CTA is a free-estimate form, with 'Call Us' as a secondary button. Financing not mentioned. Owner name spelled 'Lubeth \"Lu\" Manzo' on the About page; reviewers spell it 'Lou'. Verified 2026-09-25."
+  },
+  {
+    "company": "Rayzor's Edge Tree Service",
+    "website": "https://www.rayzorsedgetreeservice.com",
+    "vertical": "tree",
+    "city": "Stratford",
+    "region": "CT",
+    "country": "US",
+    "timezone": "America/New_York",
+    "hours": "Office Mon–Fri 9am–4pm; Sat–Sun closed; '24/7 Emergency Tree Service' advertised",
+    "hoursSource": "Official website contact page (Office Hours); Google Maps listing shows set hours ('Closed · Opens 8 AM Sat', checked Friday night), which conflicts with the site's closed weekends",
+    "phone": "(203) 258-5584",
+    "phoneSource": "Official website header, contact page and emergency page; Google Maps listing shows a different number, (203) 718-3241 (likely a tracking number)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 4.9,
+    "googleReviews": 274,
+    "latestReviewAge": "6 months ago",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 2 ads for rayzorsedgetreeservice.com, advertisers 'Raymond Boychew' and 'Rayzor's Edge' (date range not recorded)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'Local, family-run operation' founded in 2004 by Ray Boychew Sr.; based in Stratford (About page). Google Ads advertiser name is Raymond Boychew",
+    "franchise": false,
+    "employeesEstimate": "unknown (multiple crews, crane, office staff and firewood delivery; no count published)",
+    "employeeBand": "unknown",
+    "locations": 1,
+    "existingTools": "WordPress site (Tree Care Marketing Solutions) with Gravity Forms 'Request an Appointment' and 'Approve a Proposal' pages; Google Business Profile shows a 'Book' button; no chat, text or field-service widget found in page source",
+    "sophisticatedContactCenter": false,
+    "dmName": "Ray Boychew Sr.",
+    "dmTitle": "Founder",
+    "dmSource": "https://www.rayzorsedgetreeservice.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "They advertise 24/7 storm and emergency tree removal across five Connecticut counties, but the office is open only 9 to 4 on weekdays; when a tree lands on a roof during a Saturday-night storm, who picks up?",
+    "hooks": [
+      "Family-run since 2004; founded by Ray Boychew Sr.",
+      "4.9 stars on 274 Google reviews",
+      "Office hours Mon–Fri 9–4, weekends closed, yet promotes 24/7 emergency tree service",
+      "TCIA-accredited, CT licensed arborists, crane removals; also sells kiln-dried firewood",
+      "Running Google ads (advertiser Raymond Boychew)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.rayzorsedgetreeservice.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.rayzorsedgetreeservice.com/about/"
+      },
+      {
+        "label": "Contact page (office hours)",
+        "url": "https://www.rayzorsedgetreeservice.com/contact/"
+      },
+      {
+        "label": "Emergency tree service page",
+        "url": "https://www.rayzorsedgetreeservice.com/emergency-tree-service/"
+      },
+      {
+        "label": "Google Maps listing",
+        "url": "https://www.google.com/maps/search/Rayzor's+Edge+Tree+Service+CT"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=rayzorsedgetreeservice.com"
+      }
+    ],
+    "notes": "Based in Stratford, CT (Bridgeport/New Haven area), outside the listed metros but serving Hartford County among five CT counties. Ray Boychew Sr. is named as founder; whether he or a son (the 'Sr.' implies a Jr.) runs it today is not confirmed. Google phone differs from the website. Newest review in default sort was 6 months old (several reviews concern firewood sales), so recentReviews is null. Financing not mentioned. Verified 2026-09-25."
+  }
+]

@@ -161,7 +161,8 @@ export function buildScript(l: Lead, st: Settings, score: Scored): Script {
   const ownerRef = dm ? f(dm) : 'the owner'
   const coPlain = shortName(l.company)
   const co = f(coPlain)
-  const city = f(l.city)
+  // "Hudson (Tampa Bay area)" / "Jefferson / Gainesville" → what you'd actually say
+  const city = f(l.city.replace(/\s*\(.*?\)/g, '').split('/')[0].trim())
   const trade = f(t.trade)
   const close = closingTime(l.hours)
   const [slotA, slotB] = slots(l.timezone)

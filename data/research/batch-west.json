@@ -1,0 +1,1115 @@
+[
+  {
+    "company": "Restoration Pro, Inc.",
+    "website": "https://rpidaho.com",
+    "vertical": "restoration",
+    "city": "Garden City (Boise metro)",
+    "region": "ID",
+    "country": "US",
+    "timezone": "America/Boise",
+    "hours": "Office Mon–Fri 8am–5pm; Sat–Sun emergency only; 24/7 emergency service (website). Google Business Profile shows 'Open 24 hours'",
+    "hoursSource": "Official website About page; Google Maps business profile",
+    "phone": "(208) 922-8741",
+    "phoneSource": "Official website header ('Call or Text') and CTA; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 110,
+    "latestReviewAge": "2 months ago (newest seen among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for rpidaho.com (US, any time). Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founded 2008; owner/president Matthew Evans, whose wife, son Andrew (Mitigation Manager) and son-in-law work in the business (About page). No parent brand mentioned",
+    "franchise": false,
+    "employeesEstimate": "~8–20 (About page names owner, GM Kevin Lovell, sales/marketing director, mitigation manager plus family members; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Main number is advertised as 'Call or Text'; contact form. No chat, booking or review widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Matthew Evans",
+    "dmTitle": "Owner / President",
+    "dmSource": "https://rpidaho.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With the office staffed 8–5 on weekdays and weekends listed as 'emergency only', who answers a Saturday-night flooded-basement call from McCall or Nampa?",
+    "hooks": [
+      "Family business since 2008: Matthew Evans owns it, and his son Andrew runs mitigation",
+      "Office hours are Mon–Fri 8–5, with weekends emergency-only, while the site advertises 24/7 response",
+      "4.7 stars on 110 Google reviews; reviewers often mention insurance coordination",
+      "Covers a wide area, from the Treasure Valley up to McCall, Cascade and Donnelly",
+      "No Google ads running"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://rpidaho.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://rpidaho.com/about/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Restoration+Pro+505+E+46th+St+Garden+City+ID"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=rpidaho.com"
+      }
+    ],
+    "notes": "Google Maps' newest-sort menu would not open in the shared browser, so review recency is unconfirmed (newest seen among top reviews was ~2 months). Financing not mentioned. Complaint check covered only the 3 top reviews shown. Also serves commercial, but residential is prominent ('4,000 homes serviced'). Verified 2026-09-25."
+  },
+  {
+    "company": "Anchor Water Damage & Restoration",
+    "website": "https://www.anchorrestoration.com",
+    "vertical": "restoration",
+    "city": "South Jordan (Salt Lake City metro)",
+    "region": "UT",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Mon–Sun 8am–8pm, plus 24/7 emergency response",
+    "hoursSource": "Official website (home and About page); Google Maps business profile consistent (shows 'Closes 8 PM')",
+    "phone": "(801) 269-0343",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile and BBB primary number (BBB also lists (801) 910-7708)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5.0,
+    "googleReviews": 120,
+    "latestReviewAge": "4 months ago (newest seen among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for anchorrestoration.com (US, any time). Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": null,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Locally owned and family-operated since 2000 (About page); BBB lists Kris Rudarmel and Frank Rudarmel as owners, business started 10/11/2000",
+    "franchise": false,
+    "employeesEstimate": "unknown; husband-and-wife owned, no team count published (likely ~5–15)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "LeadConnector (GoHighLevel) embedded free-quote form in homepage HTML; 'Request Service' form; no chat, text or booking widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Kris Rudarmel",
+    "dmTitle": "Owner / President & co-founder (co-owner with Frank Rudarmel)",
+    "dmSource": "https://www.bbb.org/us/ut/south-jordan/profile/water-damage-restoration/anchor-water-damage-restoration-1126-22170304",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Office hours end at 8pm and 24/7 emergency response is advertised: when a Herriman basement floods at 2am, who picks up, one of the owners?",
+    "hooks": [
+      "Husband-and-wife owned since 2000: Kris and Frank Rudarmel",
+      "5.0 stars on 120 Google reviews",
+      "Listed hours are 8am–8pm daily, with 24/7 emergency response advertised",
+      "Serves most of Salt Lake County, from Herriman and Daybreak to Park City",
+      "Runs a GoHighLevel quote form but no Google ads"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.anchorrestoration.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://anchorrestoration.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ut/south-jordan/profile/water-damage-restoration/anchor-water-damage-restoration-1126-22170304"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Anchor+Water+Damage+%26+Restoration+South+Jordan+UT"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=anchorrestoration.com"
+      }
+    ],
+    "notes": "President/co-founder title for Kris comes from a web-search summary (KUTV feature / company blog); BBB confirms both Kris and Frank as Owner. Review recency unconfirmed: the three top reviews were all ~4 months old and the newest-sort menu would not open. Also does carpet cleaning. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Springs Heating & Cooling, LLC",
+    "website": "https://springshac.com",
+    "vertical": "hvac",
+    "city": "Colorado Springs",
+    "region": "CO",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "8am–11pm, 7 days a week",
+    "hoursSource": "Official website header and Emergency HVAC page; Google Maps business profile consistent ('Closes 11 PM')",
+    "phone": "(719) 235-3779",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 609,
+    "latestReviewAge": "3 weeks ago",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 1 ad for springshac.com (a call/Maps-style ad), advertiser 'GenNext Media, Inc.' (verified), which looks like an agency",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Veteran-owned since April 2015; the About page says it is not a franchise and not backed by private equity. Google profile 'Identifies as veteran-owned'",
+    "franchise": false,
+    "employeesEstimate": "~8–15 (reviews name techs Matt and Jared; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "'Schedule Now' / quote request forms (custom site, no third-party scheduler); financing pre-qualification link. No chat, text, ServiceTitan or other widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Mark Ternes",
+    "dmTitle": "Owner / Operator (BBB lists him as Manager)",
+    "dmSource": "https://www.bbb.org/us/co/colorado-springs/profile/heating-contractors/springs-heating-cooling-llc-0785-87355012",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The emergency page promises 'we answer the phone', with hours of 8am–11pm. What happens to a furnace-out call at 2am in January?",
+    "hooks": [
+      "Veteran-owned since 2015 by Mark Ternes; says it is not a franchise or PE-backed",
+      "4.9 stars on 609 Google reviews, newest 3 weeks ago",
+      "Open 8am–11pm, 7 days, not 24/7",
+      "Emergency page says 'you do not want a call center routing your message to voicemail'",
+      "Serves El Paso County, from Monument and Black Forest down to Fountain and Fort Carson"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://springshac.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://springshac.com/about"
+      },
+      {
+        "label": "Emergency HVAC page",
+        "url": "https://springshac.com/emergency-hvac"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/co/colorado-springs/profile/heating-contractors/springs-heating-cooling-llc-0785-87355012"
+      },
+      {
+        "label": "LinkedIn (Mark Ternes, Owner Operator)",
+        "url": "https://www.linkedin.com/in/mark-ternes-169aa051/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Springs+Heating+%26+Cooling+1667+Berglind+Rd+Colorado+Springs"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=springshac.com"
+      }
+    ],
+    "notes": "Owner name comes from the BBB (Manager) and a LinkedIn search result titled 'Owner Operator'; the website itself does not name him. Not advertised as 24/7, so the gap is the 11pm–8am overnight window. Reviews also name a 'Matt'. Also does light commercial. Colorado Springs HVAC is crowded with 800–1,900-review competitors. Verified 2026-09-25."
+  },
+  {
+    "company": "Valley Air Conditioning & Repair, Inc.",
+    "website": "https://valleyairrepair.com",
+    "vertical": "hvac",
+    "city": "Fresno",
+    "region": "CA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Google Business Profile: closed weekends, opens 8am Monday (weekday closing time not captured); website advertises '24/7 emergency repairs available'",
+    "hoursSource": "Google Maps business profile; official website home page",
+    "phone": "(559) 237-3188",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 173,
+    "latestReviewAge": "a month ago (newest among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": true,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 27 ads for valleyairrepair.com (search text ads such as 'Valley Air Repair - Same Day Service Available', plus image/video ads); advertiser 'Nettra Marketing, Inc.' (verified), an agency",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": true,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founded 1970 by Tobbie Hopper as a one-man shop; website says family-owned and operated; Google profile 'Identifies as women-owned'. BBB lists Tobbie Biglione (CEO), Brian Eugene Biglione (VP) and Stephen James (Secretary)",
+    "franchise": false,
+    "employeesEstimate": "70+ (About page: 'over 40 service vehicles and has over 70 employees')",
+    "employeeBand": "51-100",
+    "locations": 1,
+    "existingTools": "Podium webchat/text widget (connect.podium.com widget.js) loaded on every page; 'Book Now' buttons go to a contact form, not a live scheduler; financing application link",
+    "sophisticatedContactCenter": false,
+    "dmName": "Tobbie Biglione",
+    "dmTitle": "CEO (BBB); Brian Eugene Biglione is VP",
+    "dmSource": "https://www.bbb.org/us/ca/fresno/profile/air-conditioning-contractor/valley-air-conditioning-repair-inc-1126-7787",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Google shows the office closed all weekend while the site advertises 24/7 emergency repairs: who takes a Saturday-afternoon no-AC call in a 105° Fresno July?",
+    "hooks": [
+      "Family-owned since 1970, founded as a one-man shop; now 70+ employees and 40+ trucks",
+      "4.8 stars on 173 Google reviews; owner replies to reviews",
+      "Google lists them closed weekends, while the site promises 24/7 emergency repairs",
+      "Running 27 Google ads through an agency (Nettra Marketing)",
+      "Podium chat on the site; 'Book Now' is a contact form"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://valleyairrepair.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://valleyairrepair.com/about-us"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ca/fresno/profile/air-conditioning-contractor/valley-air-conditioning-repair-inc-1126-7787"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Valley+Air+Conditioning+%26+Repair+825+S+Topeka+Ave+Fresno"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=valleyairrepair.com"
+      }
+    ],
+    "notes": "At the top of the acceptable size range (70+ employees) and a meaningful commercial/industrial/new-construction mix (cogeneration, AG-mechanical, Title 24); residential is still marketed prominently. The About page's founder 'Tobbie Hopper' is referred to as 'he'; BBB lists 'Mrs. Tobbie Biglione, CEO'. The relationship is not verified, so confirm the DM on the call. Weekday closing time was not captured. Verified 2026-09-25."
+  },
+  {
+    "company": "Legacy Garage Doors",
+    "website": "https://www.legacygaragedoorservices.com",
+    "vertical": "garage-doors",
+    "city": "Boise",
+    "region": "ID",
+    "country": "US",
+    "timezone": "America/Boise",
+    "hours": "Mon–Fri 9am–5pm; '24/7 Emergency Services Available' (website). Google Business Profile shows 'Open 24 hours'",
+    "hoursSource": "Official website footer; Google Maps business profile",
+    "phone": "(208) 366-4881",
+    "phoneSource": "Official website header (Boise line; Emmett line 208-366-4915). Google Maps business profile shows a DIFFERENT number, (208) 575-7117, and BBB shows (208) 944-1110 (likely tracking numbers)",
+    "phoneMatchesGoogle": false,
+    "googleRating": 5.0,
+    "googleReviews": 435,
+    "latestReviewAge": "a month ago (newest among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for legacygaragedoorservices.com (US, any time). Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": false,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website says 'Family Owned Service'; reviews say owner Spencer does the work himself; BBB lists Spencer Dail Harris as Owner, business started 7/11/2018 (BBB profile filed under Emmett, ID)",
+    "franchise": false,
+    "employeesEstimate": "~5–12 (owner-operated; reviews name Spencer plus office staff; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 3,
+    "existingTools": "ServiceTitan Scheduling Engine 'Schedule Online' widget (ScheduleEngine.show()) is the main header CTA. ServiceTitan web chat was added 9/23/25 and removed 07-21-26, according to an HTML comment in the page source. Financing page",
+    "sophisticatedContactCenter": false,
+    "dmName": "Spencer Dail Harris",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/id/emmett/profile/garage-door-repair/legacy-garage-doors-1296-1000065204",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With the office open 9–5 on weekdays and 24/7 emergency service advertised, who answers a 9pm snapped-spring call when the owner is also the one turning wrenches?",
+    "hooks": [
+      "Family-owned; reviewers mention owner Spencer (Harris) doing their installs himself",
+      "5.0 stars on 435 Google reviews",
+      "Office hours are Mon–Fri 9–5, while the site advertises 24/7 emergency service",
+      "Separate Boise and Emmett lines, plus a Meridian address",
+      "They added ServiceTitan web chat in 2025 and pulled it in July 2026"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.legacygaragedoorservices.com/"
+      },
+      {
+        "label": "Emergency repair page",
+        "url": "https://www.legacygaragedoorservices.com/garage-door-repair/emergency/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/id/emmett/profile/garage-door-repair/legacy-garage-doors-1296-1000065204"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Legacy+Garage+Doors+7151+W+Emerald+St+Boise"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=legacygaragedoorservices.com"
+      }
+    ],
+    "notes": "Locations = 3 addresses/areas on the site (Boise office, Meridian unit, Emmett); the Meridian and Emmett sites may be satellite addresses rather than staffed shops. The 'removed chat' detail is from an HTML comment and is a good conversation opener, but don't overstate it. phonePrimaryCta=false because 'Schedule Online' is the prominent button next to the phone numbers. Verified 2026-09-25."
+  },
+  {
+    "company": "Spokane Overhead Door, Inc.",
+    "website": "https://www.spokaneoverheaddoor.com",
+    "vertical": "garage-doors",
+    "city": "Spokane",
+    "region": "WA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Mon–Fri 7:30am–4:30pm; Sat–Sun closed",
+    "hoursSource": "Official website footer and About page; Google Maps business profile consistent ('Opens 7:30 AM Mon')",
+    "phone": "(509) 482-7262",
+    "phoneSource": "Official website header, footer and tel links; matches Google Maps business profile and BBB (BBB also lists (509) 922-1886)",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.6,
+    "googleReviews": 107,
+    "latestReviewAge": "a month ago (newest among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": true,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for spokaneoverheaddoor.com (US, any time). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family-owned and operated; site says founded 1992 in Spokane and the family has been in garage doors 35+ years. BBB lists Christy C Fitzhugh as Owner, business started 10/1/1994. Independent, not the Overhead Door Corporation dealer (that is the separate 'Overhead Door Company of Spokane-Coeur d'Alene')",
+    "franchise": false,
+    "employeesEstimate": "~5–15 (reviews repeatedly name tech Seth; showroom plus fax line; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Contact form and phone/fax only; no chat, text, booking or review widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Christy C Fitzhugh",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/wa/spokane/profile/garage-doors/spokane-overhead-door-inc-1296-11001878",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 4:30 on weekdays and all weekend, and reviewers praise their emergency response: what happens to a broken-spring call at 6pm on a Friday?",
+    "hooks": [
+      "Family-owned Spokane garage door company since the early 1990s; Christy Fitzhugh is the owner",
+      "4.6 stars on 107 Google reviews; a recent reviewer says Seth arrived within an hour",
+      "Hours are Mon–Fri 7:30–4:30 and closed weekends",
+      "Serves Spokane out to Cheney, Newport, Deer Park and Post Falls, ID",
+      "No ads, chat or online booking: the phone is the whole funnel"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.spokaneoverheaddoor.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.spokaneoverheaddoor.com/about-garage-door-specialists"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/wa/spokane/profile/garage-doors/spokane-overhead-door-inc-1296-11001878"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Spokane+Overhead+Door+3820+E+Dalke+Ave"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=spokaneoverheaddoor.com"
+      }
+    ],
+    "notes": "Founding year differs between the site (1992) and BBB (1994). No 24/7 claim; 'Emergency Overhead Door Repair' appears only among commercial services, so emergency247=false and the after-hours gap rests on weekday-only hours. Does both residential and commercial doors. Free estimates and financing not stated. Verified 2026-09-25."
+  },
+  {
+    "company": "Buddy Heilig & Sons Electric (Buddy & Sons Electric)",
+    "website": "https://buddyelectrical.com",
+    "vertical": "electrical",
+    "city": "Tucson",
+    "region": "AZ",
+    "country": "US",
+    "timezone": "America/Phoenix",
+    "hours": "Mon–Fri 8am–4pm; 'After hours, leave us a message and we'll get right back to you' (website). Google Business Profile shows 'Closes 8 PM'",
+    "hoursSource": "Official website footer and About page; Google Maps business profile",
+    "phone": "(520) 777-4425",
+    "phoneSource": "Official website header, footer and tel links; matches Google Maps business profile and BBB listing snippet",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 353,
+    "latestReviewAge": "3 months ago (newest among 'Most relevant' reviews; owner reply a week ago; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 32 ads for buddyelectrical.com (Maps/local call ads and search text ads such as 'Trusted Electrical Contractor - Reliable Electrical Solutions'); advertisers 'Buddy Heilig & Sons Electrical Services, Inc.' and 'EDWARD CHARLES HEILIG' (both verified)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": null,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Family-owned, 20+ years in Tucson (website); the home page calls Buddy 'the friendly face of Buddy Heilig & Sons Electric'. AZ ROC 366027",
+    "franchise": false,
+    "employeesEstimate": "~10–20 (office 'phone person' plus multiple licensed technicians named in reviews; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "'Request Service' form and Pay My Bill page; after-hours callers are told to leave a message. No chat, text, booking or review widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Buddy Heilig",
+    "dmTitle": "Namesake and public face of the family business (owner title not stated on site)",
+    "dmSource": "https://buddyelectrical.com/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site lists 'Emergency Repairs' as a service and tells after-hours callers to leave a message: how many 5pm-to-8am panel and outage calls go to voicemail while 32 Google ads keep ringing the phone?",
+    "hooks": [
+      "Family-owned Tucson electrician for 20+ years; Buddy is the face of the brand",
+      "4.9 stars on 353 Google reviews; the owner replies to reviews",
+      "Office hours are Mon–Fri 8–4; after hours the site says 'leave us a message'",
+      "Paying for Google ads (32 creatives) under the Heilig name",
+      "'Emergency Repairs' is its own service page"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://buddyelectrical.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://buddyelectrical.com/about-us"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Buddy+%26+Sons+Electric+2823+N+Alvernon+Way+Tucson"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=buddyelectrical.com"
+      }
+    ],
+    "notes": "Legal owner name not confirmed from an allowed source. The verified Google Ads advertiser is 'EDWARD CHARLES HEILIG', which suggests Buddy = Edward Charles Heilig, but confirm on the call. A BBB listing 'Buddy's Electrical Services LLC' uses the same phone but was not opened. Google shows 'Closes 8 PM', which conflicts with the site's 8–4. Also does commercial and custom-home builds. Verified 2026-09-25."
+  },
+  {
+    "company": "Eco Electric, LLC",
+    "website": "https://www.ecoelectricgroup.com",
+    "vertical": "electrical",
+    "city": "Albuquerque",
+    "region": "NM",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Mon–Thu 7am–5pm; Fri 7am–12pm; Sat–Sun closed",
+    "hoursSource": "Official website footer; Google Maps business profile consistent ('Opens 7 AM Mon')",
+    "phone": "(505) 433-3574",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile. BBB lists a different primary number, (505) 226-7500, plus (505) 977-5696 and (505) 226-1418",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 118,
+    "latestReviewAge": "2 months ago (newest among 'Most relevant' reviews; owner posted an update 3 days ago; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for ecoelectricgroup.com (US, any time). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": null,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": true,
+    "reviewComplaintQuote": "Wasted my time never sent me a price for work.",
+    "locallyOwned": true,
+    "ownershipNote": "Local Albuquerque LLC; BBB lists Daniel Valles as Owner, business started 2/1/2009. The website does not claim family ownership",
+    "franchise": false,
+    "employeesEstimate": "~6–12 (reviews name Andrew, Mike, Daniel and office staff Amalia; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "'Request a free estimate' contact form; no chat, text, booking or review widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Daniel Valles",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/nm/albuquerque/profile/electrician/eco-electric-llc-0806-99130432",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site says they 'respond to an emergency in your home or business', but the office closes at noon on Friday and all weekend: who takes a Friday-afternoon breaker or outage call?",
+    "hooks": [
+      "Owner Daniel Valles has run Eco Electric in Albuquerque since 2009",
+      "4.8 stars on 118 Google reviews; the owner replies to most of them",
+      "Hours are Mon–Thu 7–5, Fri 7–noon, closed weekends",
+      "Authorized contractor for the PNM EV-charger rebate program",
+      "One Google review summary line complains about never getting a price back"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.ecoelectricgroup.com/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/nm/albuquerque/profile/electrician/eco-electric-llc-0806-99130432"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Eco+Electric+6714+4th+St+NW+Albuquerque"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=ecoelectricgroup.com"
+      }
+    ],
+    "notes": "The complaint quote is one of Google's highlighted review snippets (a lead-follow-up complaint, not a missed-call complaint). No 24/7 claim, so the gap rests on 'respond to an emergency' plus the short Friday and closed weekends. Service areas not listed on the home page, so multipleServiceAreas=null. Residential and commercial. Financing not mentioned. Verified 2026-09-25."
+  },
+  {
+    "company": "Kingdom Plumbing, LLC",
+    "website": "https://kingdomplumbing.com",
+    "vertical": "plumbing",
+    "city": "Las Vegas",
+    "region": "NV",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "24/7 emergency service advertised; Google Business Profile shows 'Open 24 hours'",
+    "hoursSource": "Official website header/FAQ; Google Maps business profile",
+    "phone": "(702) 840-5037",
+    "phoneSource": "Official website header ('24/7 Emergency Plumbing') and tel links; matches Google Maps business profile. BBB lists different numbers, (702) 213-6112 and (725) 900-4591",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 449,
+    "latestReviewAge": "3 months ago (newest among 'Most relevant' reviews; owner posted an update 8 hours ago; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 2 ads for kingdomplumbing.com, both Maps/local call-and-message ads, advertiser 'Kingdom Plumbing' (verified)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": null,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Founded 2018 'by a Las Vegas family', started as one truck, still family-owned and operated (About page). BBB lists Nick Hendrix as Managing Member, business started 3/1/2018. NV license #0085422",
+    "franchise": false,
+    "employeesEstimate": "~10–20 (reviews name Jason, Sergio, Carlos, Michael, Nick; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Contact/free-quote form and 'Royal Membership' maintenance plan; no chat, text or booking widget in raw HTML. Its Google ads show a 'Message' button, so Google Business messaging appears to be on. GBP link carries 'digital_domination' UTM tags (a marketing agency)",
+    "sophisticatedContactCenter": false,
+    "dmName": "Nick Hendrix",
+    "dmTitle": "Managing Member (BBB)",
+    "dmSource": "https://www.bbb.org/us/nv/las-vegas/profile/plumber/kingdom-plumbing-llc-1086-90064583",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site promises 'a real person' answers 24/7, 'not a call center': with a crew this size, who is actually picking up at 2am, and what does that cost the techs' sleep?",
+    "hooks": [
+      "Family-founded in 2018 from one truck; now 4.9 stars on 449 Google reviews",
+      "The FAQ says to call 'any time, day or night, and a real person will help you'",
+      "Positions itself against 'faceless plumbing franchises' and call centers",
+      "Running Google Maps call/message ads",
+      "Covers the whole valley: Summerlin, Centennial Hills, Enterprise, Spring Valley"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://kingdomplumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://kingdomplumbing.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/nv/las-vegas/profile/plumber/kingdom-plumbing-llc-1086-90064583"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Kingdom+Plumbing+8311+Farm+Rd+Las+Vegas"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=kingdomplumbing.com"
+      }
+    ],
+    "notes": "Owner name is inconsistent: Google review snippets say 'Jason the owner', while BBB lists Nick Hendrix as Managing Member. Confirm who owns it on the call. They claim live 24/7 answering, so afterHoursGap=null (can't verify who answers overnight). Could not sort reviews by newest. Verified 2026-09-25."
+  },
+  {
+    "company": "Hyde Park Plumbing, LLC",
+    "website": "https://hydepark-plumbing.com",
+    "vertical": "plumbing",
+    "city": "Boise",
+    "region": "ID",
+    "country": "US",
+    "timezone": "America/Boise",
+    "hours": "Mon–Sun 7am–8pm, '24/7 Emergency Available'; online requests are 'processed Mon-Sun 7am-8pm'. Google Business Profile shows 'Open 24 hours'",
+    "hoursSource": "Official website (About page and booking section); Google Maps business profile",
+    "phone": "(208) 871-9113",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.8,
+    "googleReviews": 69,
+    "latestReviewAge": "4 months ago (newest among 'Most relevant' reviews; owner posted an update 1 hour ago; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for hydepark-plumbing.com (US, any time). Local Services Ads not checked.",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website says 'Family-owned and locally operated since 2009'; BBB lists Jeff Naumann as Owner, business started 11/2/2011; reviews mention Jeff doing the work",
+    "franchise": false,
+    "employeesEstimate": "~5–10 (small crew; the site claims 30+ years combined technician experience; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "LeadConnector (GoHighLevel) 'service-menus' booking page linked from 'Schedule Service Online' / 'Book Online' buttons; multi-step request form. No chat or text widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jeff Naumann",
+    "dmTitle": "Owner",
+    "dmSource": "https://www.bbb.org/us/id/boise/profile/plumber/hyde-park-plumbing-llc-1296-1000015543",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The site says 'when pipes burst at 2am... we answer', but staffed hours are 7am–8pm and online requests wait until then: who picks up overnight when Jeff is the one doing the repipes?",
+    "hooks": [
+      "Owner Jeff Naumann; family-owned Boise plumber since 2009 (license PLB-J-4285)",
+      "4.8 stars on 69 Google reviews; one reviewer praised them for taking an after-hours call",
+      "Listed hours are 7am–8pm daily while 24/7 emergency service is advertised",
+      "Specializes in trenchless sewer and water line work, which is high-ticket",
+      "Site claims '500+ 5-star reviews' against 69 on Google, so reviews may live elsewhere"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://hydepark-plumbing.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://hydepark-plumbing.com/about-us/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/id/boise/profile/plumber/hyde-park-plumbing-llc-1296-1000015543"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Hyde+Park+Plumbing+3704+W+Overland+Rd+Boise"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=hydepark-plumbing.com"
+      }
+    ],
+    "notes": "Google has 69 reviews, below the ideal band but above 40. The website's '500+ reviews / 10,000+ jobs' claims could not be reconciled with Google. Founding year: site says 2009, BBB says 2011. Could not sort reviews by newest. Verified 2026-09-25."
+  },
+  {
+    "company": "Klaus Roofing",
+    "website": "https://klausroofingcolorado.com",
+    "vertical": "roofing",
+    "city": "Colorado Springs",
+    "region": "CO",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Mon–Fri 8am–5pm",
+    "hoursSource": "Official website footer and About page; Google Maps business profile consistent ('Opens 8 AM Mon')",
+    "phone": "(719) 290-5239",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 154,
+    "latestReviewAge": "unknown: the three 'Most relevant' reviews shown were 1, 2 and 5 years old, and the newest-sort menu would not open",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for klausroofingcolorado.com (US, any time). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website says 'local, family owned'; President Jeff Klaus has been in the Colorado Springs housing industry since 1995 (About page); reviews mention Jeff and Grace",
+    "franchise": false,
+    "employeesEstimate": "~5–15 (owner-led; reviews name Jeff and Grace plus crews; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "Instant/online roof estimate tool (Owens Corning-style quote widget) and 'Schedule A Roof Inspection' form; financing page. No chat, text or third-party booking widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jeff Klaus",
+    "dmTitle": "President",
+    "dmSource": "https://klausroofingcolorado.com/about-us/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Hail season is when the phone explodes, and the office is staffed Mon–Fri 8–5: how many storm-night and weekend inspection calls land after hours with nobody to book them?",
+    "hooks": [
+      "Family-owned; President Jeff Klaus has been in Colorado Springs housing since 1995",
+      "4.9 stars on 154 Google reviews; reviewers praise help with insurance claims",
+      "Office hours are Mon–Fri 8–5, closed weekends",
+      "Hail-damage and insurance-claim roofs are the core business",
+      "No Google ads running, while competitors like Storm Guard crowd the market"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://klausroofingcolorado.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://klausroofingcolorado.com/about-us/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Klaus+Roofing+Colorado+Springs"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=klausroofingcolorado.com"
+      }
+    ],
+    "notes": "Review recency not verified and may be low (the highlighted reviews are 1–5 years old). The Google address (12441 Mt Baldy Dr) appears residential, which suggests a home-based office. No 24/7 or emergency claim, so the after-hours gap rests on weekday-only hours for storm-driven demand. Verified 2026-09-25."
+  },
+  {
+    "company": "Doyle Roof Masters Inc",
+    "website": "https://www.doyleroofmasters.com",
+    "vertical": "roofing",
+    "city": "Albuquerque",
+    "region": "NM",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Mon–Fri 7am–4pm; Sat–Sun closed",
+    "hoursSource": "Google Maps business profile (weekly hours table); website does not list hours",
+    "phone": "(505) 242-9447",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.7,
+    "googleReviews": 309,
+    "latestReviewAge": "3 months ago (newest among 'Most relevant' reviews; owner posted an update Sep 16, 2026; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": false,
+    "paidAdsNote": "Google Ads Transparency Center: 0 ads for doyleroofmasters.com (US, any time). Local Services Ads not checked.",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Local since 1974 with 50+ years of service. The Our Team page lists Founder and President Jim Doyle and CFO Teresa Doyle, with Byron Killian (SVP & Sales) and Paula Killian (Divisional VP & Repairs), so it looks family-run",
+    "franchise": false,
+    "employeesEstimate": "~15–30 (Our Team page lists several VPs and sales leads plus crews; no stated count)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "'Free Roof Inspection' contact form; Google profile also links to roofr.com (Roofr roofing estimate/CRM tool). No chat, text or booking widget found in the site's raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Jim Doyle",
+    "dmTitle": "Founder and President (Teresa Doyle is CFO and answers Google reviews)",
+    "dmSource": "https://www.doyleroofmasters.com/our-team",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The office closes at 4pm on weekdays and all weekend, which is when monsoon-season leaks tend to show up: who answers a Saturday call about water coming through the ceiling?",
+    "hooks": [
+      "Albuquerque roofer since 1974; Jim Doyle is founder and president, Teresa Doyle is CFO",
+      "4.7 stars on 309 Google reviews; Teresa personally replies to reviews",
+      "Google hours are Mon–Fri 7–4, closed weekends",
+      "Their stated core value: 'We will replace no roof before its time'",
+      "Offers an insurance-claims concierge and financing"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.doyleroofmasters.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.doyleroofmasters.com/about-us"
+      },
+      {
+        "label": "Our Team page",
+        "url": "https://www.doyleroofmasters.com/our-team"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Doyle+Roof+Masters+2905+Broadway+Blvd+SE+Albuquerque"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=doyleroofmasters.com"
+      }
+    ],
+    "notes": "No 24/7 or emergency claim was found, so the gap rests on the 7–4 weekday hours. Also does commercial (apartments, offices). Could not sort reviews by newest. The Killian relationship to the Doyles is not stated. Verified 2026-09-25."
+  },
+  {
+    "company": "High Country Sewer & Septic, LLC",
+    "website": "https://www.highcountryhydro.com",
+    "vertical": "septic",
+    "city": "Colorado Springs",
+    "region": "CO",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Google Business Profile: Mon–Fri 7am–5pm, Sat–Sun closed. Website footer says 'Opening Hours Mon - Sun: 24 Hours'",
+    "hoursSource": "Google Maps business profile (weekly hours table); official website footer",
+    "phone": "(719) 820-2377",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile and BBB",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5.0,
+    "googleReviews": 170,
+    "latestReviewAge": "4 months ago (newest among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 3 ads for highcountryhydro.com (Maps/local ads with Call, Book and Get quote buttons, 'Family owned', 'Free estimate'), advertiser 'High Country Sewer & Septic LLC' (verified)",
+    "emergency247": true,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": true,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Website says family-owned, 'our owner is hands on with every job', serving Colorado since 2011. BBB lists owners James Barber and Vincent J Hoefling Jr.; the current LLC's business start is 3/26/2024",
+    "franchise": false,
+    "employeesEstimate": "~5–15 (reviews mention Vincent, drivers and a 'scheduling team'; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "ServiceTitan online scheduler embedded (embed.scheduler.servicetitan.com, set to auto-open); Google 'Book online' enabled; contact form",
+    "sophisticatedContactCenter": false,
+    "dmName": "Vincent J Hoefling Jr.",
+    "dmTitle": "Owner (co-owner with James Barber, per BBB)",
+    "dmSource": "https://www.bbb.org/us/co/colorado-springs/profile/hydrovac/high-country-sewer-septic-llc-0785-1000032597",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "The website says 'Mon–Sun: 24 Hours' but Google shows 7–5 on weekdays and closed weekends: when a septic backup hits on a Saturday, does the call reach Vincent or go to voicemail?",
+    "hooks": [
+      "5.0 stars on 170 Google reviews; reviewers repeatedly name Vincent",
+      "The website footer claims 24-hour, 7-day hours while Google lists Mon–Fri 7–5",
+      "A review praises Vincent for 'after-hours communication'",
+      "One-stop septic shop: pumping, install, repair and excavation from Woodland Park to Pueblo West",
+      "Running Google Maps ads with Call/Book buttons"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.highcountryhydro.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.highcountryhydro.com/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/co/colorado-springs/profile/hydrovac/high-country-sewer-septic-llc-0785-1000032597"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/High+Country+Sewer+and+Septic+Colorado+Springs"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=highcountryhydro.com"
+      }
+    ],
+    "notes": "The website says 'since 2011' and a family history of 14+ years, while the BBB LLC start is 2024, which suggests a rebrand or new entity; not verified. Uses ServiceTitan online scheduling, a sign of some sophistication. Financing not mentioned. Could not sort reviews by newest. Verified 2026-09-25."
+  },
+  {
+    "company": "Advanced Arborists Tree Service",
+    "website": "https://advancedarboristsspokane.com",
+    "vertical": "tree",
+    "city": "Spokane Valley",
+    "region": "WA",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "hours": "Website: '7 Am to 7 Pm'. Google Business Profile: Fri 8am–5pm, Sat 8am–3pm, Sun closed (other weekday rows not captured)",
+    "hoursSource": "Official website About page; Google Maps business profile hours table",
+    "phone": "(509) 999-8603",
+    "phoneSource": "Official website header and tel links; matches Google Maps business profile and the phone shown in its Google ads",
+    "phoneMatchesGoogle": true,
+    "googleRating": 5.0,
+    "googleReviews": 164,
+    "latestReviewAge": "5 months ago (newest among 'Most relevant' reviews; owner posted a photo a day ago; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 6 ads for advancedarboristsspokane.com (call-only search ads 'Call (509) 999-8603 … Spokane's Premier Tree Service Owner Operated, I'm on every Project', plus Maps/local ads); advertiser 'Advanced Arborists' (verified)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": null,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "'A true Owner Operated Business, I'm on every project from start to finish'; owner/operator Eric Cox has 25+ years in tree care (About page; reviews name 'the owner Eric Cox'). ISA member",
+    "franchise": false,
+    "employeesEstimate": "~3–8 (Eric plus a crew; no stated count)",
+    "employeeBand": "5-15",
+    "locations": 1,
+    "existingTools": "'Schedule A Free Consultation' contact form; the site says 'Need a service & ready to book? Call us'. No chat, text or booking widget found in raw HTML",
+    "sophisticatedContactCenter": false,
+    "dmName": "Eric Cox",
+    "dmTitle": "Owner / Operator",
+    "dmSource": "https://advancedarboristsspokane.com/about/",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "Eric is on every job himself and is paying for call-only Google ads: when he's up a tree with a chainsaw running, who answers the call the ad just paid for?",
+    "hooks": [
+      "Owner-operator Eric Cox, 25+ years in tree care; 'I'm on every project from start to finish'",
+      "5.0 stars on 164 Google reviews; Eric replies to nearly every one",
+      "Runs call-only Google ads that push people to phone (509) 999-8603",
+      "Does storm cleanup and hazardous removals; reviewers mention post-storm visits",
+      "Google hours: Saturday 8–3, closed Sunday"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://advancedarboristsspokane.com/"
+      },
+      {
+        "label": "About page",
+        "url": "https://advancedarboristsspokane.com/about/"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/Advanced+Arborists+Tree+Service+Spokane+Valley"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=advancedarboristsspokane.com"
+      }
+    ],
+    "notes": "Small owner-operator crew; the employee count may be below 5, so the band is a best guess. Tree is A-tier; urgency comes mainly from storm damage. The hours conflict: the site says 7am–7pm, while Google shows Fri 8–5 and Sat 8–3. Not advertised as 24/7. Could not sort reviews by newest. Verified 2026-09-25."
+  },
+  {
+    "company": "BASEco Foundation and Concrete Solutions",
+    "website": "https://www.baseco.net",
+    "vertical": "foundation",
+    "city": "Salt Lake City",
+    "region": "UT",
+    "country": "US",
+    "timezone": "America/Denver",
+    "hours": "Mon–Fri 8am–5pm; Sat–Sun closed",
+    "hoursSource": "Google Maps business profile (weekly hours table); website does not list hours",
+    "phone": "(801) 877-1888",
+    "phoneSource": "Official website header ('Call Us Now: 801-877-1888') and tel link; matches Google Maps business profile. The website footer and BBB primary number is (801) 200-3280; BBB also lists (800) 364-4902, (801) 821-5800 and (801) 821-8500",
+    "phoneMatchesGoogle": true,
+    "googleRating": 4.9,
+    "googleReviews": 356,
+    "latestReviewAge": "3 months ago (newest among 'Most relevant' reviews; could not sort by newest)",
+    "recentReviews": null,
+    "paidAds": true,
+    "paidAdsNote": "Google Ads Transparency Center: 26 ads for baseco.net (search text ads such as 'Residential & Commercial - Free Foundation...' and 'Concrete Lifting Utah - Affordable Prices', plus image/video ads); advertiser 'ROCK THOMAS JEFFERIES' (verified)",
+    "emergency247": false,
+    "residential": true,
+    "freeEstimate": true,
+    "onlineBooking": false,
+    "chatOrText": false,
+    "financing": true,
+    "multipleServiceAreas": true,
+    "phonePrimaryCta": true,
+    "afterHoursGap": true,
+    "reviewResponseComplaints": false,
+    "reviewComplaintQuote": null,
+    "locallyOwned": true,
+    "ownershipNote": "Independent Utah company that 'originated in the Salt Lake Valley' and grew statewide and into Idaho (About page). No family-owned claim. BBB lists Rock Jefferies as Manager (business started 4/29/2013), and Rock Thomas Jefferies is the verified Google Ads advertiser, which suggests he is the owner",
+    "franchise": false,
+    "employeesEstimate": "~10–25 (reviews name estimators Camron Golub and Grant plus install crews; statewide coverage; no stated count)",
+    "employeeBand": "16-50",
+    "locations": 1,
+    "existingTools": "'Click To Schedule Appointment' form; 12-month same-as-cash financing. An empty Podium script block remains in the HTML (Podium appears to have been removed). No active chat, text or booking widget found",
+    "sophisticatedContactCenter": false,
+    "dmName": "Rock Jefferies",
+    "dmTitle": "Manager (BBB); likely owner",
+    "dmSource": "https://www.bbb.org/us/ut/salt-lake-city/profile/foundation-repair/baseco-foundation-and-concrete-solutions-1126-22337875",
+    "directLine": null,
+    "directLineSource": null,
+    "opportunity": "With 26 Google ads driving calls from Logan to St. George and the office open only weekdays 8–5, how many evening and weekend 'my basement is cracking' calls reach an estimator the same day?",
+    "hooks": [
+      "4.9 stars on 356 Google reviews; reviewers praise estimators Camron and Grant",
+      "Covers the whole Wasatch Front plus Cedar City and St. George, and now Idaho",
+      "Running 26 Google ads under Rock Jefferies' name",
+      "Office hours are Mon–Fri 8–5, closed weekends",
+      "Podium was removed from the site at some point (an empty script tag remains)"
+    ],
+    "sources": [
+      {
+        "label": "Home page",
+        "url": "https://www.baseco.net/"
+      },
+      {
+        "label": "About page",
+        "url": "https://www.baseco.net/about/"
+      },
+      {
+        "label": "BBB profile",
+        "url": "https://www.bbb.org/us/ut/salt-lake-city/profile/foundation-repair/baseco-foundation-and-concrete-solutions-1126-22337875"
+      },
+      {
+        "label": "Google Maps",
+        "url": "https://www.google.com/maps/search/BASEco+Foundation+Repair+369+E+900+S+Salt+Lake+City"
+      },
+      {
+        "label": "Ads Transparency Center",
+        "url": "https://adstransparency.google.com/?region=US&domain=baseco.net"
+      }
+    ],
+    "notes": "The Google address is 'Located in: AAA POSTAL SHOP', a mailbox rather than a shop. Ownership is not stated on the site; Rock Jefferies as owner is inferred from the BBB (Manager) and the Ads advertiser name, so confirm on the call. Many phone numbers suggest call tracking. Foundation work is less urgent (A-tier). Could not sort reviews by newest. Verified 2026-09-25."
+  }
+]
